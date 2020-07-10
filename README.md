@@ -21,3 +21,5 @@ I'm also an Airsoft lover ❤️
 - <a href="https://www.linkedin.com/in/hugo-bollon-68a2381a4/">Linkedin</a> 👨‍💼
 - <a href="https://www.instagram.com/_hbollon">Instagram</a> 📷
 - <a href="https://hugobollon.me">Portfolio</a> 💼
+
+Consider leaving a ⭐ if one of my repo helped you ! 😁 Thanks !
