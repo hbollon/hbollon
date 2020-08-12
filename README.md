@@ -23,3 +23,7 @@ I'm also an Airsoft lover ❤️
 - <a href="https://hugobollon.me">Portfolio</a> 💼
 
 Consider leaving a ⭐ if one of my repo helped you ! 😁 Thanks !
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hbollon&count_private=true&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbollon&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
