@@ -8,10 +8,11 @@
     <a href="https://github.com/hbollon/"><img src="https://img.shields.io/github/followers/hbollon.svg?label=Follow%20@hbollon&style=social"></a> 
 </p>
 
-As a fresh master's student in computer science, my days are mainly filled with programming stuff. I love the open-source world and I try my best to contribute to it ! 🙈 <br/>
+As a fresh Master's student in computer science at University Savoie Mont-Blanc, my days are mainly filled with programming stuff. I love the open-source world and I try my best to contribute to it ! 🙈 <br/>
 I'm currently working on several personnal projects such as :
-- 🎮 A Unity game project for Android -> [![LabyrinthEvolved](https://img.shields.io/static/v1?label=Project:&message=LabyrinthEvolved&color=Blue)](https://github.com/hbollon/LabyrinthEvolved)
-- 💼 Portfolio template builded with VueJS -> [![Portfolio-VueJS](https://img.shields.io/static/v1?label=Project:&message=portfolio-vuejs&color=Blue)](https://github.com/hbollon/portfolio-vuejs)
+- 🎮 A Unity game project for Android -> [![Gyro-Ball](https://img.shields.io/static/v1?label=Project:&message=Gyro'Ball&color=Blue)](https://github.com/hbollon/Gyro-Ball)
+- 📚 Golang library for string comparison and edit distances algorithms -> [![go-edlib](https://img.shields.io/static/v1?label=Project:&message=go-edlib&color=Blue)](https://github.com/hbollon/go-edlib)
+- 🤖 Facebook Messenger chatbot with Levenshtein algo for pattern matching -> [![gobot](https://img.shields.io/static/v1?label=Project:&message=gobot&color=Blue)](https://github.com/hbollon/gobot)
 - 📱 An Android library for manage sqlite db -> [![android-sqlite-toolbox](https://img.shields.io/static/v1?label=Project:&message=android-sqlite-toolbox&color=Blue)](https://github.com/hbollon/android-sqlite-toolbox)
 <br/><sup>**[Click here](https://github.com/hbollon?tab=repositories)** *to view my other projects.</sup>*
 
