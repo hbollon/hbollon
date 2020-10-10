@@ -25,5 +25,15 @@ I'm also an Airsoft lover ❤️
 
 Consider leaving a ⭐ if one of my repo helped you ! 😁 Thanks !
 
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hbollon&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbollon&layout=compact&theme=tokyonight&exclude_repo=NewSantoline)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Hugo's github stat" src="https://github-readme-stats.vercel.app/api?username=hbollon&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Hugo's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbollon&layout=compact&theme=tokyonight&exclude_repo=NewSantoline" />
+    </a>
+    <br>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Hugo's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=hbollon&theme=tokyonight" />
+    </a>
+</div>
