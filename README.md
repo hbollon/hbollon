@@ -10,16 +10,15 @@
 
 As a fresh Master's student in computer science at University Savoie Mont-Blanc, my days are mainly filled with programming stuff. I love the open-source world and I try my best to contribute to it ! 🙈 <br/>
 I'm currently working on several personnal projects such as :
-- 🎮 A Unity game project for Android -> [![Gyro-Ball](https://img.shields.io/static/v1?label=Project:&message=Gyro'Ball&color=Blue)](https://github.com/hbollon/Gyro-Ball)
 - 📚 Golang library for string comparison and edit distances algorithms -> [![go-edlib](https://img.shields.io/static/v1?label=Project:&message=go-edlib&color=Blue)](https://github.com/hbollon/go-edlib)
-- 🤖 Facebook Messenger chatbot with Levenshtein algo for pattern matching -> [![gobot](https://img.shields.io/static/v1?label=Project:&message=gobot&color=Blue)](https://github.com/hbollon/gobot)
-- 📱 An Android library for manage sqlite db -> [![android-sqlite-toolbox](https://img.shields.io/static/v1?label=Project:&message=android-sqlite-toolbox&color=Blue)](https://github.com/hbollon/android-sqlite-toolbox)
+- 🤖 Instagram DM bot client in Python -> [![IG_Automation_Bot](https://img.shields.io/static/v1?label=Project:&message=IG_Automation_Bot&color=Blue)](https://github.com/hbollon/IG_Automation_Bot)
+- 📱 An Android application using Flutter + SpringBoot REST server -> [![SkillsList](https://img.shields.io/static/v1?label=Project:&message=SkillsList&color=Blue)](https://github.com/hbollon/SkillsList)
 <br/><sup>**[Click here](https://github.com/hbollon?tab=repositories)** *to view my other projects.</sup>*
 
 I'm also an Airsoft lover ❤️
 
 **Some links to learn more about me or to contact me :**
-- <a href="https://www.linkedin.com/in/hugo-bollon-68a2381a4/">Linkedin</a> 👨‍💼
+- <a href="https://www.linkedin.com/in/hugobollon">Linkedin</a> 👨‍💼
 - <a href="https://www.instagram.com/_hbollon">Instagram</a> 📷
 - <a href="https://hugobollon.me">Portfolio</a> 💼
 
