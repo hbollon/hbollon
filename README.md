@@ -33,6 +33,6 @@ Consider leaving a ⭐ if one of my repo helped you ! 😁 Thanks !
     </a>
     <br>
     <a href="https://wakatime.com/@hbollon">
-        <img alt="Hugo's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=hbollon&theme=dark" />
+        <img alt="Hugo's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=hbollon&theme=dark&layout=compact" />
     </a>
 </div>
