@@ -11,7 +11,7 @@
 As a fresh Master's student in computer science at University Savoie Mont-Blanc, my days are mainly filled with programming stuff. I love the open-source world and I try my best to contribute to it ! 🙈 <br/>
 I'm currently working on several personnal projects such as :
 - 📚 Golang library for string comparison and edit distances algorithms -> [![go-edlib](https://img.shields.io/static/v1?label=Project:&message=go-edlib&color=Blue)](https://github.com/hbollon/go-edlib)
-- 🤖 Instagram DM bot client in Python -> [![IG_Automation_Bot](https://img.shields.io/static/v1?label=Project:&message=IG_Automation_Bot&color=Blue)](https://github.com/hbollon/IG_Automation_Bot)
+- 🤖 Instagram DM bot in Golang with GUI and CLI interfaces -> [![go-instadm](https://img.shields.io/static/v1?label=Project:&message=go-instadm&color=Blue)](https://github.com/hbollon/go-instadm)
 - 📱 An Android application using Flutter + SpringBoot REST server -> [![SkillsList](https://img.shields.io/static/v1?label=Project:&message=SkillsList&color=Blue)](https://github.com/hbollon/SkillsList)
 <br/><sup>**[Click here](https://github.com/hbollon?tab=repositories)** *to view my other projects.</sup>*
 
@@ -24,14 +24,21 @@ I'm also an Airsoft lover ❤️
 
 Consider leaving a ⭐ if one of my repo helped you ! 😁 Thanks !
 
+<hr>
+
+<div align="center">
+    <p><strong>🔥 Highlighted repo 🔥</strong></p>
+    <a href="https://github.com/hbollon/go-instadm">
+        <img alt="highlighted repo" src="https://github-readme-stats.vercel.app/api/pin/?username=hbollon&repo=go-instadm&theme=dark" />
+    </a>
+</div>
+
+<hr>
+
 <div align="center">
     <a>
         <img alt="Hugo's github stat" src="https://github-readme-stats.vercel.app/api?username=hbollon&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
     </a>
-    <a>
-        <img alt="Hugo's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbollon&layout=compact&theme=dark&exclude_repo=NewSantoline" />
-    </a>
-    <br>
     <a href="https://wakatime.com/@hbollon">
         <img alt="Hugo's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=hbollon&theme=dark&layout=compact" />
     </a>
