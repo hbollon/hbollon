@@ -28,8 +28,8 @@ Consider leaving a ⭐ if one of my repo helped you ! 😁 Thanks !
 
 <div align="center">
     <p><strong>🔥 Highlighted repo 🔥</strong></p>
-    <a href="https://github.com/hbollon/go-instadm">
-        <img alt="highlighted repo" src="https://github-readme-stats.vercel.app/api/pin/?username=hbollon&repo=go-instadm&theme=dark" />
+    <a href="https://github.com/hbollon/igopher">
+        <img alt="highlighted repo" src="https://github-readme-stats.vercel.app/api/pin/?username=hbollon&repo=igopher&theme=dark" />
     </a>
 </div>
 
