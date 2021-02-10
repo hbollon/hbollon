@@ -5,7 +5,12 @@
 <p align="center"> 
     <a href="https://github.com/hbollon/"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github" alt="PRs Welcome"></a> 
     <a href="https://github.com/hbollon/"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source Lover"></a>
-    <a href="https://github.com/hbollon/"><img src="https://img.shields.io/github/followers/hbollon.svg?label=Follow%20@hbollon&style=social"></a> 
+    <a href="https://github.com/hbollon/"><img src="https://komarev.com/ghpvc/?username=hbollon"></a>
+    <a href="https://github.com/hbollon/"><img src="https://img.shields.io/github/followers/hbollon.svg?label=Follow%20@hbollon&style=social"></a>
+</p>
+
+<p align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hbollon&theme=onedark&margin-w=15&margin-h=15&no-frame=true&column=7"/></a>
 </p>
 
 As a fresh Master's student in computer science at University Savoie Mont-Blanc, my days are mainly filled with programming stuff. I love the open-source world and I try my best to contribute to it ! 🙈 <br/>
