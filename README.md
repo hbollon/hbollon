@@ -14,11 +14,11 @@
 </p>
 
 As a fresh Master's student in computer science at University Savoie Mont-Blanc, my days are mainly filled with programming stuff. I love the open-source world and I try my best to contribute to it ! 🙈 <br/>
-I'm currently working on several personnal projects such as :
+I'm currently working on several personal projects such as :
 - 📚 Golang library for string comparison and edit distances algorithms -> [![go-edlib](https://img.shields.io/static/v1?label=Project:&message=go-edlib&color=Blue)](https://github.com/hbollon/go-edlib)
-- 🤖 Instagram DM bot in Golang with GUI and CLI interfaces -> [![go-instadm](https://img.shields.io/static/v1?label=Project:&message=go-instadm&color=Blue)](https://github.com/hbollon/go-instadm)
-- 📱 An Android application using Flutter + SpringBoot REST server -> [![SkillsList](https://img.shields.io/static/v1?label=Project:&message=SkillsList&color=Blue)](https://github.com/hbollon/SkillsList)
-<br/><sup>**[Click here](https://github.com/hbollon?tab=repositories)** *to view my other projects.</sup>*
+- 🤖 Instagram DM bot in Golang with GUI and TUI interfaces -> [![IGopher](https://img.shields.io/static/v1?label=Project:&message=IGopher&color=Blue)](https://github.com/hbollon/IGopher)
+
+<sup>**[Click here](https://github.com/hbollon?tab=repositories)** *to view my other projects.</sup>*
 
 I'm also an Airsoft lover ❤️
 
