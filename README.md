@@ -44,7 +44,4 @@ Consider leaving a ⭐ if one of my repo helped you ! 😁 Thanks !
     <a>
         <img alt="Hugo's github stat" src="https://github-readme-stats.vercel.app/api?username=hbollon&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
     </a>
-    <a href="https://wakatime.com/@hbollon">
-        <img alt="Hugo's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=hbollon&theme=dark&layout=compact" />
-    </a>
 </div>
