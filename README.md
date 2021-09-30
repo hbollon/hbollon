@@ -44,8 +44,8 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(frontend): performances issue on plans fetching](https://github.com/camptocamp/terraboard/pull/212) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (4 weeks ago)
-- [fix(frontend): undefined error on plan view without outputs changes](https://github.com/camptocamp/terraboard/pull/211) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (4 weeks ago)
+- [fix(frontend): performances issue on plans fetching](https://github.com/camptocamp/terraboard/pull/212) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 month ago)
+- [fix(frontend): undefined error on plan view without outputs changes](https://github.com/camptocamp/terraboard/pull/211) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 month ago)
 - [fix(json): plan&#39;s variables parsing error](https://github.com/camptocamp/terraboard/pull/210) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 month ago)
 - [docs: add plan&#39;s submition documentation in readme](https://github.com/camptocamp/terraboard/pull/209) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 month ago)
 - [fix(chrome): DevToolsActivePort file doesn&#39;t exist error on linux (#8)](https://github.com/hbollon/IGopher/pull/10) on [hbollon/IGopher](https://github.com/hbollon/IGopher) (1 month ago)
