@@ -44,7 +44,7 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
-- [test: improve overall coverage with mocking and unit testing](https://github.com/camptocamp/terraboard/pull/213) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 day ago)
+- [test: improve overall coverage with mocking and unit testing](https://github.com/camptocamp/terraboard/pull/213) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (2 days ago)
 - [fix(frontend): performances issue on plans fetching](https://github.com/camptocamp/terraboard/pull/212) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 month ago)
 - [fix(frontend): undefined error on plan view without outputs changes](https://github.com/camptocamp/terraboard/pull/211) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 month ago)
 - [fix(json): plan&#39;s variables parsing error](https://github.com/camptocamp/terraboard/pull/210) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 month ago)
