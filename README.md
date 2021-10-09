@@ -44,10 +44,10 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(plan): process plan&#39;s status from ci exit-code](https://github.com/camptocamp/terraboard/pull/215) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (today)
-- [fix: plans that didn&#39;t send to Terraboard if there were non-empty diff](https://github.com/camptocamp/terraform-gitlabci-pipelines/pull/8) on [camptocamp/terraform-gitlabci-pipelines](https://github.com/camptocamp/terraform-gitlabci-pipelines) (today)
-- [docs(swagger): add swagger documentation and serve it](https://github.com/camptocamp/terraboard/pull/214) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 day ago)
-- [test: improve overall coverage with mocking and unit testing](https://github.com/camptocamp/terraboard/pull/213) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (3 days ago)
+- [feat(plan): process plan&#39;s status from ci exit-code](https://github.com/camptocamp/terraboard/pull/215) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 day ago)
+- [fix: plans that didn&#39;t send to Terraboard if there were non-empty diff](https://github.com/camptocamp/terraform-gitlabci-pipelines/pull/8) on [camptocamp/terraform-gitlabci-pipelines](https://github.com/camptocamp/terraform-gitlabci-pipelines) (1 day ago)
+- [docs(swagger): add swagger documentation and serve it](https://github.com/camptocamp/terraboard/pull/214) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (2 days ago)
+- [test: improve overall coverage with mocking and unit testing](https://github.com/camptocamp/terraboard/pull/213) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (4 days ago)
 - [fix(frontend): performances issue on plans fetching](https://github.com/camptocamp/terraboard/pull/212) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 month ago)
 
 #### 💬 Feedback
