@@ -20,9 +20,9 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [hbollon/go-hash](https://github.com/hbollon/go-hash) -  (today)
-- [hbollon/IGopher](https://github.com/hbollon/IGopher) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP) (today)
-- [hbollon/go-middleware](https://github.com/hbollon/go-middleware) -  (3 days ago)
+- [hbollon/go-hash](https://github.com/hbollon/go-hash) -  (1 day ago)
+- [hbollon/IGopher](https://github.com/hbollon/IGopher) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP) (1 day ago)
+- [hbollon/go-middleware](https://github.com/hbollon/go-middleware) -  (4 days ago)
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (1 week ago)
 - [hbollon/my-dotfiles](https://github.com/hbollon/my-dotfiles) - My Linux config files for all my differents environments! (1 month ago)
 
@@ -47,7 +47,7 @@ I'm also an Airsoft lover ❤️
 - [feat(plan): process plan&#39;s status from ci exit-code](https://github.com/camptocamp/terraboard/pull/215) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 week ago)
 - [fix: plans that didn&#39;t send to Terraboard if there were non-empty diff](https://github.com/camptocamp/terraform-gitlabci-pipelines/pull/8) on [camptocamp/terraform-gitlabci-pipelines](https://github.com/camptocamp/terraform-gitlabci-pipelines) (1 week ago)
 - [docs(swagger): add swagger documentation and serve it](https://github.com/camptocamp/terraboard/pull/214) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 week ago)
-- [test: improve overall coverage with mocking and unit testing](https://github.com/camptocamp/terraboard/pull/213) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 week ago)
+- [test: improve overall coverage with mocking and unit testing](https://github.com/camptocamp/terraboard/pull/213) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (2 weeks ago)
 - [fix(frontend): performances issue on plans fetching](https://github.com/camptocamp/terraboard/pull/212) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 month ago)
 
 #### 💬 Feedback
