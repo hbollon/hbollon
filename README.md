@@ -36,19 +36,19 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.0.0](https://github.com/camptocamp/terraboard/releases/tag/v2.0.0), today) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 - [hbollon/go-edlib](https://github.com/hbollon/go-edlib) ([v1.4.0](https://github.com/hbollon/go-edlib/releases/tag/v1.4.0), 1 month ago) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc...
 - [hbollon/IGopher](https://github.com/hbollon/IGopher) ([v0.3.0](https://github.com/hbollon/IGopher/releases/tag/v0.3.0), 2 months ago) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP)
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([2.0.0-alpha.2](https://github.com/camptocamp/terraboard/releases/tag/2.0.0-alpha.2), 2 months ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 - [hbollon/release-please-go-test](https://github.com/hbollon/release-please-go-test) ([v1.0.0](https://github.com/hbollon/release-please-go-test/releases/tag/v1.0.0), 2 months ago) - 
 - [hbollon/proxy-login-automator](https://github.com/hbollon/proxy-login-automator) ([v1.0.0](https://github.com/hbollon/proxy-login-automator/releases/tag/v1.0.0), 5 months ago) - 🚀 Node.js application to automatically inject user/password to http proxy server via a local forwarder. Also support PAC servers.
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: run go mod tidy](https://github.com/camptocamp/terraboard/pull/220) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (today)
+- [ci: remove package-name attribute from release-please workflow](https://github.com/camptocamp/terraboard/pull/219) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (today)
 - [refactor: now parse flags in a dedicated struct](https://github.com/camptocamp/terraboard/pull/217) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (today)
 - [feat(plan): process plan&#39;s status from ci exit-code](https://github.com/camptocamp/terraboard/pull/215) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (2 weeks ago)
 - [fix: plans that didn&#39;t send to Terraboard if there were non-empty diff](https://github.com/camptocamp/terraform-gitlabci-pipelines/pull/8) on [camptocamp/terraform-gitlabci-pipelines](https://github.com/camptocamp/terraform-gitlabci-pipelines) (2 weeks ago)
-- [docs(swagger): add swagger documentation and serve it](https://github.com/camptocamp/terraboard/pull/214) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (2 weeks ago)
-- [test: improve overall coverage with mocking and unit testing](https://github.com/camptocamp/terraboard/pull/213) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (2 weeks ago)
 
 #### 💬 Feedback
 
