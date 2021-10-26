@@ -44,11 +44,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(swagger): move swagger redirection on / instead on /swagger/](https://github.com/camptocamp/terraboard/pull/221) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (today)
 - [chore: run go mod tidy](https://github.com/camptocamp/terraboard/pull/220) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 day ago)
 - [ci: remove package-name attribute from release-please workflow](https://github.com/camptocamp/terraboard/pull/219) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 day ago)
 - [refactor: now parse flags in a dedicated struct](https://github.com/camptocamp/terraboard/pull/217) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 day ago)
 - [feat(plan): process plan&#39;s status from ci exit-code](https://github.com/camptocamp/terraboard/pull/215) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (2 weeks ago)
-- [fix: plans that didn&#39;t send to Terraboard if there were non-empty diff](https://github.com/camptocamp/terraform-gitlabci-pipelines/pull/8) on [camptocamp/terraform-gitlabci-pipelines](https://github.com/camptocamp/terraform-gitlabci-pipelines) (2 weeks ago)
 
 #### 💬 Feedback
 
