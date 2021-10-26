@@ -21,8 +21,8 @@ I'm also an Airsoft lover ❤️
 #### 👷 Check out what I'm currently working on
 
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (today)
+- [hbollon/IGopher](https://github.com/hbollon/IGopher) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP) (today)
 - [hbollon/go-hash](https://github.com/hbollon/go-hash) -  (2 days ago)
-- [hbollon/IGopher](https://github.com/hbollon/IGopher) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP) (1 week ago)
 - [hbollon/go-middleware](https://github.com/hbollon/go-middleware) -  (1 week ago)
 - [hbollon/my-dotfiles](https://github.com/hbollon/my-dotfiles) - My Linux config files for all my differents environments! (1 month ago)
 
