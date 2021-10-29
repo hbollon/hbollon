@@ -20,10 +20,10 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (2 days ago)
-- [hbollon/IGopher](https://github.com/hbollon/IGopher) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP) (2 days ago)
-- [hbollon/go-hash](https://github.com/hbollon/go-hash) -  (4 days ago)
-- [hbollon/go-middleware](https://github.com/hbollon/go-middleware) -  (1 week ago)
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (3 days ago)
+- [hbollon/IGopher](https://github.com/hbollon/IGopher) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP) (3 days ago)
+- [hbollon/go-hash](https://github.com/hbollon/go-hash) -  (5 days ago)
+- [hbollon/go-middleware](https://github.com/hbollon/go-middleware) -  (2 weeks ago)
 - [hbollon/my-dotfiles](https://github.com/hbollon/my-dotfiles) - My Linux config files for all my differents environments! (1 month ago)
 
 #### 🌱 My latest projects
@@ -36,19 +36,19 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [hbollon/IGopher](https://github.com/hbollon/IGopher) ([v0.3.1](https://github.com/hbollon/IGopher/releases/tag/v0.3.1), 2 days ago) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP)
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.0.0](https://github.com/camptocamp/terraboard/releases/tag/v2.0.0), 3 days ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
+- [hbollon/IGopher](https://github.com/hbollon/IGopher) ([v0.3.1](https://github.com/hbollon/IGopher/releases/tag/v0.3.1), 3 days ago) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP)
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.0.0](https://github.com/camptocamp/terraboard/releases/tag/v2.0.0), 4 days ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 - [hbollon/go-edlib](https://github.com/hbollon/go-edlib) ([v1.4.0](https://github.com/hbollon/go-edlib/releases/tag/v1.4.0), 1 month ago) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc...
 - [hbollon/release-please-go-test](https://github.com/hbollon/release-please-go-test) ([v1.0.0](https://github.com/hbollon/release-please-go-test/releases/tag/v1.0.0), 2 months ago) - 
 - [hbollon/proxy-login-automator](https://github.com/hbollon/proxy-login-automator) ([v1.0.0](https://github.com/hbollon/proxy-login-automator/releases/tag/v1.0.0), 5 months ago) - 🚀 Node.js application to automatically inject user/password to http proxy server via a local forwarder. Also support PAC servers.
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(swagger): move swagger redirection on / instead on /swagger/](https://github.com/camptocamp/terraboard/pull/221) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (2 days ago)
-- [chore: run go mod tidy](https://github.com/camptocamp/terraboard/pull/220) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (3 days ago)
-- [ci: remove package-name attribute from release-please workflow](https://github.com/camptocamp/terraboard/pull/219) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (3 days ago)
-- [refactor: now parse flags in a dedicated struct](https://github.com/camptocamp/terraboard/pull/217) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (3 days ago)
-- [feat(plan): process plan&#39;s status from ci exit-code](https://github.com/camptocamp/terraboard/pull/215) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (2 weeks ago)
+- [fix(swagger): move swagger redirection on / instead on /swagger/](https://github.com/camptocamp/terraboard/pull/221) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (3 days ago)
+- [chore: run go mod tidy](https://github.com/camptocamp/terraboard/pull/220) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (4 days ago)
+- [ci: remove package-name attribute from release-please workflow](https://github.com/camptocamp/terraboard/pull/219) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (4 days ago)
+- [refactor: now parse flags in a dedicated struct](https://github.com/camptocamp/terraboard/pull/217) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (4 days ago)
+- [feat(plan): process plan&#39;s status from ci exit-code](https://github.com/camptocamp/terraboard/pull/215) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (3 weeks ago)
 
 #### 💬 Feedback
 
