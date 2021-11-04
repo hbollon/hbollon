@@ -40,7 +40,7 @@ I'm also an Airsoft lover ❤️
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.0.0](https://github.com/camptocamp/terraboard/releases/tag/v2.0.0), 1 week ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 - [hbollon/go-edlib](https://github.com/hbollon/go-edlib) ([v1.4.0](https://github.com/hbollon/go-edlib/releases/tag/v1.4.0), 1 month ago) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc...
 - [hbollon/release-please-go-test](https://github.com/hbollon/release-please-go-test) ([v1.0.0](https://github.com/hbollon/release-please-go-test/releases/tag/v1.0.0), 3 months ago) - 
-- [hbollon/proxy-login-automator](https://github.com/hbollon/proxy-login-automator) ([v1.0.0](https://github.com/hbollon/proxy-login-automator/releases/tag/v1.0.0), 5 months ago) - 🚀 Node.js application to automatically inject user/password to http proxy server via a local forwarder. Also support PAC servers.
+- [hbollon/proxy-login-automator](https://github.com/hbollon/proxy-login-automator) ([v1.0.0](https://github.com/hbollon/proxy-login-automator/releases/tag/v1.0.0), 6 months ago) - 🚀 Node.js application to automatically inject user/password to http proxy server via a local forwarder. Also support PAC servers.
 
 #### 🔨 Latest Pull Requests I published
 
