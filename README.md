@@ -24,7 +24,7 @@ I'm also an Airsoft lover ❤️
 - [hbollon/crypto-steganography-signature](https://github.com/hbollon/crypto-steganography-signature) -  (1 week ago)
 - [hbollon/go-edlib](https://github.com/hbollon/go-edlib) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc... (1 week ago)
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (3 weeks ago)
-- [hbollon/go-hash](https://github.com/hbollon/go-hash) -  (3 weeks ago)
+- [hbollon/go-hash](https://github.com/hbollon/go-hash) -  (4 weeks ago)
 
 #### 🌱 My latest projects
 
