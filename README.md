@@ -20,9 +20,9 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
+- [hbollon/crypto-steganography-signature](https://github.com/hbollon/crypto-steganography-signature) -  (today)
 - [hbollon/go-edlib](https://github.com/hbollon/go-edlib) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc... (6 days ago)
 - [hbollon/IG_Automation_Bot](https://github.com/hbollon/IG_Automation_Bot) - Python tool for Instagram direct message automation with scheduler, quota management, user blacklist &amp; autonomous user scrapping. Easily configurable through Yaml config files! Not maintained anymore in favor of IGopher (https://github.com/hbollon/IGopher) (6 days ago)
-- [hbollon/crypto-steganography-signature](https://github.com/hbollon/crypto-steganography-signature) -  (6 days ago)
 - [hbollon/proxy-login-automator](https://github.com/hbollon/proxy-login-automator) - 🚀 Node.js application to automatically inject user/password to http proxy server via a local forwarder. Also support PAC servers. (6 days ago)
 - [hbollon/IGopher](https://github.com/hbollon/IGopher) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP) (6 days ago)
 
