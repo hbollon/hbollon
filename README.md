@@ -48,7 +48,7 @@ I'm also an Airsoft lover ❤️
 - [chore: run go mod tidy](https://github.com/camptocamp/terraboard/pull/220) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 month ago)
 - [ci: remove package-name attribute from release-please workflow](https://github.com/camptocamp/terraboard/pull/219) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 month ago)
 - [refactor: now parse flags in a dedicated struct](https://github.com/camptocamp/terraboard/pull/217) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 month ago)
-- [feat(plan): process plan&#39;s status from ci exit-code](https://github.com/camptocamp/terraboard/pull/215) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 month ago)
+- [feat(plan): process plan&#39;s status from ci exit-code](https://github.com/camptocamp/terraboard/pull/215) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (2 months ago)
 
 #### 💬 Feedback
 
