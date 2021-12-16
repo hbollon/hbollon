@@ -44,7 +44,7 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(sks): add default dns domain and record](https://github.com/camptocamp/devops-stack/pull/838) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (today)
+- [feat(sks): add default dns domain and record](https://github.com/camptocamp/devops-stack/pull/838) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 day ago)
 - [fix(swagger): move swagger redirection on / instead on /swagger/](https://github.com/camptocamp/terraboard/pull/221) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 month ago)
 - [chore: run go mod tidy](https://github.com/camptocamp/terraboard/pull/220) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 month ago)
 - [ci: remove package-name attribute from release-please workflow](https://github.com/camptocamp/terraboard/pull/219) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 month ago)
