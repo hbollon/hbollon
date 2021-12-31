@@ -20,7 +20,7 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [hbollon/k8s-voting-app-aws](https://github.com/hbollon/k8s-voting-app-aws) - :wheel_of_dharma: Example of a Kubernetes voting app written in Golang with Terraform definitions to deploy to AWS (today)
+- [hbollon/k8s-voting-app-aws](https://github.com/hbollon/k8s-voting-app-aws) - :wheel_of_dharma: Example of a distributed voting app running on Kubernetes. Written in Golang with Terraform definitions to deploy to AWS (today)
 - [hbollon/IGopher](https://github.com/hbollon/IGopher) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP) (3 weeks ago)
 - [hbollon/crypto-steganography-signature](https://github.com/hbollon/crypto-steganography-signature) -  (1 month ago)
 - [hbollon/go-edlib](https://github.com/hbollon/go-edlib) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc... (1 month ago)
@@ -28,7 +28,7 @@ I'm also an Airsoft lover ❤️
 
 #### 🌱 My latest projects
 
-- [hbollon/k8s-voting-app-aws](https://github.com/hbollon/k8s-voting-app-aws) - :wheel_of_dharma: Example of a Kubernetes voting app written in Golang with Terraform definitions to deploy to AWS
+- [hbollon/k8s-voting-app-aws](https://github.com/hbollon/k8s-voting-app-aws) - :wheel_of_dharma: Example of a distributed voting app running on Kubernetes. Written in Golang with Terraform definitions to deploy to AWS
 - [hbollon/crypto-steganography-signature](https://github.com/hbollon/crypto-steganography-signature) - 
 - [hbollon/go-hash](https://github.com/hbollon/go-hash) - 
 - [hbollon/go-middleware](https://github.com/hbollon/go-middleware) - 
