@@ -20,19 +20,19 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [hbollon/k8s-voting-app-aws](https://github.com/hbollon/k8s-voting-app-aws) - :wheel_of_dharma: Example of a distributed voting app running on Kubernetes. Written in Golang with Terraform definitions to deploy to AWS EKS (4 days ago)
+- [hbollon/k8s-voting-app-aws](https://github.com/hbollon/k8s-voting-app-aws) - :wheel_of_dharma: Example of a distributed voting app running on Kubernetes. Written in Golang with Terraform definitions to deploy to AWS EKS (today)
+- [hbollon/svm-ml-exercise](https://github.com/hbollon/svm-ml-exercise) - Showcase exercise to use svm algorithm in machine learning  (today)
 - [hbollon/IGopher](https://github.com/hbollon/IGopher) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP) (1 month ago)
 - [hbollon/crypto-steganography-signature](https://github.com/hbollon/crypto-steganography-signature) -  (1 month ago)
-- [hbollon/go-edlib](https://github.com/hbollon/go-edlib) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc... (1 month ago)
 - [hbollon/proxy-login-automator](https://github.com/hbollon/proxy-login-automator) - 🚀 Node.js application to automatically inject user/password to http proxy server via a local forwarder. Also support PAC servers. (1 month ago)
 
 #### 🌱 My latest projects
 
+- [hbollon/svm-ml-exercise](https://github.com/hbollon/svm-ml-exercise) - Showcase exercise to use svm algorithm in machine learning 
 - [hbollon/k8s-voting-app-aws](https://github.com/hbollon/k8s-voting-app-aws) - :wheel_of_dharma: Example of a distributed voting app running on Kubernetes. Written in Golang with Terraform definitions to deploy to AWS EKS
 - [hbollon/crypto-steganography-signature](https://github.com/hbollon/crypto-steganography-signature) - 
 - [hbollon/go-hash](https://github.com/hbollon/go-hash) - 
 - [hbollon/go-middleware](https://github.com/hbollon/go-middleware) - 
-- [hbollon/my-dotfiles](https://github.com/hbollon/my-dotfiles) - My Linux config files for all my differents environments!
 
 #### 🔭 Latest releases I've contributed to
 
