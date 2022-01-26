@@ -44,8 +44,8 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(sks): expose local.kubernetes to outputs](https://github.com/camptocamp/devops-stack/pull/850) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (4 days ago)
-- [Division](https://github.com/hbollon/info909/pull/1) on [hbollon/info909](https://github.com/hbollon/info909) (1 week ago)
+- [feat(sks): expose local.kubernetes to outputs](https://github.com/camptocamp/devops-stack/pull/850) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (5 days ago)
+- [Division](https://github.com/hbollon/info909/pull/1) on [hbollon/info909](https://github.com/hbollon/info909) (2 weeks ago)
 - [feat(sks): add default dns domain and record](https://github.com/camptocamp/devops-stack/pull/838) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 month ago)
 - [fix(swagger): move swagger redirection on / instead on /swagger/](https://github.com/camptocamp/terraboard/pull/221) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (3 months ago)
 - [chore: run go mod tidy](https://github.com/camptocamp/terraboard/pull/220) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (3 months ago)
