@@ -23,7 +23,7 @@ I'm also an Airsoft lover ❤️
 - [hbollon/svm-ml-exercise](https://github.com/hbollon/svm-ml-exercise) - Showcase exercise to use svm algorithm in machine learning  (2 weeks ago)
 - [hbollon/k8s-voting-app-aws](https://github.com/hbollon/k8s-voting-app-aws) - :wheel_of_dharma: Example of a distributed voting app running on Kubernetes. Written in Golang with Terraform definitions to deploy to AWS EKS (2 weeks ago)
 - [hbollon/IGopher](https://github.com/hbollon/IGopher) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP) (1 month ago)
-- [hbollon/crypto-steganography-signature](https://github.com/hbollon/crypto-steganography-signature) -  (1 month ago)
+- [hbollon/crypto-steganography-signature](https://github.com/hbollon/crypto-steganography-signature) -  (2 months ago)
 - [hbollon/proxy-login-automator](https://github.com/hbollon/proxy-login-automator) - 🚀 Node.js application to automatically inject user/password to http proxy server via a local forwarder. Also support PAC servers. (2 months ago)
 
 #### 🌱 My latest projects
@@ -44,7 +44,7 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(sks): expose local.kubernetes to outputs](https://github.com/camptocamp/devops-stack/pull/850) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (5 days ago)
+- [feat(sks): expose local.kubernetes to outputs](https://github.com/camptocamp/devops-stack/pull/850) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (6 days ago)
 - [Division](https://github.com/hbollon/info909/pull/1) on [hbollon/info909](https://github.com/hbollon/info909) (2 weeks ago)
 - [feat(sks): add default dns domain and record](https://github.com/camptocamp/devops-stack/pull/838) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 month ago)
 - [fix(swagger): move swagger redirection on / instead on /swagger/](https://github.com/camptocamp/terraboard/pull/221) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (3 months ago)
