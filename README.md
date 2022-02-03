@@ -20,11 +20,11 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (today)
 - [hbollon/go-edlib](https://github.com/hbollon/go-edlib) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc... (3 days ago)
 - [hbollon/IGopher](https://github.com/hbollon/IGopher) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP) (4 days ago)
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (1 week ago)
 - [hbollon/svm-ml-exercise](https://github.com/hbollon/svm-ml-exercise) - Showcase exercise to use svm algorithm in machine learning  (3 weeks ago)
-- [hbollon/k8s-voting-app-aws](https://github.com/hbollon/k8s-voting-app-aws) - :wheel_of_dharma: Example of a distributed voting app running on Kubernetes. Written in Golang with Terraform definitions to deploy to AWS EKS (3 weeks ago)
 
 #### 🌱 My latest projects
 
