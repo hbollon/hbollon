@@ -45,10 +45,10 @@ I'm also an Airsoft lover ❤️
 #### 🔨 Latest Pull Requests I published
 
 - [feat: allow usage of other sources than keybase for gpg keys](https://github.com/hashicorp/terraform-provider-aws/pull/23227) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 week ago)
+- [feat(sks): expose local.kubernetes to outputs](https://github.com/camptocamp/devops-stack/pull/850) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 month ago)
 - [Division](https://github.com/hbollon/info909/pull/1) on [hbollon/info909](https://github.com/hbollon/info909) (1 month ago)
+- [feat(sks): add default dns domain and record](https://github.com/camptocamp/devops-stack/pull/838) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 months ago)
 - [fix(swagger): move swagger redirection on / instead on /swagger/](https://github.com/camptocamp/terraboard/pull/221) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (4 months ago)
-- [chore: run go mod tidy](https://github.com/camptocamp/terraboard/pull/220) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (4 months ago)
-- [ci: remove package-name attribute from release-please workflow](https://github.com/camptocamp/terraboard/pull/219) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (4 months ago)
 
 #### 💬 Feedback
 
