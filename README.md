@@ -23,7 +23,7 @@ I'm also an Airsoft lover ❤️
 - [hbollon/pepites-insolites-website](https://github.com/hbollon/pepites-insolites-website) -  (2 weeks ago)
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (2 weeks ago)
 - [hbollon/go-edlib](https://github.com/hbollon/go-edlib) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc... (3 weeks ago)
-- [hbollon/IGopher](https://github.com/hbollon/IGopher) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP) (3 weeks ago)
+- [hbollon/IGopher](https://github.com/hbollon/IGopher) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP) (4 weeks ago)
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (1 month ago)
 
 #### 🌱 My latest projects
@@ -39,7 +39,7 @@ I'm also an Airsoft lover ❤️
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.54.2](https://github.com/camptocamp/devops-stack/releases/tag/v0.54.2), 1 week ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.1.0](https://github.com/camptocamp/terraboard/releases/tag/v2.1.0), 2 weeks ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 - [hbollon/go-edlib](https://github.com/hbollon/go-edlib) ([v1.6.0](https://github.com/hbollon/go-edlib/releases/tag/v1.6.0), 3 weeks ago) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc...
-- [hbollon/IGopher](https://github.com/hbollon/IGopher) ([v0.4.0](https://github.com/hbollon/IGopher/releases/tag/v0.4.0), 3 weeks ago) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP)
+- [hbollon/IGopher](https://github.com/hbollon/IGopher) ([v0.4.0](https://github.com/hbollon/IGopher/releases/tag/v0.4.0), 4 weeks ago) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP)
 - [hbollon/release-please-go-test](https://github.com/hbollon/release-please-go-test) ([v1.0.0](https://github.com/hbollon/release-please-go-test/releases/tag/v1.0.0), 6 months ago) - 
 
 #### 🔨 Latest Pull Requests I published
