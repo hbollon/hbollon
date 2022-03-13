@@ -47,7 +47,7 @@ I'm also an Airsoft lover ❤️
 - [fix(build): invalid version number displayed (#229)](https://github.com/camptocamp/terraboard/pull/231) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 week ago)
 - [feat: allow usage of other sources than keybase for gpg keys](https://github.com/hashicorp/terraform-provider-aws/pull/23227) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (3 weeks ago)
 - [feat(sks): expose local.kubernetes to outputs](https://github.com/camptocamp/devops-stack/pull/850) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 month ago)
-- [Division](https://github.com/hbollon/info909/pull/1) on [hbollon/info909](https://github.com/hbollon/info909) (1 month ago)
+- [Division](https://github.com/hbollon/info909/pull/1) on [hbollon/info909](https://github.com/hbollon/info909) (2 months ago)
 - [feat(sks): add default dns domain and record](https://github.com/camptocamp/devops-stack/pull/838) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 months ago)
 
 #### 💬 Feedback
