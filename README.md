@@ -44,11 +44,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(nodepool): undeclared attribute on lookup funcs in nodepool resource](https://github.com/camptocamp/terraform-exoscale-sks/pull/14) on [camptocamp/terraform-exoscale-sks](https://github.com/camptocamp/terraform-exoscale-sks) (today)
 - [feat(sks): update camptocamp&#39;s exoscale sks module to 0.4.0](https://github.com/camptocamp/devops-stack/pull/884) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (5 days ago)
 - [feat(nodepool): add description, labels and taints support](https://github.com/camptocamp/terraform-exoscale-sks/pull/13) on [camptocamp/terraform-exoscale-sks](https://github.com/camptocamp/terraform-exoscale-sks) (5 days ago)
 - [feat(terraboard): add support for additional envs and custom yaml config](https://github.com/camptocamp/charts/pull/54) on [camptocamp/charts](https://github.com/camptocamp/charts) (1 week ago)
 - [fix(build): invalid version number displayed (#229)](https://github.com/camptocamp/terraboard/pull/231) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 month ago)
-- [feat: allow usage of other sources than keybase for gpg keys](https://github.com/hashicorp/terraform-provider-aws/pull/23227) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 month ago)
 
 #### 💬 Feedback
 
