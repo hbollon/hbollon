@@ -20,11 +20,11 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [hbollon/go-project-template](https://github.com/hbollon/go-project-template) - 📜 My personal way-to-go template for all of my Go projects on Github. Including gitignore, readme, licence, Github Action workflows, issue/PR templates, contributing guideline... (3 days ago)
-- [hbollon/jgo](https://github.com/hbollon/jgo) - 📔 Generic JSON parser library. Used to marshall .json to generic structures and be able to unmarshall them. (3 days ago)
-- [camptocamp/terraform-exoscale-sks](https://github.com/camptocamp/terraform-exoscale-sks) -  (4 days ago)
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (4 days ago)
-- [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (5 days ago)
+- [hbollon/go-project-template](https://github.com/hbollon/go-project-template) - 📜 My personal way-to-go template for all of my Go projects on Github. Including gitignore, readme, licence, Github Action workflows, issue/PR templates, contributing guideline... (4 days ago)
+- [hbollon/jgo](https://github.com/hbollon/jgo) - 📔 Generic JSON parser library. Used to marshall .json to generic structures and be able to unmarshall them. (4 days ago)
+- [camptocamp/terraform-exoscale-sks](https://github.com/camptocamp/terraform-exoscale-sks) -  (5 days ago)
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (5 days ago)
+- [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -36,18 +36,18 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [hbollon/IGopher](https://github.com/hbollon/IGopher) ([v0.4.1](https://github.com/hbollon/IGopher/releases/tag/v0.4.1), 1 week ago) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP)
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.1.1](https://github.com/camptocamp/terraboard/releases/tag/v2.1.1), 4 weeks ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
+- [hbollon/IGopher](https://github.com/hbollon/IGopher) ([v0.4.1](https://github.com/hbollon/IGopher/releases/tag/v0.4.1), 2 weeks ago) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP)
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.1.1](https://github.com/camptocamp/terraboard/releases/tag/v2.1.1), 1 month ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.54.2](https://github.com/camptocamp/devops-stack/releases/tag/v0.54.2), 1 month ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [hbollon/go-edlib](https://github.com/hbollon/go-edlib) ([v1.6.0](https://github.com/hbollon/go-edlib/releases/tag/v1.6.0), 2 months ago) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc...
 - [hbollon/release-please-go-test](https://github.com/hbollon/release-please-go-test) ([v1.0.0](https://github.com/hbollon/release-please-go-test/releases/tag/v1.0.0), 8 months ago) - 
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(sks): update camptocamp&#39;s exoscale sks module to 0.4.0](https://github.com/camptocamp/devops-stack/pull/884) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (4 days ago)
-- [feat(nodepool): add description, labels and taints support](https://github.com/camptocamp/terraform-exoscale-sks/pull/13) on [camptocamp/terraform-exoscale-sks](https://github.com/camptocamp/terraform-exoscale-sks) (4 days ago)
+- [feat(sks): update camptocamp&#39;s exoscale sks module to 0.4.0](https://github.com/camptocamp/devops-stack/pull/884) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (5 days ago)
+- [feat(nodepool): add description, labels and taints support](https://github.com/camptocamp/terraform-exoscale-sks/pull/13) on [camptocamp/terraform-exoscale-sks](https://github.com/camptocamp/terraform-exoscale-sks) (5 days ago)
 - [feat(terraboard): add support for additional envs and custom yaml config](https://github.com/camptocamp/charts/pull/54) on [camptocamp/charts](https://github.com/camptocamp/charts) (1 week ago)
-- [fix(build): invalid version number displayed (#229)](https://github.com/camptocamp/terraboard/pull/231) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (4 weeks ago)
+- [fix(build): invalid version number displayed (#229)](https://github.com/camptocamp/terraboard/pull/231) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 month ago)
 - [feat: allow usage of other sources than keybase for gpg keys](https://github.com/hashicorp/terraform-provider-aws/pull/23227) on [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) (1 month ago)
 
 #### 💬 Feedback
