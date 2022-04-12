@@ -20,11 +20,11 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [hbollon/jgo](https://github.com/hbollon/jgo) - 📔 Generic JSON parser library. Used to marshall .json to generic structures and be able to unmarshall them. (6 days ago)
+- [hbollon/jgo](https://github.com/hbollon/jgo) - 📔 Generic JSON parser library. Used to marshall .json to generic structures and be able to unmarshall them. (1 week ago)
 - [camptocamp/terraform-exoscale-sks](https://github.com/camptocamp/terraform-exoscale-sks) -  (1 week ago)
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (1 week ago)
 - [hbollon/go-project-template](https://github.com/hbollon/go-project-template) - 📜 My personal way-to-go template for all of my Go projects on Github. Including gitignore, readme, licence, Github Action workflows, issue/PR templates, contributing guideline... (1 week ago)
-- [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (1 week ago)
+- [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -44,9 +44,9 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(cert-manager): incompatibility with k8s &gt;= 1.22](https://github.com/camptocamp/devops-stack/pull/892) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (3 days ago)
-- [fix(sks): type mismatch into coalesce call for nodepools definitions](https://github.com/camptocamp/devops-stack/pull/891) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (3 days ago)
-- [fix(keycloak): invalid ingress ressource on v1beta1 api on k8s &gt;= 1.22](https://github.com/camptocamp/devops-stack/pull/890) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (3 days ago)
+- [fix(cert-manager): incompatibility with k8s &gt;= 1.22](https://github.com/camptocamp/devops-stack/pull/892) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (4 days ago)
+- [fix(sks): type mismatch into coalesce call for nodepools definitions](https://github.com/camptocamp/devops-stack/pull/891) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (4 days ago)
+- [fix(keycloak): invalid ingress ressource on v1beta1 api on k8s &gt;= 1.22](https://github.com/camptocamp/devops-stack/pull/890) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (4 days ago)
 - [feat: add extra_volume_mount variable for prometheus oauth sidecar](https://github.com/camptocamp/devops-stack/pull/889) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
 - [chore(sks): bump terraform-exoscale-sks module to v0.4.1](https://github.com/camptocamp/devops-stack/pull/888) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
 
