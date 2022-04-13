@@ -44,9 +44,9 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(cert-manager): incompatibility with k8s &gt;= 1.22](https://github.com/camptocamp/devops-stack/pull/892) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (4 days ago)
-- [fix(sks): type mismatch into coalesce call for nodepools definitions](https://github.com/camptocamp/devops-stack/pull/891) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (4 days ago)
-- [fix(keycloak): invalid ingress ressource on v1beta1 api on k8s &gt;= 1.22](https://github.com/camptocamp/devops-stack/pull/890) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (4 days ago)
+- [fix(cert-manager): incompatibility with k8s &gt;= 1.22](https://github.com/camptocamp/devops-stack/pull/892) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (5 days ago)
+- [fix(sks): type mismatch into coalesce call for nodepools definitions](https://github.com/camptocamp/devops-stack/pull/891) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (5 days ago)
+- [fix(keycloak): invalid ingress ressource on v1beta1 api on k8s &gt;= 1.22](https://github.com/camptocamp/devops-stack/pull/890) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (5 days ago)
 - [feat: add extra_volume_mount variable for prometheus oauth sidecar](https://github.com/camptocamp/devops-stack/pull/889) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
 - [chore(sks): bump terraform-exoscale-sks module to v0.4.1](https://github.com/camptocamp/devops-stack/pull/888) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
 
