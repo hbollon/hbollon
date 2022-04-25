@@ -20,10 +20,10 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [hbollon/pepites-insolites-website](https://github.com/hbollon/pepites-insolites-website) -  (1 day ago)
+- [hbollon/pepites-insolites-website](https://github.com/hbollon/pepites-insolites-website) -  (2 days ago)
 - [hbollon/jgo](https://github.com/hbollon/jgo) - 📔 Generic JSON parser library. Used to unmarshal .json to generic structures and be able to marshal them. (1 week ago)
-- [camptocamp/terraform-exoscale-sks](https://github.com/camptocamp/terraform-exoscale-sks) -  (2 weeks ago)
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (2 weeks ago)
+- [camptocamp/terraform-exoscale-sks](https://github.com/camptocamp/terraform-exoscale-sks) -  (3 weeks ago)
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (3 weeks ago)
 - [hbollon/go-project-template](https://github.com/hbollon/go-project-template) - 📜 My personal way-to-go template for all of my Go projects on Github. Including gitignore, readme, licence, Github Action workflows, issue/PR templates, contributing guideline... (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -36,7 +36,7 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.55.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.55.0), 2 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.55.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.55.0), 3 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [hbollon/IGopher](https://github.com/hbollon/IGopher) ([v0.4.1](https://github.com/hbollon/IGopher/releases/tag/v0.4.1), 1 month ago) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP)
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.1.1](https://github.com/camptocamp/terraboard/releases/tag/v2.1.1), 1 month ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 - [hbollon/go-edlib](https://github.com/hbollon/go-edlib) ([v1.6.0](https://github.com/hbollon/go-edlib/releases/tag/v1.6.0), 2 months ago) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc...
@@ -47,8 +47,8 @@ I'm also an Airsoft lover ❤️
 - [fix(cert-manager): incompatibility with k8s &gt;= 1.22](https://github.com/camptocamp/devops-stack/pull/892) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 weeks ago)
 - [fix(sks): type mismatch into coalesce call for nodepools definitions](https://github.com/camptocamp/devops-stack/pull/891) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 weeks ago)
 - [fix(keycloak): invalid ingress ressource on v1beta1 api on k8s &gt;= 1.22](https://github.com/camptocamp/devops-stack/pull/890) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 weeks ago)
-- [feat: add extra_volume_mount variable for prometheus oauth sidecar](https://github.com/camptocamp/devops-stack/pull/889) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 weeks ago)
-- [chore(sks): bump terraform-exoscale-sks module to v0.4.1](https://github.com/camptocamp/devops-stack/pull/888) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 weeks ago)
+- [feat: add extra_volume_mount variable for prometheus oauth sidecar](https://github.com/camptocamp/devops-stack/pull/889) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (3 weeks ago)
+- [chore(sks): bump terraform-exoscale-sks module to v0.4.1](https://github.com/camptocamp/devops-stack/pull/888) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (3 weeks ago)
 
 #### 💬 Feedback
 
