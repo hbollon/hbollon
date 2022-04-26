@@ -44,11 +44,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(sks): remove default dns domain and record](https://github.com/camptocamp/devops-stack/pull/897) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (today)
 - [chore(traefik): upgrade chart version to v10.19.4 to fix issues with k8s &gt;= 1.22](https://github.com/camptocamp/devops-stack/pull/896) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (today)
 - [chore(keycloak-operator): upgrade to v18.0.0 to fix k8s &gt;= 1.22 issues](https://github.com/camptocamp/devops-stack/pull/895) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (today)
 - [fix(cert-manager): incompatibility with k8s &gt;= 1.22](https://github.com/camptocamp/devops-stack/pull/892) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 weeks ago)
 - [fix(sks): type mismatch into coalesce call for nodepools definitions](https://github.com/camptocamp/devops-stack/pull/891) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 weeks ago)
-- [fix(keycloak): invalid ingress ressource on v1beta1 api on k8s &gt;= 1.22](https://github.com/camptocamp/devops-stack/pull/890) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 weeks ago)
 
 #### 💬 Feedback
 
