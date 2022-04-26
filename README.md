@@ -20,10 +20,10 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (today)
 - [hbollon/pepites-insolites-website](https://github.com/hbollon/pepites-insolites-website) -  (3 days ago)
 - [hbollon/jgo](https://github.com/hbollon/jgo) - 📔 Generic JSON parser library. Used to unmarshal .json to generic structures and be able to marshal them. (1 week ago)
 - [camptocamp/terraform-exoscale-sks](https://github.com/camptocamp/terraform-exoscale-sks) -  (3 weeks ago)
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (3 weeks ago)
 - [hbollon/go-project-template](https://github.com/hbollon/go-project-template) - 📜 My personal way-to-go template for all of my Go projects on Github. Including gitignore, readme, licence, Github Action workflows, issue/PR templates, contributing guideline... (3 weeks ago)
 
 #### 🌱 My latest projects
