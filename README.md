@@ -20,8 +20,8 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (today)
-- [hbollon/pepites-insolites-website](https://github.com/hbollon/pepites-insolites-website) -  (3 days ago)
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (1 day ago)
+- [hbollon/pepites-insolites-website](https://github.com/hbollon/pepites-insolites-website) -  (4 days ago)
 - [hbollon/jgo](https://github.com/hbollon/jgo) - 📔 Generic JSON parser library. Used to unmarshal .json to generic structures and be able to marshal them. (1 week ago)
 - [camptocamp/terraform-exoscale-sks](https://github.com/camptocamp/terraform-exoscale-sks) -  (3 weeks ago)
 - [hbollon/go-project-template](https://github.com/hbollon/go-project-template) - 📜 My personal way-to-go template for all of my Go projects on Github. Including gitignore, readme, licence, Github Action workflows, issue/PR templates, contributing guideline... (3 weeks ago)
@@ -44,9 +44,9 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(sks): dynamic gateway &amp; wildcard dns records creation](https://github.com/camptocamp/devops-stack/pull/897) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (today)
-- [chore(traefik): upgrade chart version to v10.19.4 to fix issues with k8s &gt;= 1.22](https://github.com/camptocamp/devops-stack/pull/896) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (today)
-- [chore(keycloak-operator): upgrade to v18.0.0 to fix k8s &gt;= 1.22 issues](https://github.com/camptocamp/devops-stack/pull/895) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (today)
+- [feat(sks): dynamic gateway &amp; wildcard dns records creation](https://github.com/camptocamp/devops-stack/pull/897) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 day ago)
+- [chore(traefik): upgrade chart version to v10.19.4 to fix issues with k8s &gt;= 1.22](https://github.com/camptocamp/devops-stack/pull/896) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 day ago)
+- [chore(keycloak-operator): upgrade to v18.0.0 to fix k8s &gt;= 1.22 issues](https://github.com/camptocamp/devops-stack/pull/895) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 day ago)
 - [fix(cert-manager): incompatibility with k8s &gt;= 1.22](https://github.com/camptocamp/devops-stack/pull/892) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 weeks ago)
 - [fix(sks): type mismatch into coalesce call for nodepools definitions](https://github.com/camptocamp/devops-stack/pull/891) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 weeks ago)
 
