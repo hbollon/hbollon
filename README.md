@@ -20,9 +20,9 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (2 days ago)
-- [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (2 days ago)
-- [hbollon/jgo](https://github.com/hbollon/jgo) - 📔 Generic JSON parser library. Used to unmarshal .json to generic structures and be able to marshal them. (4 days ago)
+- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (3 days ago)
+- [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (3 days ago)
+- [hbollon/jgo](https://github.com/hbollon/jgo) - 📔 Generic JSON parser library. Used to unmarshal .json to generic structures and be able to marshal them. (5 days ago)
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (1 week ago)
 - [hbollon/pepites-insolites-website](https://github.com/hbollon/pepites-insolites-website) -  (2 weeks ago)
 
@@ -36,15 +36,15 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v1.1.0](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v1.1.0), 2 days ago) - Grafana Datasource for the Prometheus Alertmanager
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.56.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.56.0), 4 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
+- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v1.1.0](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v1.1.0), 3 days ago) - Grafana Datasource for the Prometheus Alertmanager
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.56.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.56.0), 5 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [hbollon/IGopher](https://github.com/hbollon/IGopher) ([v0.4.1](https://github.com/hbollon/IGopher/releases/tag/v0.4.1), 1 month ago) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP)
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.1.1](https://github.com/camptocamp/terraboard/releases/tag/v2.1.1), 2 months ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 - [hbollon/go-edlib](https://github.com/hbollon/go-edlib) ([v1.6.0](https://github.com/hbollon/go-edlib/releases/tag/v1.6.0), 3 months ago) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc...
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(pushprox): ingress compatibility issues with k8s &gt;= 1.22](https://github.com/camptocamp/charts/pull/62) on [camptocamp/charts](https://github.com/camptocamp/charts) (2 days ago)
+- [fix(pushprox): ingress compatibility issues with k8s &gt;= 1.22](https://github.com/camptocamp/charts/pull/62) on [camptocamp/charts](https://github.com/camptocamp/charts) (3 days ago)
 - [feat(pushprox): allow configuration of others oauth provider than openshift](https://github.com/camptocamp/charts/pull/60) on [camptocamp/charts](https://github.com/camptocamp/charts) (1 week ago)
 - [feat(sks): dynamic gateway &amp; wildcard dns records creation](https://github.com/camptocamp/devops-stack/pull/897) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
 - [chore(traefik): upgrade chart version to v10.19.4 to fix issues with k8s &gt;= 1.22](https://github.com/camptocamp/devops-stack/pull/896) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
