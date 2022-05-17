@@ -20,7 +20,7 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (6 days ago)
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (1 week ago)
 - [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (1 week ago)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (1 week ago)
 - [hbollon/jgo](https://github.com/hbollon/jgo) - 📔 Generic JSON parser library. Used to unmarshal .json to generic structures and be able to marshal them. (1 week ago)
@@ -47,8 +47,8 @@ I'm also an Airsoft lover ❤️
 - [fix(pushprox): allow empty oauth provider configuration](https://github.com/camptocamp/charts/pull/63) on [camptocamp/charts](https://github.com/camptocamp/charts) (1 week ago)
 - [fix(pushprox): ingress compatibility issues with k8s &gt;= 1.22](https://github.com/camptocamp/charts/pull/62) on [camptocamp/charts](https://github.com/camptocamp/charts) (1 week ago)
 - [feat(pushprox): allow configuration of others oauth provider than openshift](https://github.com/camptocamp/charts/pull/60) on [camptocamp/charts](https://github.com/camptocamp/charts) (2 weeks ago)
-- [feat(sks): dynamic gateway &amp; wildcard dns records creation](https://github.com/camptocamp/devops-stack/pull/897) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 weeks ago)
-- [chore(traefik): upgrade chart version to v10.19.4 to fix issues with k8s &gt;= 1.22](https://github.com/camptocamp/devops-stack/pull/896) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (2 weeks ago)
+- [feat(sks): dynamic gateway &amp; wildcard dns records creation](https://github.com/camptocamp/devops-stack/pull/897) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (3 weeks ago)
+- [chore(traefik): upgrade chart version to v10.19.4 to fix issues with k8s &gt;= 1.22](https://github.com/camptocamp/devops-stack/pull/896) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (3 weeks ago)
 
 #### 💬 Feedback
 
