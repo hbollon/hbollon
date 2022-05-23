@@ -44,11 +44,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
+- [refactor: rewrite plugin to add multiples queries support](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/pull/129) on [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) (today)
 - [fix(pushprox): allow empty oauth provider configuration](https://github.com/camptocamp/charts/pull/63) on [camptocamp/charts](https://github.com/camptocamp/charts) (2 weeks ago)
 - [fix(pushprox): ingress compatibility issues with k8s &gt;= 1.22](https://github.com/camptocamp/charts/pull/62) on [camptocamp/charts](https://github.com/camptocamp/charts) (2 weeks ago)
 - [feat(pushprox): allow configuration of others oauth provider than openshift](https://github.com/camptocamp/charts/pull/60) on [camptocamp/charts](https://github.com/camptocamp/charts) (3 weeks ago)
 - [feat(sks): dynamic gateway &amp; wildcard dns records creation](https://github.com/camptocamp/devops-stack/pull/897) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (3 weeks ago)
-- [chore(traefik): upgrade chart version to v10.19.4 to fix issues with k8s &gt;= 1.22](https://github.com/camptocamp/devops-stack/pull/896) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (3 weeks ago)
 
 #### 💬 Feedback
 
