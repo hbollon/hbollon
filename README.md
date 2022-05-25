@@ -20,9 +20,9 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
+- [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (today)
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (today)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (1 day ago)
-- [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (2 weeks ago)
 - [hbollon/jgo](https://github.com/hbollon/jgo) - 📔 Generic JSON parser library. Used to unmarshal .json to generic structures and be able to marshal them. (3 weeks ago)
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components (4 weeks ago)
 
@@ -44,11 +44,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(terraboard): update image to v2.2.0](https://github.com/camptocamp/charts/pull/67) on [camptocamp/charts](https://github.com/camptocamp/charts) (today)
 - [fix(db): possible sql injection on /search endpoint](https://github.com/camptocamp/terraboard/pull/247) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (today)
 - [docs: create SECURITY.md](https://github.com/camptocamp/terraboard/pull/246) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 day ago)
 - [refactor: rewrite plugin to add multiples queries support](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/pull/129) on [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) (2 days ago)
 - [fix(pushprox): allow empty oauth provider configuration](https://github.com/camptocamp/charts/pull/63) on [camptocamp/charts](https://github.com/camptocamp/charts) (2 weeks ago)
-- [fix(pushprox): ingress compatibility issues with k8s &gt;= 1.22](https://github.com/camptocamp/charts/pull/62) on [camptocamp/charts](https://github.com/camptocamp/charts) (2 weeks ago)
 
 #### 💬 Feedback
 
