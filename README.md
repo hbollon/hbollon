@@ -44,11 +44,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(db): possible sql injection on /search endpoint](https://github.com/camptocamp/terraboard/pull/247) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (today)
 - [docs: create SECURITY.md](https://github.com/camptocamp/terraboard/pull/246) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (1 day ago)
 - [refactor: rewrite plugin to add multiples queries support](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/pull/129) on [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) (2 days ago)
 - [fix(pushprox): allow empty oauth provider configuration](https://github.com/camptocamp/charts/pull/63) on [camptocamp/charts](https://github.com/camptocamp/charts) (2 weeks ago)
 - [fix(pushprox): ingress compatibility issues with k8s &gt;= 1.22](https://github.com/camptocamp/charts/pull/62) on [camptocamp/charts](https://github.com/camptocamp/charts) (2 weeks ago)
-- [feat(pushprox): allow configuration of others oauth provider than openshift](https://github.com/camptocamp/charts/pull/60) on [camptocamp/charts](https://github.com/camptocamp/charts) (3 weeks ago)
 
 #### 💬 Feedback
 
