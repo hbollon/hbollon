@@ -44,11 +44,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(terraboard): invalid numeric web env vars](https://github.com/camptocamp/charts/pull/71) on [camptocamp/charts](https://github.com/camptocamp/charts) (today)
 - [fix(terraboard): invalid values for web envs](https://github.com/camptocamp/charts/pull/70) on [camptocamp/charts](https://github.com/camptocamp/charts) (today)
 - [fix(terraboard): add missing pathType attribute to ingress](https://github.com/camptocamp/charts/pull/69) on [camptocamp/charts](https://github.com/camptocamp/charts) (today)
 - [fix(terraboard): override by default TERRABOARD_SWAGGER_PORT env](https://github.com/camptocamp/charts/pull/68) on [camptocamp/charts](https://github.com/camptocamp/charts) (today)
 - [feat(terraboard): update image to v2.2.0](https://github.com/camptocamp/charts/pull/67) on [camptocamp/charts](https://github.com/camptocamp/charts) (5 days ago)
-- [fix(db): possible sql injection on /search endpoint](https://github.com/camptocamp/terraboard/pull/247) on [camptocamp/terraboard](https://github.com/camptocamp/terraboard) (5 days ago)
 
 #### 💬 Feedback
 
