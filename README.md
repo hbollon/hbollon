@@ -20,9 +20,9 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
+- [camptocamp/terraform-aws-ecs-service-fargate](https://github.com/camptocamp/terraform-aws-ecs-service-fargate) - Terraform module used to create a new Fargate Service in an existing ECS cluster with networking components (ALB, Target Group, Listener) (today)
 - [camptocamp/docker-blackbox-exporter-idm-ca](https://github.com/camptocamp/docker-blackbox-exporter-idm-ca) - Custom blackbox exporter image which embed idm ca and all our custom blackbox&#39;s modules (5 days ago)
 - [camptocamp/terraform-aws-ecs-cluster](https://github.com/camptocamp/terraform-aws-ecs-cluster) - Terraform module used to create a new AWS ECS cluster with VPC, IAM roles and networking components (1 week ago)
-- [camptocamp/terraform-aws-ecs-service-fargate](https://github.com/camptocamp/terraform-aws-ecs-service-fargate) - Terraform module used to create a new Fargate Service in an existing ECS cluster with networking components (ALB, Target Group, Listener) (1 week ago)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (2 weeks ago)
 - [hbollon/jgo](https://github.com/hbollon/jgo) - 📔 Generic JSON parser library. Used to unmarshal .json to generic structures and be able to marshal them. (2 weeks ago)
 
