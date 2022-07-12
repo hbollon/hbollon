@@ -21,8 +21,8 @@ I'm also an Airsoft lover ❤️
 #### 👷 Check out what I'm currently working on
 
 - [camptocamp/docker-blackbox-exporter-idm-ca](https://github.com/camptocamp/docker-blackbox-exporter-idm-ca) - Custom blackbox exporter image which embed idm ca and all our custom blackbox&#39;s modules (1 week ago)
-- [camptocamp/terraform-aws-ecs-service-fargate](https://github.com/camptocamp/terraform-aws-ecs-service-fargate) - Terraform module used to create a new Fargate Service in an existing ECS cluster with networking components (ALB, Target Group, Listener) (2 weeks ago)
-- [camptocamp/terraform-aws-ecs-cluster](https://github.com/camptocamp/terraform-aws-ecs-cluster) - Terraform module used to create a new AWS ECS cluster with VPC, IAM roles and networking components (3 weeks ago)
+- [camptocamp/terraform-aws-ecs-service-fargate](https://github.com/camptocamp/terraform-aws-ecs-service-fargate) - Terraform module used to create a new Fargate Service in an existing ECS cluster with networking components (ALB, Target Group, Listener) (3 weeks ago)
+- [camptocamp/terraform-aws-ecs-cluster](https://github.com/camptocamp/terraform-aws-ecs-cluster) - Terraform module used to create a new AWS ECS cluster with VPC, IAM roles and networking components (4 weeks ago)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (1 month ago)
 - [hbollon/jgo](https://github.com/hbollon/jgo) - 📔 Generic JSON parser library. Used to unmarshal .json to generic structures and be able to marshal them. (1 month ago)
 
@@ -36,7 +36,7 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.58.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.58.0), 5 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.58.0](https://github.com/camptocamp/devops-stack/releases/tag/v0.58.0), 6 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v1.2.1](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v1.2.1), 1 month ago) - Grafana Datasource for the Prometheus Alertmanager
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.2.0](https://github.com/camptocamp/terraboard/releases/tag/v2.2.0), 1 month ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 - [hbollon/IGopher](https://github.com/hbollon/IGopher) ([v0.4.1](https://github.com/hbollon/IGopher/releases/tag/v0.4.1), 3 months ago) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP)
