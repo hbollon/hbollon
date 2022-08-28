@@ -46,9 +46,9 @@ I'm also an Airsoft lover ❤️
 
 - [feat: add ubuntu user to Docker group](https://github.com/camptocamp/terraform-github-actions-runner-provisioner/pull/7) on [camptocamp/terraform-github-actions-runner-provisioner](https://github.com/camptocamp/terraform-github-actions-runner-provisioner) (1 week ago)
 - [feat: allow usage of a dex custom image](https://github.com/camptocamp/devops-stack-module-dex/pull/2) on [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) (2 weeks ago)
-- [fix(terraboard): invalid numeric web env vars](https://github.com/camptocamp/charts/pull/71) on [camptocamp/charts](https://github.com/camptocamp/charts) (2 months ago)
-- [fix(terraboard): invalid values for web envs](https://github.com/camptocamp/charts/pull/70) on [camptocamp/charts](https://github.com/camptocamp/charts) (2 months ago)
-- [fix(terraboard): add missing pathType attribute to ingress](https://github.com/camptocamp/charts/pull/69) on [camptocamp/charts](https://github.com/camptocamp/charts) (2 months ago)
+- [fix(terraboard): invalid numeric web env vars](https://github.com/camptocamp/charts/pull/71) on [camptocamp/charts](https://github.com/camptocamp/charts) (3 months ago)
+- [fix(terraboard): invalid values for web envs](https://github.com/camptocamp/charts/pull/70) on [camptocamp/charts](https://github.com/camptocamp/charts) (3 months ago)
+- [fix(terraboard): add missing pathType attribute to ingress](https://github.com/camptocamp/charts/pull/69) on [camptocamp/charts](https://github.com/camptocamp/charts) (3 months ago)
 
 #### 💬 Feedback
 
