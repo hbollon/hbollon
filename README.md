@@ -40,12 +40,12 @@ I'm also an Airsoft lover ❤️
 - [hbollon/IGopher](https://github.com/hbollon/IGopher) ([v0.4.2](https://github.com/hbollon/IGopher/releases/tag/v0.4.2), 1 month ago) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v1.2.1](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v1.2.1), 2 months ago) - Grafana Datasource for the Prometheus Alertmanager
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.2.0](https://github.com/camptocamp/terraboard/releases/tag/v2.2.0), 3 months ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
-- [hbollon/go-edlib](https://github.com/hbollon/go-edlib) ([v1.6.0](https://github.com/hbollon/go-edlib/releases/tag/v1.6.0), 6 months ago) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc...
+- [hbollon/go-edlib](https://github.com/hbollon/go-edlib) ([v1.6.0](https://github.com/hbollon/go-edlib/releases/tag/v1.6.0), 7 months ago) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc...
 
 #### 🔨 Latest Pull Requests I published
 
 - [feat: add ubuntu user to Docker group](https://github.com/camptocamp/terraform-github-actions-runner-provisioner/pull/7) on [camptocamp/terraform-github-actions-runner-provisioner](https://github.com/camptocamp/terraform-github-actions-runner-provisioner) (1 week ago)
-- [feat: allow usage of a dex custom image](https://github.com/camptocamp/devops-stack-module-dex/pull/2) on [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) (2 weeks ago)
+- [feat: allow usage of a dex custom image](https://github.com/camptocamp/devops-stack-module-dex/pull/2) on [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) (3 weeks ago)
 - [fix(terraboard): invalid numeric web env vars](https://github.com/camptocamp/charts/pull/71) on [camptocamp/charts](https://github.com/camptocamp/charts) (3 months ago)
 - [fix(terraboard): invalid values for web envs](https://github.com/camptocamp/charts/pull/70) on [camptocamp/charts](https://github.com/camptocamp/charts) (3 months ago)
 - [fix(terraboard): add missing pathType attribute to ingress](https://github.com/camptocamp/charts/pull/69) on [camptocamp/charts](https://github.com/camptocamp/charts) (3 months ago)
