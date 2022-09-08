@@ -36,7 +36,7 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.59.1](https://github.com/camptocamp/devops-stack/releases/tag/v0.59.1), 1 day ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v0.59.1](https://github.com/camptocamp/devops-stack/releases/tag/v0.59.1), 2 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using ArgoCD 🐙 and Terraform as base components
 - [hbollon/IGopher](https://github.com/hbollon/IGopher) ([v0.4.2](https://github.com/hbollon/IGopher/releases/tag/v0.4.2), 1 month ago) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v1.2.1](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v1.2.1), 3 months ago) - Grafana Datasource for the Prometheus Alertmanager
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.2.0](https://github.com/camptocamp/terraboard/releases/tag/v2.2.0), 3 months ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
