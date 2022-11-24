@@ -20,7 +20,7 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/docker-argocd-cmp-helmfile](https://github.com/camptocamp/docker-argocd-cmp-helmfile) - Sidecar image to support helmfile plugin in Argocd  (1 day ago)
+- [camptocamp/docker-argocd-cmp-helmfile](https://github.com/camptocamp/docker-argocd-cmp-helmfile) - Sidecar image to support helmfile plugin in Argocd  (today)
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using Argo CD 🐙 and Terraform as base components (1 month ago)
 - [camptocamp/docker-blackbox-exporter-idm-ca](https://github.com/camptocamp/docker-blackbox-exporter-idm-ca) - Custom blackbox exporter image which embed idm ca and all our custom blackbox&#39;s modules (1 month ago)
 - [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) - A DevOps Stack module to deploy and configure Dex IdP (1 month ago)
