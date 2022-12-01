@@ -20,7 +20,7 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/docker-argocd-cmp-helmfile](https://github.com/camptocamp/docker-argocd-cmp-helmfile) - Sidecar image to support helmfile plugin in Argocd  (6 days ago)
+- [camptocamp/docker-argocd-cmp-helmfile](https://github.com/camptocamp/docker-argocd-cmp-helmfile) - Sidecar image to support helmfile plugin in Argocd  (1 week ago)
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using Argo CD 🐙 and Terraform as base components (1 month ago)
 - [camptocamp/docker-blackbox-exporter-idm-ca](https://github.com/camptocamp/docker-blackbox-exporter-idm-ca) - Custom blackbox exporter image which embed idm ca and all our custom blackbox&#39;s modules (1 month ago)
 - [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) - A DevOps Stack module to deploy and configure Dex IdP (1 month ago)
@@ -44,7 +44,7 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(argocd): update chart to v5.14.1](https://github.com/camptocamp/devops-stack/pull/957) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (6 days ago)
+- [feat(argocd): update chart to v5.14.1](https://github.com/camptocamp/devops-stack/pull/957) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 week ago)
 - [feat(traefik): allow disabling of dashboard&#39;s ingress and auth](https://github.com/camptocamp/devops-stack/pull/937) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (1 month ago)
 - [feat: add ubuntu user to Docker group](https://github.com/camptocamp/terraform-github-actions-runner-provisioner/pull/7) on [camptocamp/terraform-github-actions-runner-provisioner](https://github.com/camptocamp/terraform-github-actions-runner-provisioner) (3 months ago)
 - [feat: allow usage of a dex custom image](https://github.com/camptocamp/devops-stack-module-dex/pull/2) on [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) (3 months ago)
