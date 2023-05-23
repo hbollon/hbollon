@@ -20,7 +20,7 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) -  (6 days ago)
+- [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) -  (1 week ago)
 - [camptocamp/terraform-aws-ecs-service-fargate](https://github.com/camptocamp/terraform-aws-ecs-service-fargate) - Terraform module used to create a new Fargate Service in an existing ECS cluster with networking components (ALB, Target Group, Listener) (1 week ago)
 - [camptocamp/prometheus-puppetdb-sd](https://github.com/camptocamp/prometheus-puppetdb-sd) - Generate scrape files for Prometheus from PuppetDB (3 weeks ago)
 - [camptocamp/docker-blackbox-exporter-idm-ca](https://github.com/camptocamp/docker-blackbox-exporter-idm-ca) - Custom blackbox exporter image which embed idm ca and all our custom blackbox&#39;s modules (1 month ago)
@@ -36,8 +36,8 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v1.2.0](https://github.com/camptocamp/devops-stack/releases/tag/v1.2.0), today) - 🌊 An all-in-one Kubernetes ☸ stack using Argo CD 🐙 and Terraform as base components
-- [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) ([v1.0.0-alpha.3](https://github.com/camptocamp/devops-stack-module-dex/releases/tag/v1.0.0-alpha.3), 1 month ago) - A DevOps Stack module to deploy and configure Dex IdP
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v1.2.0](https://github.com/camptocamp/devops-stack/releases/tag/v1.2.0), 1 day ago) - 🌊 An all-in-one Kubernetes ☸ stack using Argo CD 🐙 and Terraform as base components
+- [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) ([v1.0.0-alpha.3](https://github.com/camptocamp/devops-stack-module-dex/releases/tag/v1.0.0-alpha.3), 2 months ago) - A DevOps Stack module to deploy and configure Dex IdP
 - [hbollon/IGopher](https://github.com/hbollon/IGopher) ([v0.4.2](https://github.com/hbollon/IGopher/releases/tag/v0.4.2), 10 months ago) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v1.2.1](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v1.2.1), 11 months ago) - Grafana Datasource for the Prometheus Alertmanager
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.2.0](https://github.com/camptocamp/terraboard/releases/tag/v2.2.0), 1 year ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
@@ -45,7 +45,7 @@ I'm also an Airsoft lover ❤️
 #### 🔨 Latest Pull Requests I published
 
 - [feat: allow usage of KMS key for non-Aurora engines](https://github.com/camptocamp/docker-offsite-rds-snapshots/pull/1) on [camptocamp/docker-offsite-rds-snapshots](https://github.com/camptocamp/docker-offsite-rds-snapshots) (2 months ago)
-- [feat(argocd): update chart to v5.14.1](https://github.com/camptocamp/devops-stack/pull/957) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (5 months ago)
+- [feat(argocd): update chart to v5.14.1](https://github.com/camptocamp/devops-stack/pull/957) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (6 months ago)
 - [feat(traefik): allow disabling of dashboard&#39;s ingress and auth](https://github.com/camptocamp/devops-stack/pull/937) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (7 months ago)
 - [feat: add ubuntu user to Docker group](https://github.com/camptocamp/terraform-github-actions-runner-provisioner/pull/7) on [camptocamp/terraform-github-actions-runner-provisioner](https://github.com/camptocamp/terraform-github-actions-runner-provisioner) (9 months ago)
 - [feat: allow usage of a dex custom image](https://github.com/camptocamp/devops-stack-module-dex/pull/2) on [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) (9 months ago)
