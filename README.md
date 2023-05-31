@@ -44,11 +44,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: mount ca cert also for letsencrypt-staging and parameterize secret key](https://github.com/camptocamp/devops-stack-module-argocd/pull/49) on [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) (today)
 - [feat: allow usage of KMS key for non-Aurora engines](https://github.com/camptocamp/docker-offsite-rds-snapshots/pull/1) on [camptocamp/docker-offsite-rds-snapshots](https://github.com/camptocamp/docker-offsite-rds-snapshots) (2 months ago)
 - [feat(argocd): update chart to v5.14.1](https://github.com/camptocamp/devops-stack/pull/957) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (6 months ago)
 - [feat(traefik): allow disabling of dashboard&#39;s ingress and auth](https://github.com/camptocamp/devops-stack/pull/937) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (7 months ago)
 - [feat: add ubuntu user to Docker group](https://github.com/camptocamp/terraform-github-actions-runner-provisioner/pull/7) on [camptocamp/terraform-github-actions-runner-provisioner](https://github.com/camptocamp/terraform-github-actions-runner-provisioner) (9 months ago)
-- [feat: allow usage of a dex custom image](https://github.com/camptocamp/devops-stack-module-dex/pull/2) on [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) (9 months ago)
 
 #### 💬 Feedback
 
