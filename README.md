@@ -22,7 +22,7 @@ I'm also an Airsoft lover ❤️
 
 - [camptocamp/docker-offsite-rds-snapshots](https://github.com/camptocamp/docker-offsite-rds-snapshots) -  (1 week ago)
 - [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) -  (2 weeks ago)
-- [camptocamp/terraform-aws-ecs-service-fargate](https://github.com/camptocamp/terraform-aws-ecs-service-fargate) - Terraform module used to create a new Fargate Service in an existing ECS cluster with networking components (ALB, Target Group, Listener) (2 weeks ago)
+- [camptocamp/terraform-aws-ecs-service-fargate](https://github.com/camptocamp/terraform-aws-ecs-service-fargate) - Terraform module used to create a new Fargate Service in an existing ECS cluster with networking components (ALB, Target Group, Listener) (3 weeks ago)
 - [camptocamp/prometheus-puppetdb-sd](https://github.com/camptocamp/prometheus-puppetdb-sd) - Generate scrape files for Prometheus from PuppetDB (1 month ago)
 - [camptocamp/docker-blackbox-exporter-idm-ca](https://github.com/camptocamp/docker-blackbox-exporter-idm-ca) - Custom blackbox exporter image which embed idm ca and all our custom blackbox&#39;s modules (1 month ago)
 
@@ -44,7 +44,7 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: mount ca cert also for letsencrypt-staging and parameterize secret key](https://github.com/camptocamp/devops-stack-module-argocd/pull/49) on [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) (today)
+- [fix: mount ca cert also for letsencrypt-staging and parameterize secret key](https://github.com/camptocamp/devops-stack-module-argocd/pull/49) on [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) (1 day ago)
 - [feat: allow usage of KMS key for non-Aurora engines](https://github.com/camptocamp/docker-offsite-rds-snapshots/pull/1) on [camptocamp/docker-offsite-rds-snapshots](https://github.com/camptocamp/docker-offsite-rds-snapshots) (2 months ago)
 - [feat(argocd): update chart to v5.14.1](https://github.com/camptocamp/devops-stack/pull/957) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (6 months ago)
 - [feat(traefik): allow disabling of dashboard&#39;s ingress and auth](https://github.com/camptocamp/devops-stack/pull/937) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (7 months ago)
