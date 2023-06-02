@@ -20,11 +20,11 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
+- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) - A DevOps Stack module to finalize Argo CD (today)
 - [camptocamp/docker-offsite-rds-snapshots](https://github.com/camptocamp/docker-offsite-rds-snapshots) -  (1 week ago)
 - [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) -  (2 weeks ago)
 - [camptocamp/terraform-aws-ecs-service-fargate](https://github.com/camptocamp/terraform-aws-ecs-service-fargate) - Terraform module used to create a new Fargate Service in an existing ECS cluster with networking components (ALB, Target Group, Listener) (3 weeks ago)
 - [camptocamp/prometheus-puppetdb-sd](https://github.com/camptocamp/prometheus-puppetdb-sd) - Generate scrape files for Prometheus from PuppetDB (1 month ago)
-- [camptocamp/docker-blackbox-exporter-idm-ca](https://github.com/camptocamp/docker-blackbox-exporter-idm-ca) - Custom blackbox exporter image which embed idm ca and all our custom blackbox&#39;s modules (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
+- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v1.1.1](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v1.1.1), 1 week ago) - A DevOps Stack module to finalize Argo CD
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v1.3.0](https://github.com/camptocamp/devops-stack/releases/tag/v1.3.0), 1 week ago) - 🌊 An all-in-one Kubernetes ☸ stack using Argo CD 🐙 and Terraform as base components
 - [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) ([v1.0.0-alpha.3](https://github.com/camptocamp/devops-stack-module-dex/releases/tag/v1.0.0-alpha.3), 2 months ago) - A DevOps Stack module to deploy and configure Dex IdP
 - [hbollon/IGopher](https://github.com/hbollon/IGopher) ([v0.4.2](https://github.com/hbollon/IGopher/releases/tag/v0.4.2), 10 months ago) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v1.2.1](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v1.2.1), 1 year ago) - Grafana Datasource for the Prometheus Alertmanager
-- [camptocamp/prometheus-puppetdb-sd](https://github.com/camptocamp/prometheus-puppetdb-sd) ([0.11.3](https://github.com/camptocamp/prometheus-puppetdb-sd/releases/tag/0.11.3), 3 years ago) - Generate scrape files for Prometheus from PuppetDB
 
 #### 🔨 Latest Pull Requests I published
 
