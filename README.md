@@ -40,7 +40,7 @@ I'm also an Airsoft lover ❤️
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v1.3.0](https://github.com/camptocamp/devops-stack/releases/tag/v1.3.0), 2 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using Argo CD 🐙 and Terraform as base components
 - [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) ([v1.0.0-alpha.3](https://github.com/camptocamp/devops-stack-module-dex/releases/tag/v1.0.0-alpha.3), 2 months ago) - A DevOps Stack module to deploy and configure Dex IdP
 - [hbollon/IGopher](https://github.com/hbollon/IGopher) ([v0.4.2](https://github.com/hbollon/IGopher/releases/tag/v0.4.2), 10 months ago) - ⚡ Powerful, customizable and easy to use Instagram dm bot. With TUI and Electron.js GUI! Using Selenium webdriver and Yaml configuration files. (WIP)
-- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v1.2.1](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v1.2.1), 1 year ago) - Grafana Datasource for the Prometheus Alertmanager
+- [camptocamp/prometheus-puppetdb-sd](https://github.com/camptocamp/prometheus-puppetdb-sd) ([0.11.3](https://github.com/camptocamp/prometheus-puppetdb-sd/releases/tag/0.11.3), 3 years ago) - Generate scrape files for Prometheus from PuppetDB
 
 #### 🔨 Latest Pull Requests I published
 
