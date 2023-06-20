@@ -44,11 +44,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: parameterize default router nodepool](https://github.com/camptocamp/devops-stack-module-cluster-sks/pull/4) on [camptocamp/devops-stack-module-cluster-sks](https://github.com/camptocamp/devops-stack-module-cluster-sks) (today)
+- [docs: manual k8s upgrade strategy documentation](https://github.com/camptocamp/devops-stack-module-cluster-sks/pull/3) on [camptocamp/devops-stack-module-cluster-sks](https://github.com/camptocamp/devops-stack-module-cluster-sks) (today)
 - [feat: add longhorn and final argoCD modules](https://github.com/lentidas/devops-stack-test-sks-cluster/pull/1) on [lentidas/devops-stack-test-sks-cluster](https://github.com/lentidas/devops-stack-test-sks-cluster) (2 weeks ago)
 - [feat: initial module implementation](https://github.com/camptocamp/devops-stack-module-longhorn/pull/1) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (2 weeks ago)
 - [fix: mount ca cert also for letsencrypt-staging and parameterize secret key](https://github.com/camptocamp/devops-stack-module-argocd/pull/49) on [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) (2 weeks ago)
-- [feat: allow usage of KMS key for non-Aurora engines](https://github.com/camptocamp/docker-offsite-rds-snapshots/pull/1) on [camptocamp/docker-offsite-rds-snapshots](https://github.com/camptocamp/docker-offsite-rds-snapshots) (3 months ago)
-- [feat(argocd): update chart to v5.14.1](https://github.com/camptocamp/devops-stack/pull/957) on [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) (6 months ago)
 
 #### 💬 Feedback
 
