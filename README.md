@@ -44,11 +44,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
+- [refactor: fix data race conditions and improve global threads security](https://github.com/camptocamp/helm-sops/pull/14) on [camptocamp/helm-sops](https://github.com/camptocamp/helm-sops) (today)
 - [feat: parameterize default router nodepool](https://github.com/camptocamp/devops-stack-module-cluster-sks/pull/4) on [camptocamp/devops-stack-module-cluster-sks](https://github.com/camptocamp/devops-stack-module-cluster-sks) (1 week ago)
 - [docs: manual k8s upgrade strategy documentation](https://github.com/camptocamp/devops-stack-module-cluster-sks/pull/3) on [camptocamp/devops-stack-module-cluster-sks](https://github.com/camptocamp/devops-stack-module-cluster-sks) (1 week ago)
 - [feat: add longhorn and final argoCD modules](https://github.com/lentidas/devops-stack-test-sks-cluster/pull/1) on [lentidas/devops-stack-test-sks-cluster](https://github.com/lentidas/devops-stack-test-sks-cluster) (1 month ago)
 - [feat: initial module implementation](https://github.com/camptocamp/devops-stack-module-longhorn/pull/1) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (1 month ago)
-- [fix: mount ca cert also for letsencrypt-staging and parameterize secret key](https://github.com/camptocamp/devops-stack-module-argocd/pull/49) on [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) (1 month ago)
 
 #### 💬 Feedback
 
