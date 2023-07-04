@@ -20,11 +20,11 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
+- [camptocamp/docker-argocd-cmp-helmfile](https://github.com/camptocamp/docker-argocd-cmp-helmfile) - Sidecar image to support helmfile plugin in Argocd  (today)
 - [camptocamp/helm-sops](https://github.com/camptocamp/helm-sops) -  (1 day ago)
 - [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) -  (6 days ago)
 - [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) - A DevOps Stack module to finalize Argo CD (1 month ago)
 - [camptocamp/docker-offsite-rds-snapshots](https://github.com/camptocamp/docker-offsite-rds-snapshots) -  (1 month ago)
-- [camptocamp/terraform-aws-ecs-service-fargate](https://github.com/camptocamp/terraform-aws-ecs-service-fargate) - Terraform module used to create a new Fargate Service in an existing ECS cluster with networking components (ALB, Target Group, Listener) (1 month ago)
 
 #### 🌱 My latest projects
 
