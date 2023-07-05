@@ -20,9 +20,9 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/docker-argocd-cmp-helmfile](https://github.com/camptocamp/docker-argocd-cmp-helmfile) - Sidecar image to support helmfile plugin in Argocd  (today)
-- [camptocamp/helm-sops](https://github.com/camptocamp/helm-sops) -  (1 day ago)
-- [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) -  (6 days ago)
+- [camptocamp/docker-argocd-cmp-helmfile](https://github.com/camptocamp/docker-argocd-cmp-helmfile) - Sidecar image to support helmfile plugin in Argocd  (1 day ago)
+- [camptocamp/helm-sops](https://github.com/camptocamp/helm-sops) -  (2 days ago)
+- [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) -  (1 week ago)
 - [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) - A DevOps Stack module to finalize Argo CD (1 month ago)
 - [camptocamp/docker-offsite-rds-snapshots](https://github.com/camptocamp/docker-offsite-rds-snapshots) -  (1 month ago)
 
@@ -36,16 +36,16 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/helm-sops](https://github.com/camptocamp/helm-sops) ([20230703-1](https://github.com/camptocamp/helm-sops/releases/tag/20230703-1), 1 day ago) - 
-- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v2.1.0](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v2.1.0), 5 days ago) - A DevOps Stack module to finalize Argo CD
-- [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) ([v1.0.0](https://github.com/camptocamp/devops-stack-module-longhorn/releases/tag/v1.0.0), 6 days ago) - 
+- [camptocamp/helm-sops](https://github.com/camptocamp/helm-sops) ([20230703-1](https://github.com/camptocamp/helm-sops/releases/tag/20230703-1), 2 days ago) - 
+- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v2.1.0](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v2.1.0), 6 days ago) - A DevOps Stack module to finalize Argo CD
+- [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) ([v1.0.0](https://github.com/camptocamp/devops-stack-module-longhorn/releases/tag/v1.0.0), 1 week ago) - 
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v1.4.0](https://github.com/camptocamp/devops-stack/releases/tag/v1.4.0), 2 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using Argo CD 🐙 and Terraform as base components
 - [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) ([v1.0.0-alpha.3](https://github.com/camptocamp/devops-stack-module-dex/releases/tag/v1.0.0-alpha.3), 3 months ago) - A DevOps Stack module to deploy and configure Dex IdP
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: explain Longhorn manipulations during k8s upgrade](https://github.com/camptocamp/devops-stack-module-cluster-sks/pull/5) on [camptocamp/devops-stack-module-cluster-sks](https://github.com/camptocamp/devops-stack-module-cluster-sks) (1 day ago)
-- [refactor: fix data race conditions and improve global threads security](https://github.com/camptocamp/helm-sops/pull/14) on [camptocamp/helm-sops](https://github.com/camptocamp/helm-sops) (1 day ago)
+- [docs: explain Longhorn manipulations during k8s upgrade](https://github.com/camptocamp/devops-stack-module-cluster-sks/pull/5) on [camptocamp/devops-stack-module-cluster-sks](https://github.com/camptocamp/devops-stack-module-cluster-sks) (2 days ago)
+- [refactor: fix data race conditions and improve global threads security](https://github.com/camptocamp/helm-sops/pull/14) on [camptocamp/helm-sops](https://github.com/camptocamp/helm-sops) (2 days ago)
 - [feat: parameterize default router nodepool](https://github.com/camptocamp/devops-stack-module-cluster-sks/pull/4) on [camptocamp/devops-stack-module-cluster-sks](https://github.com/camptocamp/devops-stack-module-cluster-sks) (2 weeks ago)
 - [docs: manual k8s upgrade strategy documentation](https://github.com/camptocamp/devops-stack-module-cluster-sks/pull/3) on [camptocamp/devops-stack-module-cluster-sks](https://github.com/camptocamp/devops-stack-module-cluster-sks) (2 weeks ago)
 - [feat: add longhorn and final argoCD modules](https://github.com/lentidas/devops-stack-test-sks-cluster/pull/1) on [lentidas/devops-stack-test-sks-cluster](https://github.com/lentidas/devops-stack-test-sks-cluster) (1 month ago)
