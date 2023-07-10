@@ -44,11 +44,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-cert-manager/pull/59) on [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) (today)
-- [docs: explain Longhorn manipulations during k8s upgrade](https://github.com/camptocamp/devops-stack-module-cluster-sks/pull/5) on [camptocamp/devops-stack-module-cluster-sks](https://github.com/camptocamp/devops-stack-module-cluster-sks) (1 week ago)
-- [refactor: fix data race conditions and improve global threads security](https://github.com/camptocamp/helm-sops/pull/14) on [camptocamp/helm-sops](https://github.com/camptocamp/helm-sops) (1 week ago)
-- [feat: parameterize default router nodepool](https://github.com/camptocamp/devops-stack-module-cluster-sks/pull/4) on [camptocamp/devops-stack-module-cluster-sks](https://github.com/camptocamp/devops-stack-module-cluster-sks) (2 weeks ago)
-- [docs: manual k8s upgrade strategy documentation](https://github.com/camptocamp/devops-stack-module-cluster-sks/pull/3) on [camptocamp/devops-stack-module-cluster-sks](https://github.com/camptocamp/devops-stack-module-cluster-sks) (2 weeks ago)
+- [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-traefik/pull/52) on [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) (today)
+- [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-dex/pull/11) on [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) (today)
+- [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-longhorn/pull/6) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (today)
+- [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-loki-stack/pull/75) on [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) (today)
+- [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/pull/74) on [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) (today)
 
 #### 💬 Feedback
 
