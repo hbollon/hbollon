@@ -36,8 +36,8 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
+- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v3.0.0](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v3.0.0), today) - A DevOps Stack module to finalize Argo CD
 - [camptocamp/helm-sops](https://github.com/camptocamp/helm-sops) ([20230706-1](https://github.com/camptocamp/helm-sops/releases/tag/20230706-1), 4 days ago) - 
-- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v2.1.0](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v2.1.0), 1 week ago) - A DevOps Stack module to finalize Argo CD
 - [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) ([v1.0.0](https://github.com/camptocamp/devops-stack-module-longhorn/releases/tag/v1.0.0), 1 week ago) - 
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v1.4.0](https://github.com/camptocamp/devops-stack/releases/tag/v1.4.0), 3 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using Argo CD 🐙 and Terraform as base components
 - [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) ([v1.0.0-alpha.3](https://github.com/camptocamp/devops-stack-module-dex/releases/tag/v1.0.0-alpha.3), 3 months ago) - A DevOps Stack module to deploy and configure Dex IdP
