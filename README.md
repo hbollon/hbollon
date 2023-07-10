@@ -44,11 +44,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-cert-manager/pull/59) on [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) (today)
 - [docs: explain Longhorn manipulations during k8s upgrade](https://github.com/camptocamp/devops-stack-module-cluster-sks/pull/5) on [camptocamp/devops-stack-module-cluster-sks](https://github.com/camptocamp/devops-stack-module-cluster-sks) (1 week ago)
 - [refactor: fix data race conditions and improve global threads security](https://github.com/camptocamp/helm-sops/pull/14) on [camptocamp/helm-sops](https://github.com/camptocamp/helm-sops) (1 week ago)
 - [feat: parameterize default router nodepool](https://github.com/camptocamp/devops-stack-module-cluster-sks/pull/4) on [camptocamp/devops-stack-module-cluster-sks](https://github.com/camptocamp/devops-stack-module-cluster-sks) (2 weeks ago)
 - [docs: manual k8s upgrade strategy documentation](https://github.com/camptocamp/devops-stack-module-cluster-sks/pull/3) on [camptocamp/devops-stack-module-cluster-sks](https://github.com/camptocamp/devops-stack-module-cluster-sks) (2 weeks ago)
-- [feat: add longhorn and final argoCD modules](https://github.com/lentidas/devops-stack-test-sks-cluster/pull/1) on [lentidas/devops-stack-test-sks-cluster](https://github.com/lentidas/devops-stack-test-sks-cluster) (1 month ago)
 
 #### 💬 Feedback
 
