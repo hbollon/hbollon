@@ -20,7 +20,7 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/docker-argocd-cmp-helmfile](https://github.com/camptocamp/docker-argocd-cmp-helmfile) - Sidecar image to support helmfile plugin in Argocd  (6 days ago)
+- [camptocamp/docker-argocd-cmp-helmfile](https://github.com/camptocamp/docker-argocd-cmp-helmfile) - Sidecar image to support helmfile plugin in Argocd  (1 week ago)
 - [camptocamp/helm-sops](https://github.com/camptocamp/helm-sops) -  (1 week ago)
 - [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) -  (1 week ago)
 - [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) - A DevOps Stack module to finalize Argo CD (1 month ago)
@@ -36,19 +36,19 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v3.0.0](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v3.0.0), today) - A DevOps Stack module to finalize Argo CD
-- [camptocamp/helm-sops](https://github.com/camptocamp/helm-sops) ([20230706-1](https://github.com/camptocamp/helm-sops/releases/tag/20230706-1), 4 days ago) - 
+- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v3.0.0](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v3.0.0), 1 day ago) - A DevOps Stack module to finalize Argo CD
+- [camptocamp/helm-sops](https://github.com/camptocamp/helm-sops) ([20230706-1](https://github.com/camptocamp/helm-sops/releases/tag/20230706-1), 5 days ago) - 
 - [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) ([v1.0.0](https://github.com/camptocamp/devops-stack-module-longhorn/releases/tag/v1.0.0), 1 week ago) - 
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v1.4.0](https://github.com/camptocamp/devops-stack/releases/tag/v1.4.0), 3 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using Argo CD 🐙 and Terraform as base components
 - [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) ([v1.0.0-alpha.3](https://github.com/camptocamp/devops-stack-module-dex/releases/tag/v1.0.0-alpha.3), 3 months ago) - A DevOps Stack module to deploy and configure Dex IdP
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-traefik/pull/52) on [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) (today)
-- [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-dex/pull/11) on [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) (today)
-- [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-longhorn/pull/6) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (today)
-- [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-loki-stack/pull/75) on [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) (today)
-- [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/pull/74) on [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) (today)
+- [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-traefik/pull/52) on [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) (1 day ago)
+- [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-dex/pull/11) on [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) (1 day ago)
+- [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-longhorn/pull/6) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (1 day ago)
+- [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-loki-stack/pull/75) on [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) (1 day ago)
+- [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/pull/74) on [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) (1 day ago)
 
 #### 💬 Feedback
 
