@@ -20,11 +20,11 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/docker-argocd-cmp-helmfile](https://github.com/camptocamp/docker-argocd-cmp-helmfile) - Sidecar image to support helmfile plugin in Argocd  (1 week ago)
-- [camptocamp/helm-sops](https://github.com/camptocamp/helm-sops) -  (1 week ago)
-- [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) -  (1 week ago)
-- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) - A DevOps Stack module to finalize Argo CD (1 month ago)
-- [camptocamp/docker-offsite-rds-snapshots](https://github.com/camptocamp/docker-offsite-rds-snapshots) -  (1 month ago)
+- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) - A DevOps Stack module to deploy and configure Loki (today)
+- [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) - A DevOps Stack module to deploy and configure Dex IdP (today)
+- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (today)
+- [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) -  (today)
+- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) - A DevOps Stack module to deploy and configure the kube-prometheus-stack (today)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v3.0.0](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v3.0.0), 1 day ago) - A DevOps Stack module to finalize Argo CD
-- [camptocamp/helm-sops](https://github.com/camptocamp/helm-sops) ([20230706-1](https://github.com/camptocamp/helm-sops/releases/tag/20230706-1), 5 days ago) - 
-- [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) ([v1.0.0](https://github.com/camptocamp/devops-stack-module-longhorn/releases/tag/v1.0.0), 1 week ago) - 
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v1.4.0](https://github.com/camptocamp/devops-stack/releases/tag/v1.4.0), 3 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using Argo CD 🐙 and Terraform as base components
-- [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) ([v1.0.0-alpha.3](https://github.com/camptocamp/devops-stack-module-dex/releases/tag/v1.0.0-alpha.3), 3 months ago) - A DevOps Stack module to deploy and configure Dex IdP
+- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v3.1.0](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v3.1.0), today) - A DevOps Stack module to finalize Argo CD
+- [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) ([v2.0.0](https://github.com/camptocamp/devops-stack-module-longhorn/releases/tag/v2.0.0), today) - 
+- [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) ([v1.0.0-alpha.4](https://github.com/camptocamp/devops-stack-module-dex/releases/tag/v1.0.0-alpha.4), today) - A DevOps Stack module to deploy and configure Dex IdP
+- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v4.0.0](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v4.0.0), today) - A DevOps Stack module to deploy and configure Loki
+- [camptocamp/devops-stack-module-applicationset](https://github.com/camptocamp/devops-stack-module-applicationset) ([v2.0.0](https://github.com/camptocamp/devops-stack-module-applicationset/releases/tag/v2.0.0), today) - A DevOps Stack module to deploy a generic ApplicationSet in Argo CD
 
 #### 🔨 Latest Pull Requests I published
 
