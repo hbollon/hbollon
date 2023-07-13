@@ -36,7 +36,7 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v3.1.0](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v3.1.0), 2 days ago) - A DevOps Stack module to finalize Argo CD
+- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v3.1.1](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v3.1.1), today) - A DevOps Stack module to finalize Argo CD
 - [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) ([v2.0.0](https://github.com/camptocamp/devops-stack-module-longhorn/releases/tag/v2.0.0), 2 days ago) - 
 - [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) ([v1.0.0-alpha.4](https://github.com/camptocamp/devops-stack-module-dex/releases/tag/v1.0.0-alpha.4), 2 days ago) - A DevOps Stack module to deploy and configure Dex IdP
 - [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v4.0.0](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v4.0.0), 2 days ago) - A DevOps Stack module to deploy and configure Loki
