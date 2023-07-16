@@ -22,9 +22,9 @@ I'm also an Airsoft lover ❤️
 
 - [camptocamp/terraform-github-actions-runner-provisioner](https://github.com/camptocamp/terraform-github-actions-runner-provisioner) - Terraform provisioner for a self-hosted GitHub Actions runner (3 days ago)
 - [camptocamp/devops-stack-module-applicationset](https://github.com/camptocamp/devops-stack-module-applicationset) - A DevOps Stack module to deploy a generic ApplicationSet in Argo CD (5 days ago)
-- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) - A DevOps Stack module to deploy and configure Loki (5 days ago)
+- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) - A DevOps Stack module to deploy and configure the kube-prometheus-stack (5 days ago)
 - [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) -  (5 days ago)
-- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (5 days ago)
+- [camptocamp/devops-stack-module-application](https://github.com/camptocamp/devops-stack-module-application) - A DevOps Stack module to deploy a simple Application in Argo CD (5 days ago)
 
 #### 🌱 My latest projects
 
