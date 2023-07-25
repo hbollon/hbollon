@@ -21,10 +21,10 @@ I'm also an Airsoft lover ❤️
 #### 👷 Check out what I'm currently working on
 
 - [camptocamp/terraform-github-actions-runner-provisioner](https://github.com/camptocamp/terraform-github-actions-runner-provisioner) - Terraform provisioner for a self-hosted GitHub Actions runner (1 week ago)
-- [camptocamp/devops-stack-module-applicationset](https://github.com/camptocamp/devops-stack-module-applicationset) - A DevOps Stack module to deploy a generic ApplicationSet in Argo CD (1 week ago)
-- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) - A DevOps Stack module to deploy and configure the kube-prometheus-stack (1 week ago)
-- [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) -  (1 week ago)
-- [camptocamp/devops-stack-module-application](https://github.com/camptocamp/devops-stack-module-application) - A DevOps Stack module to deploy a simple Application in Argo CD (1 week ago)
+- [camptocamp/devops-stack-module-applicationset](https://github.com/camptocamp/devops-stack-module-applicationset) - A DevOps Stack module to deploy a generic ApplicationSet in Argo CD (2 weeks ago)
+- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) - A DevOps Stack module to deploy and configure the kube-prometheus-stack (2 weeks ago)
+- [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) -  (2 weeks ago)
+- [camptocamp/devops-stack-module-application](https://github.com/camptocamp/devops-stack-module-application) - A DevOps Stack module to deploy a simple Application in Argo CD (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v4.0.1](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v4.0.1), 5 days ago) - A DevOps Stack module to deploy and configure Loki
-- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v6.0.0](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v6.0.0), 5 days ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
-- [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) ([v2.1.0](https://github.com/camptocamp/devops-stack-module-longhorn/releases/tag/v2.1.0), 5 days ago) - 
-- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v3.1.2](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v3.1.2), 5 days ago) - A DevOps Stack module to finalize Argo CD
-- [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) ([v1.0.0-alpha.4](https://github.com/camptocamp/devops-stack-module-dex/releases/tag/v1.0.0-alpha.4), 1 week ago) - A DevOps Stack module to deploy and configure Dex IdP
+- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v4.0.1](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v4.0.1), 6 days ago) - A DevOps Stack module to deploy and configure Loki
+- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v6.0.0](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v6.0.0), 6 days ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
+- [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) ([v2.1.0](https://github.com/camptocamp/devops-stack-module-longhorn/releases/tag/v2.1.0), 6 days ago) - 
+- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v3.1.2](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v3.1.2), 6 days ago) - A DevOps Stack module to finalize Argo CD
+- [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) ([v1.0.0-alpha.4](https://github.com/camptocamp/devops-stack-module-dex/releases/tag/v1.0.0-alpha.4), 2 weeks ago) - A DevOps Stack module to deploy and configure Dex IdP
 
 #### 🔨 Latest Pull Requests I published
 
