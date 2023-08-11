@@ -20,7 +20,7 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/docker-blackbox-exporter-idm-ca](https://github.com/camptocamp/docker-blackbox-exporter-idm-ca) - Custom blackbox exporter image which embed idm ca and all our custom blackbox&#39;s modules (1 day ago)
+- [camptocamp/docker-blackbox-exporter-idm-ca](https://github.com/camptocamp/docker-blackbox-exporter-idm-ca) - Custom blackbox exporter image which embed idm ca and all our custom blackbox&#39;s modules (2 days ago)
 - [camptocamp/terraform-aws-ecs-service-fargate](https://github.com/camptocamp/terraform-aws-ecs-service-fargate) - Terraform module used to create a new Fargate Service in an existing ECS cluster with networking components (ALB, Target Group, Listener) (1 week ago)
 - [camptocamp/terraform-github-actions-runner-provisioner](https://github.com/camptocamp/terraform-github-actions-runner-provisioner) - Terraform provisioner for a self-hosted GitHub Actions runner (4 weeks ago)
 - [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) - A DevOps Stack module to deploy and configure the kube-prometheus-stack (1 month ago)
@@ -36,11 +36,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v5.1.0](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v5.1.0), today) - 
-- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v4.0.2](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v4.0.2), 1 day ago) - A DevOps Stack module to deploy and configure Loki
-- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v6.0.1](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v6.0.1), 1 day ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
-- [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) ([v2.1.1](https://github.com/camptocamp/devops-stack-module-longhorn/releases/tag/v2.1.1), 1 day ago) - 
-- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v2.0.1](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v2.0.1), 1 day ago) - A DevOps Stack module to deploy and configure Traefik
+- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v5.1.0](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v5.1.0), 1 day ago) - 
+- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v4.0.2](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v4.0.2), 2 days ago) - A DevOps Stack module to deploy and configure Loki
+- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v6.0.1](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v6.0.1), 2 days ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
+- [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) ([v2.1.1](https://github.com/camptocamp/devops-stack-module-longhorn/releases/tag/v2.1.1), 2 days ago) - 
+- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v2.0.1](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v2.0.1), 2 days ago) - A DevOps Stack module to deploy and configure Traefik
 
 #### 🔨 Latest Pull Requests I published
 
