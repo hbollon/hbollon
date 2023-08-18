@@ -36,8 +36,8 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v3.0.0](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v3.0.0), today) - A DevOps Stack module to deploy and configure Traefik
 - [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v3.2.0](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v3.2.0), today) - A DevOps Stack module to finalize Argo CD
+- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v3.0.0](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v3.0.0), today) - A DevOps Stack module to deploy and configure Traefik
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v1.5.0](https://github.com/camptocamp/devops-stack/releases/tag/v1.5.0), today) - 🌊 An all-in-one Kubernetes ☸ stack using Argo CD 🐙 and Terraform as base components
 - [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v6.1.1](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v6.1.1), 4 days ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
 - [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v5.1.0](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v5.1.0), 1 week ago) - 
