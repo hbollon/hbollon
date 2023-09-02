@@ -22,7 +22,7 @@ I'm also an Airsoft lover ❤️
 
 - [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) -  (1 week ago)
 - [camptocamp/docker-blackbox-exporter-idm-ca](https://github.com/camptocamp/docker-blackbox-exporter-idm-ca) - Custom blackbox exporter image which embed idm ca and all our custom blackbox&#39;s modules (3 weeks ago)
-- [camptocamp/terraform-aws-ecs-service-fargate](https://github.com/camptocamp/terraform-aws-ecs-service-fargate) - Terraform module used to create a new Fargate Service in an existing ECS cluster with networking components (ALB, Target Group, Listener) (4 weeks ago)
+- [camptocamp/terraform-aws-ecs-service-fargate](https://github.com/camptocamp/terraform-aws-ecs-service-fargate) - Terraform module used to create a new Fargate Service in an existing ECS cluster with networking components (ALB, Target Group, Listener) (1 month ago)
 - [camptocamp/terraform-github-actions-runner-provisioner](https://github.com/camptocamp/terraform-github-actions-runner-provisioner) - Terraform provisioner for a self-hosted GitHub Actions runner (1 month ago)
 - [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) - A DevOps Stack module to deploy and configure Loki (1 month ago)
 
@@ -36,8 +36,8 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v6.3.0](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v6.3.0), 4 days ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
-- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v3.3.0](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v3.3.0), 4 days ago) - A DevOps Stack module to finalize Argo CD
+- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v6.3.0](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v6.3.0), 5 days ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
+- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v3.3.0](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v3.3.0), 5 days ago) - A DevOps Stack module to finalize Argo CD
 - [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) ([v2.2.0](https://github.com/camptocamp/devops-stack-module-longhorn/releases/tag/v2.2.0), 1 week ago) - 
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v1.5.1](https://github.com/camptocamp/devops-stack/releases/tag/v1.5.1), 1 week ago) - 🌊 An all-in-one Kubernetes ☸ stack using Argo CD 🐙 and Terraform as base components
 - [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v3.0.0](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v3.0.0), 2 weeks ago) - A DevOps Stack module to deploy and configure Traefik
