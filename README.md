@@ -36,15 +36,15 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v6.3.0](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v6.3.0), 6 days ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
-- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v3.3.0](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v3.3.0), 6 days ago) - A DevOps Stack module to finalize Argo CD
+- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v6.3.0](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v6.3.0), 1 week ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
+- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v3.3.0](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v3.3.0), 1 week ago) - A DevOps Stack module to finalize Argo CD
 - [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) ([v2.2.0](https://github.com/camptocamp/devops-stack-module-longhorn/releases/tag/v2.2.0), 1 week ago) - 
-- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v1.5.1](https://github.com/camptocamp/devops-stack/releases/tag/v1.5.1), 1 week ago) - 🌊 An all-in-one Kubernetes ☸ stack using Argo CD 🐙 and Terraform as base components
+- [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v1.5.1](https://github.com/camptocamp/devops-stack/releases/tag/v1.5.1), 2 weeks ago) - 🌊 An all-in-one Kubernetes ☸ stack using Argo CD 🐙 and Terraform as base components
 - [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v3.0.0](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v3.0.0), 2 weeks ago) - A DevOps Stack module to deploy and configure Traefik
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: parameterize backup and replicas settings and tweak default values](https://github.com/camptocamp/devops-stack-module-longhorn/pull/13) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (1 week ago)
+- [feat: parameterize backup and replicas settings and tweak default values](https://github.com/camptocamp/devops-stack-module-longhorn/pull/13) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (2 weeks ago)
 - [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-traefik/pull/52) on [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) (1 month ago)
 - [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-dex/pull/11) on [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) (1 month ago)
 - [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-longhorn/pull/6) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (1 month ago)
