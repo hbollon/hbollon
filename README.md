@@ -36,11 +36,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v5.0.0](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v5.0.0), 4 days ago) - A DevOps Stack module to deploy and configure Loki
-- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v7.0.0](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v7.0.0), 4 days ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
-- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v3.4.0](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v3.4.0), 4 days ago) - A DevOps Stack module to finalize Argo CD
-- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v5.2.0](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v5.2.0), 5 days ago) - 
-- [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) ([v2.2.0](https://github.com/camptocamp/devops-stack-module-longhorn/releases/tag/v2.2.0), 2 weeks ago) - 
+- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v5.0.0](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v5.0.0), 5 days ago) - A DevOps Stack module to deploy and configure Loki
+- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v7.0.0](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v7.0.0), 5 days ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
+- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v3.4.0](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v3.4.0), 5 days ago) - A DevOps Stack module to finalize Argo CD
+- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v5.2.0](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v5.2.0), 6 days ago) - 
+- [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) ([v2.2.0](https://github.com/camptocamp/devops-stack-module-longhorn/releases/tag/v2.2.0), 3 weeks ago) - 
 
 #### 🔨 Latest Pull Requests I published
 
