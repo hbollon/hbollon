@@ -36,11 +36,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
+- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v5.2.1](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v5.2.1), today) - 
 - [camptocamp/devops-stack-module-application](https://github.com/camptocamp/devops-stack-module-application) ([v2.1.0](https://github.com/camptocamp/devops-stack-module-application/releases/tag/v2.1.0), 2 weeks ago) - A DevOps Stack module to deploy a simple Application in Argo CD
 - [camptocamp/devops-stack-module-applicationset](https://github.com/camptocamp/devops-stack-module-applicationset) ([v2.1.0](https://github.com/camptocamp/devops-stack-module-applicationset/releases/tag/v2.1.0), 2 weeks ago) - A DevOps Stack module to deploy a generic ApplicationSet in Argo CD
 - [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v5.0.0](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v5.0.0), 3 weeks ago) - A DevOps Stack module to deploy and configure Loki
 - [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v7.0.0](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v7.0.0), 3 weeks ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
-- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v3.4.0](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v3.4.0), 3 weeks ago) - A DevOps Stack module to finalize Argo CD
 
 #### 🔨 Latest Pull Requests I published
 
