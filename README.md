@@ -20,8 +20,8 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/helm-merginmap](https://github.com/camptocamp/helm-merginmap) -  (today)
-- [camptocamp/terraform-aws-ecs-cluster](https://github.com/camptocamp/terraform-aws-ecs-cluster) - Terraform module used to create a new AWS ECS cluster with VPC, IAM roles and networking components (1 week ago)
+- [camptocamp/helm-merginmap](https://github.com/camptocamp/helm-merginmap) -  (1 day ago)
+- [camptocamp/terraform-aws-ecs-cluster](https://github.com/camptocamp/terraform-aws-ecs-cluster) - Terraform module used to create a new AWS ECS cluster with VPC, IAM roles and networking components (2 weeks ago)
 - [camptocamp/docker-blackbox-exporter-idm-ca](https://github.com/camptocamp/docker-blackbox-exporter-idm-ca) - Custom blackbox exporter image which embed idm ca and all our custom blackbox&#39;s modules (2 weeks ago)
 - [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) -  (1 month ago)
 - [camptocamp/terraform-aws-ecs-service-fargate](https://github.com/camptocamp/terraform-aws-ecs-service-fargate) - Terraform module used to create a new Fargate Service in an existing ECS cluster with networking components (ALB, Target Group, Listener) (2 months ago)
@@ -36,11 +36,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v5.2.1](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v5.2.1), 2 days ago) - 
+- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v5.2.1](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v5.2.1), 3 days ago) - 
 - [camptocamp/devops-stack-module-application](https://github.com/camptocamp/devops-stack-module-application) ([v2.1.0](https://github.com/camptocamp/devops-stack-module-application/releases/tag/v2.1.0), 3 weeks ago) - A DevOps Stack module to deploy a simple Application in Argo CD
 - [camptocamp/devops-stack-module-applicationset](https://github.com/camptocamp/devops-stack-module-applicationset) ([v2.1.0](https://github.com/camptocamp/devops-stack-module-applicationset/releases/tag/v2.1.0), 3 weeks ago) - A DevOps Stack module to deploy a generic ApplicationSet in Argo CD
-- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v5.0.0](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v5.0.0), 3 weeks ago) - A DevOps Stack module to deploy and configure Loki
-- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v7.0.0](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v7.0.0), 3 weeks ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
+- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v5.0.0](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v5.0.0), 4 weeks ago) - A DevOps Stack module to deploy and configure Loki
+- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v7.0.0](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v7.0.0), 4 weeks ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
 
 #### 🔨 Latest Pull Requests I published
 
