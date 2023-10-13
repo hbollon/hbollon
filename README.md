@@ -20,19 +20,19 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
+- [hbollon/docker-merginmap](https://github.com/hbollon/docker-merginmap) - Merginmap Docker image with custom configuration (today)
 - [camptocamp/helm-merginmap](https://github.com/camptocamp/helm-merginmap) -  (1 week ago)
 - [camptocamp/terraform-aws-ecs-cluster](https://github.com/camptocamp/terraform-aws-ecs-cluster) - Terraform module used to create a new AWS ECS cluster with VPC, IAM roles and networking components (3 weeks ago)
 - [camptocamp/docker-blackbox-exporter-idm-ca](https://github.com/camptocamp/docker-blackbox-exporter-idm-ca) - Custom blackbox exporter image which embed idm ca and all our custom blackbox&#39;s modules (3 weeks ago)
 - [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) -  (1 month ago)
-- [camptocamp/terraform-aws-ecs-service-fargate](https://github.com/camptocamp/terraform-aws-ecs-service-fargate) - Terraform module used to create a new Fargate Service in an existing ECS cluster with networking components (ALB, Target Group, Listener) (2 months ago)
 
 #### 🌱 My latest projects
 
+- [hbollon/docker-merginmap](https://github.com/hbollon/docker-merginmap) - Merginmap Docker image with custom configuration
 - [hbollon/jgo](https://github.com/hbollon/jgo) - 📔 Generic JSON parser library. Used to unmarshal .json to generic structures and be able to marshal them.
 - [hbollon/go-project-template](https://github.com/hbollon/go-project-template) - 📜 My personal way-to-go template for all of my Go projects on Github. Including gitignore, readme, licence, Github Action workflows, issue/PR templates, contributing guideline...
 - [hbollon/pepites-insolites-website](https://github.com/hbollon/pepites-insolites-website) - 
 - [hbollon/svm-ml-exercise](https://github.com/hbollon/svm-ml-exercise) - Showcase exercise to use svm algorithm in machine learning 
-- [hbollon/k8s-voting-app-aws](https://github.com/hbollon/k8s-voting-app-aws) - :wheel_of_dharma: Example of a distributed voting app running on Kubernetes. Written in Golang with Terraform definitions to deploy to AWS EKS
 
 #### 🔭 Latest releases I've contributed to
 
