@@ -20,7 +20,7 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/docker-merginmaps](https://github.com/camptocamp/docker-merginmaps) - Merginmap Docker image with custom configuration (6 days ago)
+- [camptocamp/docker-merginmaps](https://github.com/camptocamp/docker-merginmaps) - Merginmap Docker image with custom configuration (1 week ago)
 - [camptocamp/helm-merginmap](https://github.com/camptocamp/helm-merginmap) -  (2 weeks ago)
 - [camptocamp/terraform-aws-ecs-cluster](https://github.com/camptocamp/terraform-aws-ecs-cluster) - Terraform module used to create a new AWS ECS cluster with VPC, IAM roles and networking components (1 month ago)
 - [camptocamp/docker-blackbox-exporter-idm-ca](https://github.com/camptocamp/docker-blackbox-exporter-idm-ca) - Custom blackbox exporter image which embed idm ca and all our custom blackbox&#39;s modules (1 month ago)
@@ -36,11 +36,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/devops-stack-module-applicationset](https://github.com/camptocamp/devops-stack-module-applicationset) ([v2.1.1](https://github.com/camptocamp/devops-stack-module-applicationset/releases/tag/v2.1.1), 3 days ago) - A DevOps Stack module to deploy a generic ApplicationSet in Argo CD
-- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v3.1.0](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v3.1.0), 3 days ago) - A DevOps Stack module to deploy and configure Traefik
-- [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) ([v2.3.0](https://github.com/camptocamp/devops-stack-module-longhorn/releases/tag/v2.3.0), 3 days ago) - 
-- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v5.1.0](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v5.1.0), 3 days ago) - A DevOps Stack module to deploy and configure Loki
-- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v7.1.0](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v7.1.0), 3 days ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
+- [camptocamp/devops-stack-module-applicationset](https://github.com/camptocamp/devops-stack-module-applicationset) ([v2.1.1](https://github.com/camptocamp/devops-stack-module-applicationset/releases/tag/v2.1.1), 4 days ago) - A DevOps Stack module to deploy a generic ApplicationSet in Argo CD
+- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v3.1.0](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v3.1.0), 4 days ago) - A DevOps Stack module to deploy and configure Traefik
+- [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) ([v2.3.0](https://github.com/camptocamp/devops-stack-module-longhorn/releases/tag/v2.3.0), 4 days ago) - 
+- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v5.1.0](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v5.1.0), 4 days ago) - A DevOps Stack module to deploy and configure Loki
+- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v7.1.0](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v7.1.0), 4 days ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
 
 #### 🔨 Latest Pull Requests I published
 
