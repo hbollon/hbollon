@@ -36,11 +36,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
+- [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) ([v2.1.0](https://github.com/camptocamp/terraform-provider-pass/releases/tag/v2.1.0), today) - Pass Terraform provider
 - [camptocamp/prometheus-puppetdb-sd](https://github.com/camptocamp/prometheus-puppetdb-sd) ([0.13.0](https://github.com/camptocamp/prometheus-puppetdb-sd/releases/tag/0.13.0), 1 day ago) - Generate scrape files for Prometheus from PuppetDB
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.3.0](https://github.com/camptocamp/terraboard/releases/tag/v2.3.0), 1 day ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 - [camptocamp/devops-stack-module-applicationset](https://github.com/camptocamp/devops-stack-module-applicationset) ([v2.1.1](https://github.com/camptocamp/devops-stack-module-applicationset/releases/tag/v2.1.1), 1 week ago) - A DevOps Stack module to deploy a generic ApplicationSet in Argo CD
 - [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v3.1.0](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v3.1.0), 1 week ago) - A DevOps Stack module to deploy and configure Traefik
-- [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) ([v2.3.0](https://github.com/camptocamp/devops-stack-module-longhorn/releases/tag/v2.3.0), 1 week ago) - 
 
 #### 🔨 Latest Pull Requests I published
 
