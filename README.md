@@ -20,11 +20,11 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) - Pass Terraform provider (5 days ago)
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (6 days ago)
-- [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (6 days ago)
+- [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) - Pass Terraform provider (6 days ago)
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (1 week ago)
+- [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (1 week ago)
 - [camptocamp/docker-merginmaps](https://github.com/camptocamp/docker-merginmaps) - Merginmap Docker image with custom configuration (2 weeks ago)
-- [camptocamp/helm-merginmap](https://github.com/camptocamp/helm-merginmap) -  (3 weeks ago)
+- [camptocamp/helm-merginmap](https://github.com/camptocamp/helm-merginmap) -  (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) ([v2.1.0](https://github.com/camptocamp/terraform-provider-pass/releases/tag/v2.1.0), 5 days ago) - Pass Terraform provider
-- [camptocamp/prometheus-puppetdb-sd](https://github.com/camptocamp/prometheus-puppetdb-sd) ([0.13.0](https://github.com/camptocamp/prometheus-puppetdb-sd/releases/tag/0.13.0), 6 days ago) - Generate scrape files for Prometheus from PuppetDB
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.3.0](https://github.com/camptocamp/terraboard/releases/tag/v2.3.0), 6 days ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
-- [camptocamp/devops-stack-module-applicationset](https://github.com/camptocamp/devops-stack-module-applicationset) ([v2.1.1](https://github.com/camptocamp/devops-stack-module-applicationset/releases/tag/v2.1.1), 1 week ago) - A DevOps Stack module to deploy a generic ApplicationSet in Argo CD
-- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v3.1.0](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v3.1.0), 1 week ago) - A DevOps Stack module to deploy and configure Traefik
+- [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) ([v2.1.0](https://github.com/camptocamp/terraform-provider-pass/releases/tag/v2.1.0), 6 days ago) - Pass Terraform provider
+- [camptocamp/prometheus-puppetdb-sd](https://github.com/camptocamp/prometheus-puppetdb-sd) ([0.13.0](https://github.com/camptocamp/prometheus-puppetdb-sd/releases/tag/0.13.0), 1 week ago) - Generate scrape files for Prometheus from PuppetDB
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.3.0](https://github.com/camptocamp/terraboard/releases/tag/v2.3.0), 1 week ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
+- [camptocamp/devops-stack-module-applicationset](https://github.com/camptocamp/devops-stack-module-applicationset) ([v2.1.1](https://github.com/camptocamp/devops-stack-module-applicationset/releases/tag/v2.1.1), 2 weeks ago) - A DevOps Stack module to deploy a generic ApplicationSet in Argo CD
+- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v3.1.0](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v3.1.0), 2 weeks ago) - A DevOps Stack module to deploy and configure Traefik
 
 #### 🔨 Latest Pull Requests I published
 
