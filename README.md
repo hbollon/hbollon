@@ -36,11 +36,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
+- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v5.2.0](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v5.2.0), today) - A DevOps Stack module to deploy and configure Loki
 - [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v8.0.0](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v8.0.0), today) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
 - [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v4.0.0](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v4.0.0), 1 day ago) - A DevOps Stack module to deploy and configure Traefik
 - [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v6.0.0](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v6.0.0), 1 day ago) - 
 - [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) ([v2.1.0](https://github.com/camptocamp/terraform-provider-pass/releases/tag/v2.1.0), 1 week ago) - Pass Terraform provider
-- [camptocamp/prometheus-puppetdb-sd](https://github.com/camptocamp/prometheus-puppetdb-sd) ([0.13.0](https://github.com/camptocamp/prometheus-puppetdb-sd/releases/tag/0.13.0), 1 week ago) - Generate scrape files for Prometheus from PuppetDB
 
 #### 🔨 Latest Pull Requests I published
 
