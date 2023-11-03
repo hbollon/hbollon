@@ -36,19 +36,19 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
+- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v8.0.0](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v8.0.0), today) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
 - [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v4.0.0](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v4.0.0), 1 day ago) - A DevOps Stack module to deploy and configure Traefik
 - [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v6.0.0](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v6.0.0), 1 day ago) - 
 - [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) ([v2.1.0](https://github.com/camptocamp/terraform-provider-pass/releases/tag/v2.1.0), 1 week ago) - Pass Terraform provider
 - [camptocamp/prometheus-puppetdb-sd](https://github.com/camptocamp/prometheus-puppetdb-sd) ([0.13.0](https://github.com/camptocamp/prometheus-puppetdb-sd/releases/tag/0.13.0), 1 week ago) - Generate scrape files for Prometheus from PuppetDB
-- [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.3.0](https://github.com/camptocamp/terraboard/releases/tag/v2.3.0), 1 week ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat!: rewrite plugin using React plugin framework](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/pull/149) on [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) (today)
 - [feat: parameterize backup and replicas settings and tweak default values](https://github.com/camptocamp/devops-stack-module-longhorn/pull/13) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (2 months ago)
 - [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-traefik/pull/52) on [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) (3 months ago)
 - [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-dex/pull/11) on [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) (3 months ago)
 - [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-longhorn/pull/6) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (3 months ago)
-- [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-loki-stack/pull/75) on [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) (3 months ago)
 
 #### 💬 Feedback
 
