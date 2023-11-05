@@ -36,15 +36,15 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v5.2.0](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v5.2.0), 1 day ago) - A DevOps Stack module to deploy and configure Loki
-- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v8.0.0](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v8.0.0), 1 day ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
-- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v4.0.0](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v4.0.0), 2 days ago) - A DevOps Stack module to deploy and configure Traefik
-- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v6.0.0](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v6.0.0), 2 days ago) - 
+- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v5.2.0](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v5.2.0), 2 days ago) - A DevOps Stack module to deploy and configure Loki
+- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v8.0.0](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v8.0.0), 2 days ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
+- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v4.0.0](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v4.0.0), 3 days ago) - A DevOps Stack module to deploy and configure Traefik
+- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v6.0.0](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v6.0.0), 3 days ago) - 
 - [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) ([v2.1.0](https://github.com/camptocamp/terraform-provider-pass/releases/tag/v2.1.0), 1 week ago) - Pass Terraform provider
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat!: rewrite plugin using React plugin framework](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/pull/149) on [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) (1 day ago)
+- [feat!: rewrite plugin using React plugin framework](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/pull/149) on [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) (2 days ago)
 - [feat: parameterize backup and replicas settings and tweak default values](https://github.com/camptocamp/devops-stack-module-longhorn/pull/13) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (2 months ago)
 - [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-traefik/pull/52) on [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) (3 months ago)
 - [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-dex/pull/11) on [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) (3 months ago)
