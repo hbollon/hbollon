@@ -20,7 +20,7 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (1 day ago)
+- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (today)
 - [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) - Pass Terraform provider (1 week ago)
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (1 week ago)
 - [camptocamp/charts](https://github.com/camptocamp/charts) - Camptocamp Charts for Kubernetes Helm (1 week ago)
@@ -36,7 +36,7 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v2.0.0](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v2.0.0), 1 day ago) - Grafana Datasource for the Prometheus Alertmanager
+- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v2.0.0](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v2.0.0), today) - Grafana Datasource for the Prometheus Alertmanager
 - [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v5.2.0](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v5.2.0), 4 days ago) - A DevOps Stack module to deploy and configure Loki
 - [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v8.0.0](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v8.0.0), 4 days ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
 - [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v4.0.0](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v4.0.0), 5 days ago) - A DevOps Stack module to deploy and configure Traefik
