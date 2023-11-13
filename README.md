@@ -36,9 +36,9 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
+- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v3.5.1](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v3.5.1), today) - A DevOps Stack module to deploy and configure Argo CD
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) ([v1.5.2](https://github.com/camptocamp/devops-stack/releases/tag/v1.5.2), 3 days ago) - 🌊 An all-in-one Kubernetes ☸ stack using Argo CD 🐙 and Terraform as base components
 - [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v7.0.1](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v7.0.1), 3 days ago) - 
-- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v3.5.0](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v3.5.0), 3 days ago) - A DevOps Stack module to deploy and configure Argo CD
 - [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v4.1.0](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v4.1.0), 3 days ago) - A DevOps Stack module to deploy and configure Traefik
 - [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v6.0.0](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v6.0.0), 3 days ago) - A DevOps Stack module to deploy and configure Loki
 
