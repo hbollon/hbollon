@@ -37,14 +37,14 @@ I'm also an Airsoft lover ❤️
 #### 🔭 Latest releases I've contributed to
 
 - [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v3.5.1](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v3.5.1), 2 weeks ago) - A DevOps Stack module to deploy and configure Argo CD
-- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v7.0.1](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v7.0.1), 2 weeks ago) - 
-- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v4.1.0](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v4.1.0), 2 weeks ago) - A DevOps Stack module to deploy and configure Traefik
-- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v6.0.0](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v6.0.0), 2 weeks ago) - A DevOps Stack module to deploy and configure Loki
+- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v7.0.1](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v7.0.1), 3 weeks ago) - 
+- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v4.1.0](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v4.1.0), 3 weeks ago) - A DevOps Stack module to deploy and configure Traefik
+- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v6.0.0](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v6.0.0), 3 weeks ago) - A DevOps Stack module to deploy and configure Loki
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v2.0.0](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v2.0.0), 3 weeks ago) - Grafana Datasource for the Prometheus Alertmanager
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat!: rewrite plugin using React plugin framework](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/pull/149) on [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) (3 weeks ago)
+- [feat!: rewrite plugin using React plugin framework](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/pull/149) on [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) (4 weeks ago)
 - [feat: parameterize backup and replicas settings and tweak default values](https://github.com/camptocamp/devops-stack-module-longhorn/pull/13) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (3 months ago)
 - [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-traefik/pull/52) on [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) (4 months ago)
 - [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-dex/pull/11) on [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) (4 months ago)
