@@ -44,7 +44,7 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat!: rewrite plugin using React plugin framework](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/pull/149) on [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) (4 weeks ago)
+- [feat!: rewrite plugin using React plugin framework](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/pull/149) on [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) (1 month ago)
 - [feat: parameterize backup and replicas settings and tweak default values](https://github.com/camptocamp/devops-stack-module-longhorn/pull/13) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (3 months ago)
 - [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-traefik/pull/52) on [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) (4 months ago)
 - [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-dex/pull/11) on [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) (4 months ago)
