@@ -20,7 +20,7 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/docker-argocd](https://github.com/camptocamp/docker-argocd) -  (6 days ago)
+- [camptocamp/docker-argocd](https://github.com/camptocamp/docker-argocd) -  (1 week ago)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (1 month ago)
 - [camptocamp/terraform-provider-pass](https://github.com/camptocamp/terraform-provider-pass) - Pass Terraform provider (1 month ago)
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States  (1 month ago)
@@ -36,7 +36,7 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v8.2.0](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v8.2.0), today) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
+- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v8.2.0](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v8.2.0), 1 day ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
 - [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v3.5.1](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v3.5.1), 1 month ago) - A DevOps Stack module to deploy and configure Argo CD
 - [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v7.0.1](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v7.0.1), 1 month ago) - 
 - [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v4.1.0](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v4.1.0), 1 month ago) - A DevOps Stack module to deploy and configure Traefik
@@ -45,7 +45,7 @@ I'm also an Airsoft lover ❤️
 #### 🔨 Latest Pull Requests I published
 
 - [feat!: rewrite plugin using React plugin framework](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/pull/149) on [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) (1 month ago)
-- [feat: parameterize backup and replicas settings and tweak default values](https://github.com/camptocamp/devops-stack-module-longhorn/pull/13) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (3 months ago)
+- [feat: parameterize backup and replicas settings and tweak default values](https://github.com/camptocamp/devops-stack-module-longhorn/pull/13) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (4 months ago)
 - [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-traefik/pull/52) on [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) (5 months ago)
 - [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-dex/pull/11) on [camptocamp/devops-stack-module-dex](https://github.com/camptocamp/devops-stack-module-dex) (5 months ago)
 - [feat!: add support to oboukili/argocd v5](https://github.com/camptocamp/devops-stack-module-longhorn/pull/6) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (5 months ago)
