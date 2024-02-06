@@ -46,7 +46,7 @@ I'm also an Airsoft lover ❤️
 
 - [fix: conditional issue with persistence defaultClass helm variable](https://github.com/camptocamp/devops-stack-module-longhorn/pull/25) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (1 week ago)
 - [feat: add automatic filesystem trim feature using recurringjob](https://github.com/camptocamp/devops-stack-module-longhorn/pull/22) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (1 week ago)
-- [feat: upgrade chart to v1.5.2](https://github.com/camptocamp/devops-stack-module-longhorn/pull/21) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (1 week ago)
+- [feat: upgrade chart to v1.5.2](https://github.com/camptocamp/devops-stack-module-longhorn/pull/21) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (2 weeks ago)
 - [feat: add variable for additional alerts labels](https://github.com/camptocamp/devops-stack-module-longhorn/pull/20) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (2 weeks ago)
 - [feat!: rewrite plugin using React plugin framework](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/pull/149) on [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) (3 months ago)
 
