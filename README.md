@@ -38,16 +38,16 @@ I'm also an Airsoft lover ❤️
 
 - [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v9.1.0](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v9.1.0), 1 week ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
 - [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) ([v3.2.1](https://github.com/camptocamp/devops-stack-module-longhorn/releases/tag/v3.2.1), 3 weeks ago) - 
-- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v7.0.1](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v7.0.1), 4 weeks ago) - A DevOps Stack module to deploy and configure Loki
+- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v7.0.1](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v7.0.1), 1 month ago) - A DevOps Stack module to deploy and configure Loki
 - [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v4.0.0](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v4.0.0), 1 month ago) - A DevOps Stack module to deploy and configure Argo CD
 - [camptocamp/devops-stack-module-applicationset](https://github.com/camptocamp/devops-stack-module-applicationset) ([v3.0.0](https://github.com/camptocamp/devops-stack-module-applicationset/releases/tag/v3.0.0), 1 month ago) - A DevOps Stack module to deploy a generic ApplicationSet in Argo CD
 
 #### 🔨 Latest Pull Requests I published
 
 - [fix: conditional issue with persistence defaultClass helm variable](https://github.com/camptocamp/devops-stack-module-longhorn/pull/25) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (3 weeks ago)
-- [feat: add automatic filesystem trim feature using recurringjob](https://github.com/camptocamp/devops-stack-module-longhorn/pull/22) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (3 weeks ago)
+- [feat: add automatic filesystem trim feature using recurringjob](https://github.com/camptocamp/devops-stack-module-longhorn/pull/22) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (4 weeks ago)
 - [feat: upgrade chart to v1.5.2](https://github.com/camptocamp/devops-stack-module-longhorn/pull/21) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (4 weeks ago)
-- [feat: add variable for additional alerts labels](https://github.com/camptocamp/devops-stack-module-longhorn/pull/20) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (4 weeks ago)
+- [feat: add variable for additional alerts labels](https://github.com/camptocamp/devops-stack-module-longhorn/pull/20) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (1 month ago)
 - [feat!: rewrite plugin using React plugin framework](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/pull/149) on [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) (3 months ago)
 
 #### 💬 Feedback
