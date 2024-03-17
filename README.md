@@ -36,8 +36,8 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v4.4.0](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v4.4.0), 1 day ago) - A DevOps Stack module to deploy and configure Argo CD
-- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v7.1.0](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v7.1.0), 3 days ago) - A DevOps Stack module to deploy and configure Loki
+- [camptocamp/devops-stack-module-argocd](https://github.com/camptocamp/devops-stack-module-argocd) ([v4.4.0](https://github.com/camptocamp/devops-stack-module-argocd/releases/tag/v4.4.0), 2 days ago) - A DevOps Stack module to deploy and configure Argo CD
+- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v7.1.0](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v7.1.0), 4 days ago) - A DevOps Stack module to deploy and configure Loki
 - [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) ([v3.4.0](https://github.com/camptocamp/devops-stack-module-longhorn/releases/tag/v3.4.0), 1 week ago) - 
 - [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v9.2.1](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v9.2.1), 2 weeks ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
 - [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v8.1.0](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v8.1.0), 2 weeks ago) - 
