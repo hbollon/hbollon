@@ -36,17 +36,17 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v10.1.1](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v10.1.1), 4 days ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
-- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v6.3.0](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v6.3.0), 4 days ago) - A DevOps Stack module to deploy and configure Traefik
-- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v7.2.0](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v7.2.0), 5 days ago) - A DevOps Stack module to deploy and configure Loki
-- [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) ([v3.5.0](https://github.com/camptocamp/devops-stack-module-longhorn/releases/tag/v3.5.0), 5 days ago) - 
-- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v8.2.0](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v8.2.0), 5 days ago) - 
+- [camptocamp/devops-stack-module-kube-prometheus-stack](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack) ([v10.1.1](https://github.com/camptocamp/devops-stack-module-kube-prometheus-stack/releases/tag/v10.1.1), 5 days ago) - A DevOps Stack module to deploy and configure the kube-prometheus-stack
+- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v6.3.0](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v6.3.0), 5 days ago) - A DevOps Stack module to deploy and configure Traefik
+- [camptocamp/devops-stack-module-loki-stack](https://github.com/camptocamp/devops-stack-module-loki-stack) ([v7.2.0](https://github.com/camptocamp/devops-stack-module-loki-stack/releases/tag/v7.2.0), 6 days ago) - A DevOps Stack module to deploy and configure Loki
+- [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) ([v3.5.0](https://github.com/camptocamp/devops-stack-module-longhorn/releases/tag/v3.5.0), 6 days ago) - 
+- [camptocamp/devops-stack-module-cert-manager](https://github.com/camptocamp/devops-stack-module-cert-manager) ([v8.2.0](https://github.com/camptocamp/devops-stack-module-cert-manager/releases/tag/v8.2.0), 6 days ago) - 
 
 #### 🔨 Latest Pull Requests I published
 
 - [fix: conditional issue with persistence defaultClass helm variable](https://github.com/camptocamp/devops-stack-module-longhorn/pull/25) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (2 months ago)
 - [feat: add automatic filesystem trim feature using recurringjob](https://github.com/camptocamp/devops-stack-module-longhorn/pull/22) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (2 months ago)
-- [feat: upgrade chart to v1.5.2](https://github.com/camptocamp/devops-stack-module-longhorn/pull/21) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (2 months ago)
+- [feat: upgrade chart to v1.5.2](https://github.com/camptocamp/devops-stack-module-longhorn/pull/21) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (3 months ago)
 - [feat: add variable for additional alerts labels](https://github.com/camptocamp/devops-stack-module-longhorn/pull/20) on [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) (3 months ago)
 - [feat!: rewrite plugin using React plugin framework](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/pull/149) on [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) (5 months ago)
 
