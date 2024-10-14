@@ -20,11 +20,11 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
+- [camptocamp/geoshop-front](https://github.com/camptocamp/geoshop-front) - Front end for https://github.com/camptocamp/geoshop-back/ and fork of https://github.com/sitn/geoshop-front (today)
 - [camptocamp/helm-merginmaps](https://github.com/camptocamp/helm-merginmaps) - Helm repository to install the backend side for MerginMaps (1 week ago)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (2 weeks ago)
 - [camptocamp/geoshop-back](https://github.com/camptocamp/geoshop-back) -  (2 weeks ago)
 - [hbollon/portfolio-vuejs](https://github.com/hbollon/portfolio-vuejs) - 💼 Portfolio template using VueJs framework, CosmicJS API and Bootstrap (2 weeks ago)
-- [camptocamp/docker-asit-extract](https://github.com/camptocamp/docker-asit-extract) -  (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -44,11 +44,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: missing comma in config.json.tmpl](https://github.com/camptocamp/geoshop-front/pull/25) on [camptocamp/geoshop-front](https://github.com/camptocamp/geoshop-front) (today)
 - [ci(dependabot): fix triggering condition and metadata step](https://github.com/camptocamp/geoshop-back/pull/44) on [camptocamp/geoshop-back](https://github.com/camptocamp/geoshop-back) (2 weeks ago)
 - [ci(dependabot): fix fetch-metadata action](https://github.com/camptocamp/geoshop-front/pull/22) on [camptocamp/geoshop-front](https://github.com/camptocamp/geoshop-front) (2 weeks ago)
 - [build: run compilemessages in the Dockerfile](https://github.com/camptocamp/geoshop-back/pull/41) on [camptocamp/geoshop-back](https://github.com/camptocamp/geoshop-back) (2 weeks ago)
 - [chore(docker-compose): use remote GHCR images for geoshop apps](https://github.com/camptocamp/docker-asit-extract/pull/21) on [camptocamp/docker-asit-extract](https://github.com/camptocamp/docker-asit-extract) (4 weeks ago)
-- [ci(dep): add missing permissions and second attempt to fix condition](https://github.com/camptocamp/geoshop-front/pull/17) on [camptocamp/geoshop-front](https://github.com/camptocamp/geoshop-front) (1 month ago)
 
 #### 💬 Feedback
 
