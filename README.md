@@ -20,10 +20,10 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
+- [camptocamp/geoshop-back](https://github.com/camptocamp/geoshop-back) -  (today)
 - [camptocamp/geoshop-front](https://github.com/camptocamp/geoshop-front) - Front end for https://github.com/camptocamp/geoshop-back/ and fork of https://github.com/sitn/geoshop-front (today)
 - [camptocamp/helm-merginmaps](https://github.com/camptocamp/helm-merginmaps) - Helm repository to install the backend side for MerginMaps (1 week ago)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (2 weeks ago)
-- [camptocamp/geoshop-back](https://github.com/camptocamp/geoshop-back) -  (2 weeks ago)
 - [hbollon/portfolio-vuejs](https://github.com/hbollon/portfolio-vuejs) - 💼 Portfolio template using VueJs framework, CosmicJS API and Bootstrap (2 weeks ago)
 
 #### 🌱 My latest projects
