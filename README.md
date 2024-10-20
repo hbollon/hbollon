@@ -20,8 +20,8 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/geoshop-back](https://github.com/camptocamp/geoshop-back) -  (5 days ago)
-- [camptocamp/geoshop-front](https://github.com/camptocamp/geoshop-front) - Front end for https://github.com/camptocamp/geoshop-back/ and fork of https://github.com/sitn/geoshop-front (5 days ago)
+- [camptocamp/geoshop-back](https://github.com/camptocamp/geoshop-back) -  (6 days ago)
+- [camptocamp/geoshop-front](https://github.com/camptocamp/geoshop-front) - Front end for https://github.com/camptocamp/geoshop-back/ and fork of https://github.com/sitn/geoshop-front (6 days ago)
 - [camptocamp/helm-merginmaps](https://github.com/camptocamp/helm-merginmaps) - Helm repository to install the backend side for MerginMaps (2 weeks ago)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (3 weeks ago)
 - [hbollon/portfolio-vuejs](https://github.com/hbollon/portfolio-vuejs) - 💼 Portfolio template using VueJs framework, CosmicJS API and Bootstrap (3 weeks ago)
@@ -44,7 +44,7 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: missing comma in config.json.tmpl](https://github.com/camptocamp/geoshop-front/pull/25) on [camptocamp/geoshop-front](https://github.com/camptocamp/geoshop-front) (5 days ago)
+- [fix: missing comma in config.json.tmpl](https://github.com/camptocamp/geoshop-front/pull/25) on [camptocamp/geoshop-front](https://github.com/camptocamp/geoshop-front) (6 days ago)
 - [ci(dependabot): fix triggering condition and metadata step](https://github.com/camptocamp/geoshop-back/pull/44) on [camptocamp/geoshop-back](https://github.com/camptocamp/geoshop-back) (3 weeks ago)
 - [ci(dependabot): fix fetch-metadata action](https://github.com/camptocamp/geoshop-front/pull/22) on [camptocamp/geoshop-front](https://github.com/camptocamp/geoshop-front) (3 weeks ago)
 - [build: run compilemessages in the Dockerfile](https://github.com/camptocamp/geoshop-back/pull/41) on [camptocamp/geoshop-back](https://github.com/camptocamp/geoshop-back) (3 weeks ago)
