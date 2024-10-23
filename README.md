@@ -44,11 +44,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(extract): increase Tomcat cache size to 512mb](https://github.com/camptocamp/docker-asit-extract/pull/25) on [camptocamp/docker-asit-extract](https://github.com/camptocamp/docker-asit-extract) (today)
 - [fix: missing comma in config.json.tmpl](https://github.com/camptocamp/geoshop-front/pull/25) on [camptocamp/geoshop-front](https://github.com/camptocamp/geoshop-front) (1 week ago)
 - [ci(dependabot): fix triggering condition and metadata step](https://github.com/camptocamp/geoshop-back/pull/44) on [camptocamp/geoshop-back](https://github.com/camptocamp/geoshop-back) (3 weeks ago)
 - [ci(dependabot): fix fetch-metadata action](https://github.com/camptocamp/geoshop-front/pull/22) on [camptocamp/geoshop-front](https://github.com/camptocamp/geoshop-front) (3 weeks ago)
 - [build: run compilemessages in the Dockerfile](https://github.com/camptocamp/geoshop-back/pull/41) on [camptocamp/geoshop-back](https://github.com/camptocamp/geoshop-back) (4 weeks ago)
-- [chore(docker-compose): use remote GHCR images for geoshop apps](https://github.com/camptocamp/docker-asit-extract/pull/21) on [camptocamp/docker-asit-extract](https://github.com/camptocamp/docker-asit-extract) (1 month ago)
 
 #### 💬 Feedback
 
