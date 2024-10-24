@@ -20,7 +20,7 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/docker-asit-extract](https://github.com/camptocamp/docker-asit-extract) -  (1 day ago)
+- [camptocamp/docker-asit-extract](https://github.com/camptocamp/docker-asit-extract) -  (today)
 - [camptocamp/geoshop-front](https://github.com/camptocamp/geoshop-front) - Front end for https://github.com/camptocamp/geoshop-back/ and fork of https://github.com/sitn/geoshop-front (1 week ago)
 - [camptocamp/geoshop-back](https://github.com/camptocamp/geoshop-back) -  (1 week ago)
 - [camptocamp/helm-merginmaps](https://github.com/camptocamp/helm-merginmaps) - Helm repository to install the backend side for MerginMaps (3 weeks ago)
@@ -44,11 +44,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
+- [build: redure image size by removing unused packages](https://github.com/camptocamp/docker-asit-extract/pull/27) on [camptocamp/docker-asit-extract](https://github.com/camptocamp/docker-asit-extract) (today)
 - [feat: rootless image and custom properties](https://github.com/camptocamp/docker-asit-extract/pull/26) on [camptocamp/docker-asit-extract](https://github.com/camptocamp/docker-asit-extract) (today)
 - [fix(extract): increase Tomcat cache size to 512mb](https://github.com/camptocamp/docker-asit-extract/pull/25) on [camptocamp/docker-asit-extract](https://github.com/camptocamp/docker-asit-extract) (1 day ago)
 - [fix: missing comma in config.json.tmpl](https://github.com/camptocamp/geoshop-front/pull/25) on [camptocamp/geoshop-front](https://github.com/camptocamp/geoshop-front) (1 week ago)
 - [ci(dependabot): fix triggering condition and metadata step](https://github.com/camptocamp/geoshop-back/pull/44) on [camptocamp/geoshop-back](https://github.com/camptocamp/geoshop-back) (4 weeks ago)
-- [ci(dependabot): fix fetch-metadata action](https://github.com/camptocamp/geoshop-front/pull/22) on [camptocamp/geoshop-front](https://github.com/camptocamp/geoshop-front) (4 weeks ago)
 
 #### 💬 Feedback
 
