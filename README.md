@@ -36,7 +36,7 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) ([v4.0.0](https://github.com/camptocamp/devops-stack-module-longhorn/releases/tag/v4.0.0), 3 weeks ago) - 
+- [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) ([v4.0.0](https://github.com/camptocamp/devops-stack-module-longhorn/releases/tag/v4.0.0), 4 weeks ago) - 
 - [camptocamp/helm-merginmaps](https://github.com/camptocamp/helm-merginmaps) ([0.3.0](https://github.com/camptocamp/helm-merginmaps/releases/tag/0.3.0), 1 month ago) - Helm repository to install the backend side for MerginMaps
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v2.1.0](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v2.1.0), 1 month ago) - Grafana Datasource for the Prometheus Alertmanager
 - [camptocamp/terraform-provider-freeipa](https://github.com/camptocamp/terraform-provider-freeipa) ([v1.0.0](https://github.com/camptocamp/terraform-provider-freeipa/releases/tag/v1.0.0), 2 months ago) - FreeIPA Terraform Provider
@@ -46,7 +46,7 @@ I'm also an Airsoft lover ❤️
 
 - [build: redure image size by removing unused packages](https://github.com/camptocamp/docker-asit-extract/pull/27) on [camptocamp/docker-asit-extract](https://github.com/camptocamp/docker-asit-extract) (1 week ago)
 - [feat: rootless image and custom properties](https://github.com/camptocamp/docker-asit-extract/pull/26) on [camptocamp/docker-asit-extract](https://github.com/camptocamp/docker-asit-extract) (1 week ago)
-- [fix(extract): increase Tomcat cache size to 512mb](https://github.com/camptocamp/docker-asit-extract/pull/25) on [camptocamp/docker-asit-extract](https://github.com/camptocamp/docker-asit-extract) (1 week ago)
+- [fix(extract): increase Tomcat cache size to 512mb](https://github.com/camptocamp/docker-asit-extract/pull/25) on [camptocamp/docker-asit-extract](https://github.com/camptocamp/docker-asit-extract) (2 weeks ago)
 - [fix: missing comma in config.json.tmpl](https://github.com/camptocamp/geoshop-front/pull/25) on [camptocamp/geoshop-front](https://github.com/camptocamp/geoshop-front) (3 weeks ago)
 - [ci(dependabot): fix triggering condition and metadata step](https://github.com/camptocamp/geoshop-back/pull/44) on [camptocamp/geoshop-back](https://github.com/camptocamp/geoshop-back) (1 month ago)
 
