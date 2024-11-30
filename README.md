@@ -23,7 +23,7 @@ I'm also an Airsoft lover ❤️
 - [camptocamp/docker-asit-extract](https://github.com/camptocamp/docker-asit-extract) -  (1 month ago)
 - [camptocamp/geoshop-back](https://github.com/camptocamp/geoshop-back) -  (1 month ago)
 - [camptocamp/geoshop-front](https://github.com/camptocamp/geoshop-front) - Front end for https://github.com/camptocamp/geoshop-back/ and fork of https://github.com/sitn/geoshop-front (1 month ago)
-- [camptocamp/helm-merginmaps](https://github.com/camptocamp/helm-merginmaps) - Helm repository to install the backend side for MerginMaps (1 month ago)
+- [camptocamp/helm-merginmaps](https://github.com/camptocamp/helm-merginmaps) - Helm repository to install the backend side for MerginMaps (2 months ago)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (2 months ago)
 
 #### 🌱 My latest projects
@@ -37,7 +37,7 @@ I'm also an Airsoft lover ❤️
 #### 🔭 Latest releases I've contributed to
 
 - [camptocamp/devops-stack-module-longhorn](https://github.com/camptocamp/devops-stack-module-longhorn) ([v4.0.0](https://github.com/camptocamp/devops-stack-module-longhorn/releases/tag/v4.0.0), 1 month ago) - 
-- [camptocamp/helm-merginmaps](https://github.com/camptocamp/helm-merginmaps) ([0.3.0](https://github.com/camptocamp/helm-merginmaps/releases/tag/0.3.0), 1 month ago) - Helm repository to install the backend side for MerginMaps
+- [camptocamp/helm-merginmaps](https://github.com/camptocamp/helm-merginmaps) ([0.3.0](https://github.com/camptocamp/helm-merginmaps/releases/tag/0.3.0), 2 months ago) - Helm repository to install the backend side for MerginMaps
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v2.1.0](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v2.1.0), 2 months ago) - Grafana Datasource for the Prometheus Alertmanager
 - [camptocamp/terraform-provider-freeipa](https://github.com/camptocamp/terraform-provider-freeipa) ([v1.0.0](https://github.com/camptocamp/terraform-provider-freeipa/releases/tag/v1.0.0), 3 months ago) - FreeIPA Terraform Provider
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.4.0](https://github.com/camptocamp/terraboard/releases/tag/v2.4.0), 4 months ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
