@@ -48,7 +48,7 @@ I'm also an Airsoft lover ❤️
 - [feat: rootless image and custom properties](https://github.com/camptocamp/docker-asit-extract/pull/26) on [camptocamp/docker-asit-extract](https://github.com/camptocamp/docker-asit-extract) (2 months ago)
 - [fix(extract): increase Tomcat cache size to 512mb](https://github.com/camptocamp/docker-asit-extract/pull/25) on [camptocamp/docker-asit-extract](https://github.com/camptocamp/docker-asit-extract) (2 months ago)
 - [fix: missing comma in config.json.tmpl](https://github.com/camptocamp/geoshop-front/pull/25) on [camptocamp/geoshop-front](https://github.com/camptocamp/geoshop-front) (2 months ago)
-- [ci(dependabot): fix triggering condition and metadata step](https://github.com/camptocamp/geoshop-back/pull/44) on [camptocamp/geoshop-back](https://github.com/camptocamp/geoshop-back) (2 months ago)
+- [ci(dependabot): fix triggering condition and metadata step](https://github.com/camptocamp/geoshop-back/pull/44) on [camptocamp/geoshop-back](https://github.com/camptocamp/geoshop-back) (3 months ago)
 
 #### 💬 Feedback
 
