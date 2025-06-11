@@ -20,11 +20,11 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (1 week ago)
+- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (2 weeks ago)
 - [camptocamp/helm-merginmaps](https://github.com/camptocamp/helm-merginmaps) - Helm repository to install the backend side for MerginMaps (2 months ago)
 - [camptocamp/docker-asit-extract](https://github.com/camptocamp/docker-asit-extract) -  (7 months ago)
-- [camptocamp/geoshop-back](https://github.com/camptocamp/geoshop-back) -  (7 months ago)
-- [camptocamp/geoshop-front](https://github.com/camptocamp/geoshop-front) - Front end for https://github.com/camptocamp/geoshop-back/ and fork of https://github.com/sitn/geoshop-front (7 months ago)
+- [camptocamp/geoshop-back](https://github.com/camptocamp/geoshop-back) -  (8 months ago)
+- [camptocamp/geoshop-front](https://github.com/camptocamp/geoshop-front) - Front end for https://github.com/camptocamp/geoshop-back/ and fork of https://github.com/sitn/geoshop-front (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -47,7 +47,7 @@ I'm also an Airsoft lover ❤️
 - [build: redure image size by removing unused packages](https://github.com/camptocamp/docker-asit-extract/pull/27) on [camptocamp/docker-asit-extract](https://github.com/camptocamp/docker-asit-extract) (7 months ago)
 - [feat: rootless image and custom properties](https://github.com/camptocamp/docker-asit-extract/pull/26) on [camptocamp/docker-asit-extract](https://github.com/camptocamp/docker-asit-extract) (7 months ago)
 - [fix(extract): increase Tomcat cache size to 512mb](https://github.com/camptocamp/docker-asit-extract/pull/25) on [camptocamp/docker-asit-extract](https://github.com/camptocamp/docker-asit-extract) (7 months ago)
-- [fix: missing comma in config.json.tmpl](https://github.com/camptocamp/geoshop-front/pull/25) on [camptocamp/geoshop-front](https://github.com/camptocamp/geoshop-front) (7 months ago)
+- [fix: missing comma in config.json.tmpl](https://github.com/camptocamp/geoshop-front/pull/25) on [camptocamp/geoshop-front](https://github.com/camptocamp/geoshop-front) (8 months ago)
 
 #### 💬 Feedback
 
