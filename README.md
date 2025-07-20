@@ -46,7 +46,7 @@ I'm also an Airsoft lover ❤️
 - [feat: add modulable captcha support with ReCaptcha V2 implementation](https://github.com/zitadel/zitadel/pull/9785) on [zitadel/zitadel](https://github.com/zitadel/zitadel) (2 months ago)
 - [build: redure image size by removing unused packages](https://github.com/camptocamp/geoshop/pull/27) on [camptocamp/geoshop](https://github.com/camptocamp/geoshop) (8 months ago)
 - [feat: rootless image and custom properties](https://github.com/camptocamp/geoshop/pull/26) on [camptocamp/geoshop](https://github.com/camptocamp/geoshop) (8 months ago)
-- [fix(extract): increase Tomcat cache size to 512mb](https://github.com/camptocamp/geoshop/pull/25) on [camptocamp/geoshop](https://github.com/camptocamp/geoshop) (8 months ago)
+- [fix(extract): increase Tomcat cache size to 512mb](https://github.com/camptocamp/geoshop/pull/25) on [camptocamp/geoshop](https://github.com/camptocamp/geoshop) (9 months ago)
 - [fix: missing comma in config.json.tmpl](https://github.com/camptocamp/geoshop-front/pull/25) on [camptocamp/geoshop-front](https://github.com/camptocamp/geoshop-front) (9 months ago)
 
 #### 💬 Feedback
