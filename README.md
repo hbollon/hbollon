@@ -37,7 +37,7 @@ I'm also an Airsoft lover ❤️
 #### 🔭 Latest releases I've contributed to
 
 - [camptocamp/helm-merginmaps](https://github.com/camptocamp/helm-merginmaps) ([0.4.1](https://github.com/camptocamp/helm-merginmaps/releases/tag/0.4.1), 3 months ago) - Helm repository to install the backend side for MerginMaps
-- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v2.1.0](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v2.1.0), 9 months ago) - Grafana Datasource for the Prometheus Alertmanager
+- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v2.1.0](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v2.1.0), 10 months ago) - Grafana Datasource for the Prometheus Alertmanager
 - [camptocamp/terraform-provider-freeipa](https://github.com/camptocamp/terraform-provider-freeipa) ([v1.0.0](https://github.com/camptocamp/terraform-provider-freeipa/releases/tag/v1.0.0), 10 months ago) - FreeIPA Terraform Provider
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) ([v2.4.0](https://github.com/camptocamp/terraboard/releases/tag/v2.4.0), 1 year ago) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 
