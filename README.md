@@ -20,19 +20,19 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
+- [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV  (today)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (3 weeks ago)
 - [camptocamp/helm-merginmaps](https://github.com/camptocamp/helm-merginmaps) - Helm repository to install the backend side for MerginMaps (3 months ago)
 - [camptocamp/geoshop](https://github.com/camptocamp/geoshop) -  (9 months ago)
 - [camptocamp/geoshop-back](https://github.com/camptocamp/geoshop-back) -  (9 months ago)
-- [camptocamp/geoshop-front](https://github.com/camptocamp/geoshop-front) - Front end for https://github.com/camptocamp/geoshop-back/ and fork of https://github.com/sitn/geoshop-front (9 months ago)
 
 #### 🌱 My latest projects
 
+- [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV 
 - [hbollon/jgo](https://github.com/hbollon/jgo) - 📔 Generic JSON parser library. Used to unmarshal .json to generic structures and be able to marshal them.
 - [hbollon/go-project-template](https://github.com/hbollon/go-project-template) - 📜 My personal way-to-go template for all of my Go projects on Github. Including gitignore, readme, licence, Github Action workflows, issue/PR templates, contributing guideline...
 - [hbollon/pepites-insolites-website](https://github.com/hbollon/pepites-insolites-website) - 
 - [hbollon/svm-ml-exercise](https://github.com/hbollon/svm-ml-exercise) - Showcase exercise to use svm algorithm in machine learning 
-- [hbollon/k8s-voting-app-aws](https://github.com/hbollon/k8s-voting-app-aws) - :wheel_of_dharma: Example of a distributed voting app running on Kubernetes. Written in Golang with Terraform definitions to deploy to AWS EKS
 
 #### 🔭 Latest releases I've contributed to
 
