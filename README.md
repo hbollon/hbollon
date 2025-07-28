@@ -20,7 +20,7 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV  (today)
+- [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV  (1 day ago)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (3 weeks ago)
 - [camptocamp/helm-merginmaps](https://github.com/camptocamp/helm-merginmaps) - Helm repository to install the backend side for MerginMaps (3 months ago)
 - [camptocamp/geoshop](https://github.com/camptocamp/geoshop) -  (9 months ago)
