@@ -42,7 +42,7 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
-- [PB-1836: update psycopg to v3.2](https://github.com/geoadmin/service-control/pull/109) on [geoadmin/service-control](https://github.com/geoadmin/service-control) (1 week ago)
+- [PB-1836: update psycopg to v3.2](https://github.com/geoadmin/service-control/pull/109) on [geoadmin/service-control](https://github.com/geoadmin/service-control) (2 weeks ago)
 - [feat: add modulable captcha support with ReCaptcha V2 implementation](https://github.com/zitadel/zitadel/pull/9785) on [zitadel/zitadel](https://github.com/zitadel/zitadel) (3 months ago)
 - [build: redure image size by removing unused packages](https://github.com/camptocamp/geoshop/pull/27) on [camptocamp/geoshop](https://github.com/camptocamp/geoshop) (9 months ago)
 - [feat: rootless image and custom properties](https://github.com/camptocamp/geoshop/pull/26) on [camptocamp/geoshop](https://github.com/camptocamp/geoshop) (9 months ago)
