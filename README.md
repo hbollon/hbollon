@@ -24,7 +24,7 @@ I'm also an Airsoft lover ❤️
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (1 month ago)
 - [camptocamp/helm-merginmaps](https://github.com/camptocamp/helm-merginmaps) - Helm repository to install the backend side for MerginMaps (4 months ago)
 - [camptocamp/geoshop](https://github.com/camptocamp/geoshop) -  (9 months ago)
-- [camptocamp/geoshop-back](https://github.com/camptocamp/geoshop-back) -  (10 months ago)
+- [camptocamp/geoshop-front](https://github.com/camptocamp/geoshop-front) - Front end for https://github.com/camptocamp/geoshop-back/ and fork of https://github.com/sitn/geoshop-front (10 months ago)
 
 #### 🌱 My latest projects
 
