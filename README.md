@@ -20,11 +20,11 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
+- [hbollon/go-edlib](https://github.com/hbollon/go-edlib) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc... (today)
 - [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV  (3 weeks ago)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (1 month ago)
 - [camptocamp/helm-merginmaps](https://github.com/camptocamp/helm-merginmaps) - Helm repository to install the backend side for MerginMaps (4 months ago)
 - [camptocamp/geoshop](https://github.com/camptocamp/geoshop) -  (9 months ago)
-- [camptocamp/geoshop-front](https://github.com/camptocamp/geoshop-front) - Front end for https://github.com/camptocamp/geoshop-back/ and fork of https://github.com/sitn/geoshop-front (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -36,6 +36,7 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
+- [hbollon/go-edlib](https://github.com/hbollon/go-edlib) ([v1.7.0](https://github.com/hbollon/go-edlib/releases/tag/v1.7.0), today) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc...
 - [camptocamp/helm-merginmaps](https://github.com/camptocamp/helm-merginmaps) ([0.4.1](https://github.com/camptocamp/helm-merginmaps/releases/tag/0.4.1), 4 months ago) - Helm repository to install the backend side for MerginMaps
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v2.1.0](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v2.1.0), 10 months ago) - Grafana Datasource for the Prometheus Alertmanager
 - [camptocamp/terraform-provider-freeipa](https://github.com/camptocamp/terraform-provider-freeipa) ([v1.0.0](https://github.com/camptocamp/terraform-provider-freeipa/releases/tag/v1.0.0), 11 months ago) - FreeIPA Terraform Provider
