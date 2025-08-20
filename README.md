@@ -20,11 +20,11 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [hbollon/go-edlib](https://github.com/hbollon/go-edlib) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc... (today)
+- [hbollon/go-edlib](https://github.com/hbollon/go-edlib) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc... (1 day ago)
 - [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV  (3 weeks ago)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (1 month ago)
 - [camptocamp/helm-merginmaps](https://github.com/camptocamp/helm-merginmaps) - Helm repository to install the backend side for MerginMaps (4 months ago)
-- [camptocamp/geoshop](https://github.com/camptocamp/geoshop) -  (9 months ago)
+- [camptocamp/geoshop](https://github.com/camptocamp/geoshop) -  (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -36,7 +36,7 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [hbollon/go-edlib](https://github.com/hbollon/go-edlib) ([v1.7.0](https://github.com/hbollon/go-edlib/releases/tag/v1.7.0), today) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc...
+- [hbollon/go-edlib](https://github.com/hbollon/go-edlib) ([v1.7.0](https://github.com/hbollon/go-edlib/releases/tag/v1.7.0), 1 day ago) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc...
 - [camptocamp/helm-merginmaps](https://github.com/camptocamp/helm-merginmaps) ([0.4.1](https://github.com/camptocamp/helm-merginmaps/releases/tag/0.4.1), 4 months ago) - Helm repository to install the backend side for MerginMaps
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v2.1.0](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v2.1.0), 10 months ago) - Grafana Datasource for the Prometheus Alertmanager
 - [camptocamp/terraform-provider-freeipa](https://github.com/camptocamp/terraform-provider-freeipa) ([v1.0.0](https://github.com/camptocamp/terraform-provider-freeipa/releases/tag/v1.0.0), 11 months ago) - FreeIPA Terraform Provider
@@ -44,9 +44,9 @@ I'm also an Airsoft lover ❤️
 #### 🔨 Latest Pull Requests I published
 
 - [PB-1836: update psycopg to v3.2](https://github.com/geoadmin/service-control/pull/109) on [geoadmin/service-control](https://github.com/geoadmin/service-control) (2 weeks ago)
-- [feat: add modulable captcha support with ReCaptcha V2 implementation](https://github.com/zitadel/zitadel/pull/9785) on [zitadel/zitadel](https://github.com/zitadel/zitadel) (3 months ago)
-- [build: redure image size by removing unused packages](https://github.com/camptocamp/geoshop/pull/27) on [camptocamp/geoshop](https://github.com/camptocamp/geoshop) (9 months ago)
-- [feat: rootless image and custom properties](https://github.com/camptocamp/geoshop/pull/26) on [camptocamp/geoshop](https://github.com/camptocamp/geoshop) (9 months ago)
+- [feat: add modulable captcha support with ReCaptcha V2 implementation](https://github.com/zitadel/zitadel/pull/9785) on [zitadel/zitadel](https://github.com/zitadel/zitadel) (4 months ago)
+- [build: redure image size by removing unused packages](https://github.com/camptocamp/geoshop/pull/27) on [camptocamp/geoshop](https://github.com/camptocamp/geoshop) (10 months ago)
+- [feat: rootless image and custom properties](https://github.com/camptocamp/geoshop/pull/26) on [camptocamp/geoshop](https://github.com/camptocamp/geoshop) (10 months ago)
 - [fix(extract): increase Tomcat cache size to 512mb](https://github.com/camptocamp/geoshop/pull/25) on [camptocamp/geoshop](https://github.com/camptocamp/geoshop) (10 months ago)
 
 #### 💬 Feedback
