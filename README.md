@@ -20,9 +20,9 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [geoadmin/service-control](https://github.com/geoadmin/service-control) - OGD Access Controller (3 days ago)
-- [hbollon/go-edlib](https://github.com/hbollon/go-edlib) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc... (4 days ago)
-- [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV  (3 weeks ago)
+- [geoadmin/service-control](https://github.com/geoadmin/service-control) - OGD Access Controller (4 days ago)
+- [hbollon/go-edlib](https://github.com/hbollon/go-edlib) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc... (5 days ago)
+- [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV  (4 weeks ago)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (1 month ago)
 - [camptocamp/helm-merginmaps](https://github.com/camptocamp/helm-merginmaps) - Helm repository to install the backend side for MerginMaps (4 months ago)
 
@@ -36,7 +36,7 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [hbollon/go-edlib](https://github.com/hbollon/go-edlib) ([v1.7.0](https://github.com/hbollon/go-edlib/releases/tag/v1.7.0), 4 days ago) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc...
+- [hbollon/go-edlib](https://github.com/hbollon/go-edlib) ([v1.7.0](https://github.com/hbollon/go-edlib/releases/tag/v1.7.0), 5 days ago) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc...
 - [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.10.0](https://github.com/geoadmin/service-control/releases/tag/v0.10.0), 2 months ago) - OGD Access Controller
 - [camptocamp/helm-merginmaps](https://github.com/camptocamp/helm-merginmaps) ([0.4.1](https://github.com/camptocamp/helm-merginmaps/releases/tag/0.4.1), 4 months ago) - Helm repository to install the backend side for MerginMaps
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v2.1.0](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v2.1.0), 11 months ago) - Grafana Datasource for the Prometheus Alertmanager
