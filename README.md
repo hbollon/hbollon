@@ -40,7 +40,6 @@ I'm also an Airsoft lover ❤️
 - [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.10.0](https://github.com/geoadmin/service-control/releases/tag/v0.10.0), 2 months ago) - OGD Access Controller
 - [camptocamp/helm-merginmaps](https://github.com/camptocamp/helm-merginmaps) ([0.4.1](https://github.com/camptocamp/helm-merginmaps/releases/tag/0.4.1), 4 months ago) - Helm repository to install the backend side for MerginMaps
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v2.1.0](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v2.1.0), 11 months ago) - Grafana Datasource for the Prometheus Alertmanager
-- [camptocamp/terraform-provider-freeipa](https://github.com/camptocamp/terraform-provider-freeipa) ([v1.0.0](https://github.com/camptocamp/terraform-provider-freeipa/releases/tag/v1.0.0), 1 year ago) - FreeIPA Terraform Provider
 
 #### 🔨 Latest Pull Requests I published
 
