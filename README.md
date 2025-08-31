@@ -23,7 +23,7 @@ I'm also an Airsoft lover ❤️
 - [geoadmin/service-control](https://github.com/geoadmin/service-control) - OGD Access Controller (1 week ago)
 - [hbollon/go-edlib](https://github.com/hbollon/go-edlib) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc... (1 week ago)
 - [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV  (1 month ago)
-- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (1 month ago)
+- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (2 months ago)
 - [camptocamp/helm-merginmaps](https://github.com/camptocamp/helm-merginmaps) - Helm repository to install the backend side for MerginMaps (4 months ago)
 
 #### 🌱 My latest projects
@@ -43,9 +43,9 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
-- [PB-1836: update psycopg to v3.2](https://github.com/geoadmin/service-wmts/pull/98) on [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) (2 days ago)
-- [PB-1836: update psycopg to v3.2](https://github.com/geoadmin/service-search-wsgi/pull/78) on [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) (3 days ago)
-- [PB-1836: update psycopg to v3.2](https://github.com/geoadmin/service-control/pull/109) on [geoadmin/service-control](https://github.com/geoadmin/service-control) (4 weeks ago)
+- [PB-1836: update psycopg to v3.2](https://github.com/geoadmin/service-wmts/pull/98) on [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) (3 days ago)
+- [PB-1836: update psycopg to v3.2](https://github.com/geoadmin/service-search-wsgi/pull/78) on [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) (4 days ago)
+- [PB-1836: update psycopg to v3.2](https://github.com/geoadmin/service-control/pull/109) on [geoadmin/service-control](https://github.com/geoadmin/service-control) (1 month ago)
 - [feat: add modulable captcha support with ReCaptcha V2 implementation](https://github.com/zitadel/zitadel/pull/9785) on [zitadel/zitadel](https://github.com/zitadel/zitadel) (4 months ago)
 - [build: redure image size by removing unused packages](https://github.com/camptocamp/geoshop/pull/27) on [camptocamp/geoshop](https://github.com/camptocamp/geoshop) (10 months ago)
 
