@@ -20,11 +20,11 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [geoadmin/service-control](https://github.com/geoadmin/service-control) - OGD Access Controller (1 week ago)
-- [hbollon/go-edlib](https://github.com/hbollon/go-edlib) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc... (1 week ago)
-- [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV  (1 month ago)
-- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (2 months ago)
-- [camptocamp/helm-merginmaps](https://github.com/camptocamp/helm-merginmaps) - Helm repository to install the backend side for MerginMaps (4 months ago)
+- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (1 week ago)
+- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (2 weeks ago)
+- [camptocamp/devops-stack-module-cluster-sks](https://github.com/camptocamp/devops-stack-module-cluster-sks) - A DevOps Stack module to deploy and configure an SKS cluster  (2 weeks ago)
+- [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) - Web service for sphinx-search (1 month ago)
+- [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;) (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -36,18 +36,19 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [hbollon/go-edlib](https://github.com/hbollon/go-edlib) ([v1.7.0](https://github.com/hbollon/go-edlib/releases/tag/v1.7.0), 1 week ago) - 📚 String comparison and edit distance algorithms library, featuring : Levenshtein, LCS, Hamming, Damerau levenshtein (OSA and Adjacent transpositions algorithms), Jaro-Winkler, Cosine, etc...
-- [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.10.0](https://github.com/geoadmin/service-control/releases/tag/v0.10.0), 2 months ago) - OGD Access Controller
-- [camptocamp/helm-merginmaps](https://github.com/camptocamp/helm-merginmaps) ([0.4.1](https://github.com/camptocamp/helm-merginmaps/releases/tag/0.4.1), 4 months ago) - Helm repository to install the backend side for MerginMaps
-- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v2.1.0](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v2.1.0), 11 months ago) - Grafana Datasource for the Prometheus Alertmanager
+- [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) ([v2.0.2](https://github.com/geoadmin/service-search-wsgi/releases/tag/v2.0.2), 1 day ago) - Web service for sphinx-search
+- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v2.3.1](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v2.3.1), 1 week ago) - Grafana Datasource for the Prometheus Alertmanager
+- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v10.0.0](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v10.0.0), 2 weeks ago) - A DevOps Stack module to deploy and configure Traefik
+- [camptocamp/devops-stack-module-cluster-sks](https://github.com/camptocamp/devops-stack-module-cluster-sks) ([v2.0.0](https://github.com/camptocamp/devops-stack-module-cluster-sks/releases/tag/v2.0.0), 2 weeks ago) - A DevOps Stack module to deploy and configure an SKS cluster 
+- [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.12.0](https://github.com/geoadmin/service-control/releases/tag/v0.12.0), 1 month ago) - OGD Access Controller
 
 #### 🔨 Latest Pull Requests I published
 
-- [PB-1836: update psycopg to v3.2](https://github.com/geoadmin/service-wmts/pull/98) on [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) (3 days ago)
-- [PB-1836: update psycopg to v3.2](https://github.com/geoadmin/service-search-wsgi/pull/78) on [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) (4 days ago)
-- [PB-1836: update psycopg to v3.2](https://github.com/geoadmin/service-control/pull/109) on [geoadmin/service-control](https://github.com/geoadmin/service-control) (1 month ago)
-- [feat: add modulable captcha support with ReCaptcha V2 implementation](https://github.com/zitadel/zitadel/pull/9785) on [zitadel/zitadel](https://github.com/zitadel/zitadel) (4 months ago)
-- [build: redure image size by removing unused packages](https://github.com/camptocamp/geoshop/pull/27) on [camptocamp/geoshop](https://github.com/camptocamp/geoshop) (10 months ago)
+- [PB-1711: run docker image as geodata user](https://github.com/geoadmin/mf-chsdi3/pull/4721) on [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) (3 weeks ago)
+- [feat(sks)!: remove pre-configured router node constraints](https://github.com/camptocamp/devops-stack-module-traefik/pull/94) on [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) (1 month ago)
+- [feat!: add csi support and replace router_nodepool by default_nodepool](https://github.com/camptocamp/devops-stack-module-cluster-sks/pull/15) on [camptocamp/devops-stack-module-cluster-sks](https://github.com/camptocamp/devops-stack-module-cluster-sks) (1 month ago)
+- [chore: update dependencies and node to v24](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/pull/172) on [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) (1 month ago)
+- [ci: install osv-scanner and run validator on PRs](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/pull/171) on [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) (1 month ago)
 
 #### 💬 Feedback
 
