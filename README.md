@@ -24,7 +24,7 @@ I'm also an Airsoft lover ❤️
 - [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (2 weeks ago)
 - [camptocamp/devops-stack-module-cluster-sks](https://github.com/camptocamp/devops-stack-module-cluster-sks) - A DevOps Stack module to deploy and configure an SKS cluster  (2 weeks ago)
 - [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) - Web service for sphinx-search (1 month ago)
-- [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;) (1 month ago)
+- [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;) (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -36,7 +36,7 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) ([v2.0.2](https://github.com/geoadmin/service-search-wsgi/releases/tag/v2.0.2), 3 days ago) - Web service for sphinx-search
+- [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) ([v2.0.2](https://github.com/geoadmin/service-search-wsgi/releases/tag/v2.0.2), 4 days ago) - Web service for sphinx-search
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v2.3.1](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v2.3.1), 1 week ago) - Grafana Datasource for the Prometheus Alertmanager
 - [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v10.0.0](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v10.0.0), 2 weeks ago) - A DevOps Stack module to deploy and configure Traefik
 - [camptocamp/devops-stack-module-cluster-sks](https://github.com/camptocamp/devops-stack-module-cluster-sks) ([v2.0.0](https://github.com/camptocamp/devops-stack-module-cluster-sks/releases/tag/v2.0.0), 2 weeks ago) - A DevOps Stack module to deploy and configure an SKS cluster 
