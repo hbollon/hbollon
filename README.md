@@ -36,11 +36,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
+- [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.13.0](https://github.com/geoadmin/service-control/releases/tag/v0.13.0), today) - OGD Access Controller
 - [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) ([v2.0.2](https://github.com/geoadmin/service-search-wsgi/releases/tag/v2.0.2), 4 days ago) - Web service for sphinx-search
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v2.3.1](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v2.3.1), 1 week ago) - Grafana Datasource for the Prometheus Alertmanager
 - [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v10.0.0](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v10.0.0), 2 weeks ago) - A DevOps Stack module to deploy and configure Traefik
 - [camptocamp/devops-stack-module-cluster-sks](https://github.com/camptocamp/devops-stack-module-cluster-sks) ([v2.0.0](https://github.com/camptocamp/devops-stack-module-cluster-sks/releases/tag/v2.0.0), 2 weeks ago) - A DevOps Stack module to deploy and configure an SKS cluster 
-- [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.12.0](https://github.com/geoadmin/service-control/releases/tag/v0.12.0), 1 month ago) - OGD Access Controller
 
 #### 🔨 Latest Pull Requests I published
 
