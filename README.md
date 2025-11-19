@@ -20,11 +20,11 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
+- [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) - api3.geo.admin.ch source code (today)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (2 weeks ago)
 - [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (3 weeks ago)
 - [camptocamp/devops-stack-module-cluster-sks](https://github.com/camptocamp/devops-stack-module-cluster-sks) - A DevOps Stack module to deploy and configure an SKS cluster  (3 weeks ago)
 - [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) - Web service for sphinx-search (1 month ago)
-- [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;) (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -37,10 +37,10 @@ I'm also an Airsoft lover ❤️
 #### 🔭 Latest releases I've contributed to
 
 - [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.13.0](https://github.com/geoadmin/service-control/releases/tag/v0.13.0), 2 days ago) - OGD Access Controller
+- [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2025-11-12-rc3](https://github.com/geoadmin/mf-chsdi3/releases/tag/2025-11-12-rc3), 5 days ago) - api3.geo.admin.ch source code
 - [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) ([v2.0.2](https://github.com/geoadmin/service-search-wsgi/releases/tag/v2.0.2), 6 days ago) - Web service for sphinx-search
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v2.3.1](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v2.3.1), 2 weeks ago) - Grafana Datasource for the Prometheus Alertmanager
 - [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v10.0.0](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v10.0.0), 3 weeks ago) - A DevOps Stack module to deploy and configure Traefik
-- [camptocamp/devops-stack-module-cluster-sks](https://github.com/camptocamp/devops-stack-module-cluster-sks) ([v2.0.0](https://github.com/camptocamp/devops-stack-module-cluster-sks/releases/tag/v2.0.0), 3 weeks ago) - A DevOps Stack module to deploy and configure an SKS cluster 
 
 #### 🔨 Latest Pull Requests I published
 
