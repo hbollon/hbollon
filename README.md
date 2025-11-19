@@ -36,11 +36,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.13.0](https://github.com/geoadmin/service-control/releases/tag/v0.13.0), 2 days ago) - OGD Access Controller
+- [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) ([v1.17.0](https://github.com/geoadmin/service-wmts/releases/tag/v1.17.0), today) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;)
+- [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) ([v2.1.0](https://github.com/geoadmin/service-search-wsgi/releases/tag/v2.1.0), today) - Web service for sphinx-search
+- [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.14.0](https://github.com/geoadmin/service-control/releases/tag/v0.14.0), today) - OGD Access Controller
 - [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2025-11-12-rc3](https://github.com/geoadmin/mf-chsdi3/releases/tag/2025-11-12-rc3), 5 days ago) - api3.geo.admin.ch source code
-- [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) ([v2.0.2](https://github.com/geoadmin/service-search-wsgi/releases/tag/v2.0.2), 6 days ago) - Web service for sphinx-search
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v2.3.1](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v2.3.1), 2 weeks ago) - Grafana Datasource for the Prometheus Alertmanager
-- [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v10.0.0](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v10.0.0), 3 weeks ago) - A DevOps Stack module to deploy and configure Traefik
 
 #### 🔨 Latest Pull Requests I published
 
