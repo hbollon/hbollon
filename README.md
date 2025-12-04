@@ -36,9 +36,9 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
+- [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.15.0](https://github.com/geoadmin/service-control/releases/tag/v0.15.0), today) - OGD Access Controller
 - [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) ([v1.17.0](https://github.com/geoadmin/service-wmts/releases/tag/v1.17.0), 2 weeks ago) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;)
 - [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) ([v2.1.0](https://github.com/geoadmin/service-search-wsgi/releases/tag/v2.1.0), 2 weeks ago) - Web service for sphinx-search
-- [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.14.0](https://github.com/geoadmin/service-control/releases/tag/v0.14.0), 2 weeks ago) - OGD Access Controller
 - [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2025-11-12-rc3](https://github.com/geoadmin/mf-chsdi3/releases/tag/2025-11-12-rc3), 2 weeks ago) - api3.geo.admin.ch source code
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v2.3.1](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v2.3.1), 4 weeks ago) - Grafana Datasource for the Prometheus Alertmanager
 
