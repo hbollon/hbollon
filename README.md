@@ -21,7 +21,7 @@ I'm also an Airsoft lover ❤️
 #### 👷 Check out what I'm currently working on
 
 - [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) - api3.geo.admin.ch source code (2 weeks ago)
-- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (4 weeks ago)
+- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (1 month ago)
 - [camptocamp/devops-stack-module-cluster-sks](https://github.com/camptocamp/devops-stack-module-cluster-sks) - A DevOps Stack module to deploy and configure an SKS cluster  (1 month ago)
 - [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (1 month ago)
 - [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) - Web service for sphinx-search (2 months ago)
@@ -36,11 +36,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.15.0](https://github.com/geoadmin/service-control/releases/tag/v0.15.0), today) - OGD Access Controller
+- [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.15.0](https://github.com/geoadmin/service-control/releases/tag/v0.15.0), 1 day ago) - OGD Access Controller
 - [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) ([v1.17.0](https://github.com/geoadmin/service-wmts/releases/tag/v1.17.0), 2 weeks ago) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;)
 - [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) ([v2.1.0](https://github.com/geoadmin/service-search-wsgi/releases/tag/v2.1.0), 2 weeks ago) - Web service for sphinx-search
-- [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2025-11-12-rc3](https://github.com/geoadmin/mf-chsdi3/releases/tag/2025-11-12-rc3), 2 weeks ago) - api3.geo.admin.ch source code
-- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v2.3.1](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v2.3.1), 4 weeks ago) - Grafana Datasource for the Prometheus Alertmanager
+- [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2025-11-12-rc3](https://github.com/geoadmin/mf-chsdi3/releases/tag/2025-11-12-rc3), 3 weeks ago) - api3.geo.admin.ch source code
+- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) ([v2.3.1](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/tag/v2.3.1), 1 month ago) - Grafana Datasource for the Prometheus Alertmanager
 
 #### 🔨 Latest Pull Requests I published
 
