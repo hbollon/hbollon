@@ -36,7 +36,7 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.15.0](https://github.com/geoadmin/service-control/releases/tag/v0.15.0), 4 days ago) - OGD Access Controller
+- [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.15.0](https://github.com/geoadmin/service-control/releases/tag/v0.15.0), 5 days ago) - OGD Access Controller
 - [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) ([v1.17.0](https://github.com/geoadmin/service-wmts/releases/tag/v1.17.0), 2 weeks ago) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;)
 - [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) ([v2.1.0](https://github.com/geoadmin/service-search-wsgi/releases/tag/v2.1.0), 2 weeks ago) - Web service for sphinx-search
 - [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2025-11-12-rc3](https://github.com/geoadmin/mf-chsdi3/releases/tag/2025-11-12-rc3), 3 weeks ago) - api3.geo.admin.ch source code
@@ -48,7 +48,7 @@ I'm also an Airsoft lover ❤️
 - [PB-1711: run docker image as geodata user](https://github.com/geoadmin/mf-chsdi3/pull/4721) on [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) (1 month ago)
 - [feat(sks)!: remove pre-configured router node constraints](https://github.com/camptocamp/devops-stack-module-traefik/pull/94) on [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) (1 month ago)
 - [feat!: add csi support and replace router_nodepool by default_nodepool](https://github.com/camptocamp/devops-stack-module-cluster-sks/pull/15) on [camptocamp/devops-stack-module-cluster-sks](https://github.com/camptocamp/devops-stack-module-cluster-sks) (1 month ago)
-- [chore: update dependencies and node to v24](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/pull/172) on [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) (1 month ago)
+- [chore: update dependencies and node to v24](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/pull/172) on [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) (2 months ago)
 
 #### 💬 Feedback
 
