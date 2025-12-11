@@ -44,11 +44,11 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
+- [PB-1954: implement otel instrumentation](https://github.com/geoadmin/service-qrcode/pull/70) on [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) (today)
 - [Revert &#34;Merge pull request #4721 from geoadmin/PB-1711-make-docker-image-rootless&#34;](https://github.com/geoadmin/mf-chsdi3/pull/4750) on [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) (3 weeks ago)
 - [PB-1711: run docker image as geodata user](https://github.com/geoadmin/mf-chsdi3/pull/4721) on [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) (1 month ago)
 - [feat(sks)!: remove pre-configured router node constraints](https://github.com/camptocamp/devops-stack-module-traefik/pull/94) on [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) (1 month ago)
 - [feat!: add csi support and replace router_nodepool by default_nodepool](https://github.com/camptocamp/devops-stack-module-cluster-sks/pull/15) on [camptocamp/devops-stack-module-cluster-sks](https://github.com/camptocamp/devops-stack-module-cluster-sks) (1 month ago)
-- [chore: update dependencies and node to v24](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/pull/172) on [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) (2 months ago)
 
 #### 💬 Feedback
 
