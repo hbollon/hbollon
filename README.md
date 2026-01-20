@@ -24,7 +24,7 @@ I'm also an Airsoft lover ❤️
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (2 months ago)
 - [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (2 months ago)
 - [camptocamp/devops-stack-module-cluster-sks](https://github.com/camptocamp/devops-stack-module-cluster-sks) - A DevOps Stack module to deploy and configure an SKS cluster  (2 months ago)
-- [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) - Web service for sphinx-search (3 months ago)
+- [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) - Web service for sphinx-search (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -36,7 +36,7 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.18.0](https://github.com/geoadmin/service-control/releases/tag/v0.18.0), 5 days ago) - OGD Access Controller
+- [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.18.0](https://github.com/geoadmin/service-control/releases/tag/v0.18.0), 6 days ago) - OGD Access Controller
 - [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2025-12-17-rc1](https://github.com/geoadmin/mf-chsdi3/releases/tag/2025-12-17-rc1), 1 month ago) - api3.geo.admin.ch source code
 - [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) ([v1.17.0](https://github.com/geoadmin/service-wmts/releases/tag/v1.17.0), 2 months ago) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;)
 - [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) ([v2.1.0](https://github.com/geoadmin/service-search-wsgi/releases/tag/v2.1.0), 2 months ago) - Web service for sphinx-search
