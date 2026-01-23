@@ -20,7 +20,7 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) - Create a QR code image from an URL (today)
+- [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) - Create a QR code image from an URL (1 day ago)
 - [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) - api3.geo.admin.ch source code (2 months ago)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (2 months ago)
 - [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (2 months ago)
@@ -36,15 +36,15 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) ([v2.1.1](https://github.com/geoadmin/service-search-wsgi/releases/tag/v2.1.1), 1 day ago) - Web service for sphinx-search
-- [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.19.0](https://github.com/geoadmin/service-control/releases/tag/v0.19.0), 1 day ago) - OGD Access Controller
+- [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) ([v2.1.1](https://github.com/geoadmin/service-search-wsgi/releases/tag/v2.1.1), 2 days ago) - Web service for sphinx-search
+- [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.19.0](https://github.com/geoadmin/service-control/releases/tag/v0.19.0), 2 days ago) - OGD Access Controller
 - [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2025-12-17-rc1](https://github.com/geoadmin/mf-chsdi3/releases/tag/2025-12-17-rc1), 1 month ago) - api3.geo.admin.ch source code
 - [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) ([v1.17.0](https://github.com/geoadmin/service-wmts/releases/tag/v1.17.0), 2 months ago) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;)
 - [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) ([v2.7.0](https://github.com/geoadmin/service-qrcode/releases/tag/v2.7.0), 2 months ago) - Create a QR code image from an URL
 
 #### 🔨 Latest Pull Requests I published
 
-- [PB-2158: implement otel instrumentation](https://github.com/geoadmin/service-wmts/pull/103) on [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) (1 week ago)
+- [PB-2158: implement otel instrumentation](https://github.com/geoadmin/service-wmts/pull/103) on [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) (2 weeks ago)
 - [PB-1954: implement otel instrumentation](https://github.com/geoadmin/service-qrcode/pull/70) on [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) (1 month ago)
 - [Revert &#34;Merge pull request #4721 from geoadmin/PB-1711-make-docker-image-rootless&#34;](https://github.com/geoadmin/mf-chsdi3/pull/4750) on [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) (2 months ago)
 - [PB-1711: run docker image as geodata user](https://github.com/geoadmin/mf-chsdi3/pull/4721) on [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) (3 months ago)
