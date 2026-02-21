@@ -20,7 +20,7 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) - Create a QR code image from an URL (4 weeks ago)
+- [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) - Create a QR code image from an URL (1 month ago)
 - [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) - api3.geo.admin.ch source code (3 months ago)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (3 months ago)
 - [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) - A DevOps Stack module to deploy and configure Traefik (3 months ago)
@@ -48,7 +48,7 @@ I'm also an Airsoft lover ❤️
 - [PB-2158: implement otel instrumentation](https://github.com/geoadmin/service-wmts/pull/103) on [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) (1 month ago)
 - [PB-1954: implement otel instrumentation](https://github.com/geoadmin/service-qrcode/pull/70) on [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) (2 months ago)
 - [Revert &#34;Merge pull request #4721 from geoadmin/PB-1711-make-docker-image-rootless&#34;](https://github.com/geoadmin/mf-chsdi3/pull/4750) on [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) (3 months ago)
-- [PB-1711: run docker image as geodata user](https://github.com/geoadmin/mf-chsdi3/pull/4721) on [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) (3 months ago)
+- [PB-1711: run docker image as geodata user](https://github.com/geoadmin/mf-chsdi3/pull/4721) on [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) (4 months ago)
 
 #### 💬 Feedback
 
