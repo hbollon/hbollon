@@ -44,7 +44,7 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
-- [New Release v2.8.0 - #minor](https://github.com/geoadmin/service-qrcode/pull/71) on [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) (2 weeks ago)
+- [New Release v2.8.0 - #minor](https://github.com/geoadmin/service-qrcode/pull/71) on [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) (3 weeks ago)
 - [PB-2158: implement otel instrumentation](https://github.com/geoadmin/service-wmts/pull/103) on [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) (1 month ago)
 - [PB-1954: implement otel instrumentation](https://github.com/geoadmin/service-qrcode/pull/70) on [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) (2 months ago)
 - [Revert &#34;Merge pull request #4721 from geoadmin/PB-1711-make-docker-image-rootless&#34;](https://github.com/geoadmin/mf-chsdi3/pull/4750) on [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) (3 months ago)
