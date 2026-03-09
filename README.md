@@ -44,7 +44,7 @@ I'm also an Airsoft lover ❤️
 
 #### 🔨 Latest Pull Requests I published
 
-- [New Release v1.18.0 - #minor](https://github.com/geoadmin/service-wmts/pull/104) on [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) (2 days ago)
+- [New Release v1.18.0 - #minor](https://github.com/geoadmin/service-wmts/pull/104) on [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) (3 days ago)
 - [New Release v2.8.0 - #minor](https://github.com/geoadmin/service-qrcode/pull/71) on [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) (1 month ago)
 - [PB-2158: implement otel instrumentation](https://github.com/geoadmin/service-wmts/pull/103) on [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) (1 month ago)
 - [PB-1954: implement otel instrumentation](https://github.com/geoadmin/service-qrcode/pull/70) on [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) (2 months ago)
