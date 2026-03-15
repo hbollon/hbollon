@@ -20,19 +20,19 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
+- [hbollon/portfolio-nuxt](https://github.com/hbollon/portfolio-nuxt) -  (today)
 - [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;) (2 weeks ago)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (3 weeks ago)
 - [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) - Create a QR code image from an URL (1 month ago)
 - [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) - api3.geo.admin.ch source code (3 months ago)
-- [camptocamp/devops-stack-module-cluster-sks](https://github.com/camptocamp/devops-stack-module-cluster-sks) - A DevOps Stack module to deploy and configure an SKS cluster  (4 months ago)
 
 #### 🌱 My latest projects
 
+- [hbollon/portfolio-nuxt](https://github.com/hbollon/portfolio-nuxt) - 
 - [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV 
 - [hbollon/jgo](https://github.com/hbollon/jgo) - 📔 Generic JSON parser library. Used to unmarshal .json to generic structures and be able to marshal them.
 - [hbollon/go-project-template](https://github.com/hbollon/go-project-template) - 📜 My personal way-to-go template for all of my Go projects on Github. Including gitignore, readme, licence, Github Action workflows, issue/PR templates, contributing guideline...
 - [hbollon/pepites-insolites-website](https://github.com/hbollon/pepites-insolites-website) - 
-- [hbollon/svm-ml-exercise](https://github.com/hbollon/svm-ml-exercise) - Showcase exercise to use svm algorithm in machine learning 
 
 #### 🔭 Latest releases I've contributed to
 
