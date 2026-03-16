@@ -36,7 +36,7 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-02-04-rc2](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-02-04-rc2), today) - api3.geo.admin.ch source code
+- [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-02-04-rc3](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-02-04-rc3), today) - api3.geo.admin.ch source code
 - [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) ([v1.18.0](https://github.com/geoadmin/service-wmts/releases/tag/v1.18.0), 1 week ago) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;)
 - [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) ([v2.2.0](https://github.com/geoadmin/service-search-wsgi/releases/tag/v2.2.0), 1 month ago) - Web service for sphinx-search
 - [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v11.0.0](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v11.0.0), 1 month ago) - A DevOps Stack module to deploy and configure Traefik
