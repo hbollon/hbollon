@@ -20,7 +20,7 @@ I'm also an Airsoft lover ❤️
 
 #### 👷 Check out what I'm currently working on
 
-- [hbollon/portfolio-nuxt](https://github.com/hbollon/portfolio-nuxt) - 🌌 A modern space-themed developer portfolio built with Nuxt 4 and Strapi CMS. Statically generated, multilingual (EN/FR), powered by Tailwind CSS with CI/CD and AWS deployment. (4 days ago)
+- [hbollon/portfolio-nuxt](https://github.com/hbollon/portfolio-nuxt) - 🌌 A modern space-themed developer portfolio built with Nuxt 4 and Strapi CMS. Statically generated, multilingual (EN/FR), powered by Tailwind CSS with CI/CD and AWS deployment. (5 days ago)
 - [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;) (3 weeks ago)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (1 month ago)
 - [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) - Create a QR code image from an URL (1 month ago)
@@ -36,8 +36,8 @@ I'm also an Airsoft lover ❤️
 
 #### 🔭 Latest releases I've contributed to
 
-- [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-03-18-rc1](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-03-18-rc1), 2 days ago) - api3.geo.admin.ch source code
-- [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) ([v2.3.0](https://github.com/geoadmin/service-search-wsgi/releases/tag/v2.3.0), 3 days ago) - Web service for sphinx-search
+- [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-03-18-rc1](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-03-18-rc1), 3 days ago) - api3.geo.admin.ch source code
+- [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) ([v2.3.0](https://github.com/geoadmin/service-search-wsgi/releases/tag/v2.3.0), 4 days ago) - Web service for sphinx-search
 - [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) ([v1.18.0](https://github.com/geoadmin/service-wmts/releases/tag/v1.18.0), 1 week ago) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;)
 - [camptocamp/devops-stack-module-traefik](https://github.com/camptocamp/devops-stack-module-traefik) ([v11.0.0](https://github.com/camptocamp/devops-stack-module-traefik/releases/tag/v11.0.0), 1 month ago) - A DevOps Stack module to deploy and configure Traefik
 - [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.19.0](https://github.com/geoadmin/service-control/releases/tag/v0.19.0), 1 month ago) - OGD Access Controller
@@ -45,7 +45,7 @@ I'm also an Airsoft lover ❤️
 #### 🔨 Latest Pull Requests I published
 
 - [Update develop from master](https://github.com/geoadmin/service-wmts/pull/105) on [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) (1 week ago)
-- [New Release v1.18.0 - #minor](https://github.com/geoadmin/service-wmts/pull/104) on [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) (1 week ago)
+- [New Release v1.18.0 - #minor](https://github.com/geoadmin/service-wmts/pull/104) on [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) (2 weeks ago)
 - [New Release v2.8.0 - #minor](https://github.com/geoadmin/service-qrcode/pull/71) on [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) (1 month ago)
 - [PB-2158: implement otel instrumentation](https://github.com/geoadmin/service-wmts/pull/103) on [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) (2 months ago)
 - [PB-1954: implement otel instrumentation](https://github.com/geoadmin/service-qrcode/pull/70) on [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) (3 months ago)
