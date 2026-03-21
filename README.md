@@ -32,7 +32,7 @@ I'm also an Airsoft lover ❤️
 - [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV 
 - [hbollon/jgo](https://github.com/hbollon/jgo) - 📔 Generic JSON parser library. Used to unmarshal .json to generic structures and be able to marshal them.
 - [hbollon/go-project-template](https://github.com/hbollon/go-project-template) - 📜 My personal way-to-go template for all of my Go projects on Github. Including gitignore, readme, licence, Github Action workflows, issue/PR templates, contributing guideline...
-- [hbollon/pepites-insolites-website](https://github.com/hbollon/pepites-insolites-website) - 
+- [hbollon/svm-ml-exercise](https://github.com/hbollon/svm-ml-exercise) - Showcase exercise to use svm algorithm in machine learning 
 
 #### 🔭 Latest releases I've contributed to
 
