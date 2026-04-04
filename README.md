@@ -43,15 +43,15 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 🔭 Latest releases I've contributed to
 
-- [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-05-06-rc2](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-05-06-rc2), 1 day ago) - api3.geo.admin.ch source code
-- [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.20.0](https://github.com/geoadmin/service-control/releases/tag/v0.20.0), 3 days ago) - OGD Access Controller
-- [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) ([v2.8.0](https://github.com/geoadmin/service-qrcode/releases/tag/v2.8.0), 4 days ago) - Create a QR code image from an URL
+- [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-05-06-rc2](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-05-06-rc2), 2 days ago) - api3.geo.admin.ch source code
+- [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.20.0](https://github.com/geoadmin/service-control/releases/tag/v0.20.0), 4 days ago) - OGD Access Controller
+- [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) ([v2.8.0](https://github.com/geoadmin/service-qrcode/releases/tag/v2.8.0), 5 days ago) - Create a QR code image from an URL
 - [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) ([v2.3.0](https://github.com/geoadmin/service-search-wsgi/releases/tag/v2.3.0), 2 weeks ago) - Web service for sphinx-search
 - [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) ([v1.18.0](https://github.com/geoadmin/service-wmts/releases/tag/v1.18.0), 3 weeks ago) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;)
 
 #### 🔨 Latest Pull Requests I published
 
-- [PB-2183: implement otel instrumentation](https://github.com/geoadmin/service-alti/pull/137) on [geoadmin/service-alti](https://github.com/geoadmin/service-alti) (3 days ago)
+- [PB-2183: implement otel instrumentation](https://github.com/geoadmin/service-alti/pull/137) on [geoadmin/service-alti](https://github.com/geoadmin/service-alti) (4 days ago)
 - [Update develop from master](https://github.com/geoadmin/service-wmts/pull/105) on [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) (3 weeks ago)
 - [New Release v1.18.0 - #minor](https://github.com/geoadmin/service-wmts/pull/104) on [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) (4 weeks ago)
 - [New Release v2.8.0 - #minor](https://github.com/geoadmin/service-qrcode/pull/71) on [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) (1 month ago)
