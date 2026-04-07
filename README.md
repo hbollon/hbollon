@@ -43,7 +43,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 🔭 Latest releases I've contributed to
 
-- [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-05-06-rc2](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-05-06-rc2), 5 days ago) - api3.geo.admin.ch source code
+- [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-03-18-rc4](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-03-18-rc4), today) - api3.geo.admin.ch source code
 - [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.20.0](https://github.com/geoadmin/service-control/releases/tag/v0.20.0), 1 week ago) - OGD Access Controller
 - [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) ([v2.8.0](https://github.com/geoadmin/service-qrcode/releases/tag/v2.8.0), 1 week ago) - Create a QR code image from an URL
 - [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) ([v2.3.0](https://github.com/geoadmin/service-search-wsgi/releases/tag/v2.3.0), 3 weeks ago) - Web service for sphinx-search
