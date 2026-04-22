@@ -31,7 +31,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 - [hbollon/portfolio-nuxt](https://github.com/hbollon/portfolio-nuxt) - 🌌 A modern space-themed developer portfolio built with Nuxt 4 and Strapi CMS. Statically generated, multilingual (EN/FR), powered by Tailwind CSS with CI/CD and AWS deployment. (3 weeks ago)
 - [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;) (1 month ago)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (2 months ago)
-- [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) - Create a QR code image from an URL (2 months ago)
+- [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) - Create a QR code image from an URL (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -51,7 +51,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(agents): add dynamic custom subagent registration](https://github.com/alvinunreal/oh-my-opencode-slim/pull/359) on [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) (today)
+- [feat(agents): add dynamic custom subagent registration](https://github.com/alvinunreal/oh-my-opencode-slim/pull/359) on [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) (1 day ago)
 - [New Release v1.10.0 - #minor](https://github.com/geoadmin/service-alti/pull/138) on [geoadmin/service-alti](https://github.com/geoadmin/service-alti) (1 week ago)
 - [PB-2183: implement otel instrumentation](https://github.com/geoadmin/service-alti/pull/137) on [geoadmin/service-alti](https://github.com/geoadmin/service-alti) (3 weeks ago)
 - [Update develop from master](https://github.com/geoadmin/service-wmts/pull/105) on [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) (1 month ago)
