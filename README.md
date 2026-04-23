@@ -27,7 +27,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 👷 Check out what I'm currently working on
 
-- [geoadmin/service-alti](https://github.com/geoadmin/service-alti) - Height/profile services for geo.admin.ch (1 week ago)
+- [geoadmin/service-alti](https://github.com/geoadmin/service-alti) - Height/profile services for geo.admin.ch (2 weeks ago)
 - [hbollon/portfolio-nuxt](https://github.com/hbollon/portfolio-nuxt) - 🌌 A modern space-themed developer portfolio built with Nuxt 4 and Strapi CMS. Statically generated, multilingual (EN/FR), powered by Tailwind CSS with CI/CD and AWS deployment. (3 weeks ago)
 - [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;) (1 month ago)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (2 months ago)
@@ -43,7 +43,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 🔭 Latest releases I've contributed to
 
-- [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.21.0](https://github.com/geoadmin/service-control/releases/tag/v0.21.0), today) - OGD Access Controller
+- [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.21.0](https://github.com/geoadmin/service-control/releases/tag/v0.21.0), 1 day ago) - OGD Access Controller
 - [geoadmin/service-alti](https://github.com/geoadmin/service-alti) ([v1.10.0](https://github.com/geoadmin/service-alti/releases/tag/v1.10.0), 1 week ago) - Height/profile services for geo.admin.ch
 - [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-03-18-rc4](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-03-18-rc4), 2 weeks ago) - api3.geo.admin.ch source code
 - [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) ([v2.8.0](https://github.com/geoadmin/service-qrcode/releases/tag/v2.8.0), 3 weeks ago) - Create a QR code image from an URL
@@ -51,7 +51,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(agents): add dynamic custom subagent registration](https://github.com/alvinunreal/oh-my-opencode-slim/pull/359) on [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) (1 day ago)
+- [feat(agents): add dynamic custom subagent registration](https://github.com/alvinunreal/oh-my-opencode-slim/pull/359) on [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) (2 days ago)
 - [New Release v1.10.0 - #minor](https://github.com/geoadmin/service-alti/pull/138) on [geoadmin/service-alti](https://github.com/geoadmin/service-alti) (1 week ago)
 - [PB-2183: implement otel instrumentation](https://github.com/geoadmin/service-alti/pull/137) on [geoadmin/service-alti](https://github.com/geoadmin/service-alti) (3 weeks ago)
 - [Update develop from master](https://github.com/geoadmin/service-wmts/pull/105) on [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) (1 month ago)
