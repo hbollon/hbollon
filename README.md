@@ -43,10 +43,10 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 🔭 Latest releases I've contributed to
 
-- [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.21.0](https://github.com/geoadmin/service-control/releases/tag/v0.21.0), 6 days ago) - OGD Access Controller
+- [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.21.0](https://github.com/geoadmin/service-control/releases/tag/v0.21.0), 1 week ago) - OGD Access Controller
 - [geoadmin/service-alti](https://github.com/geoadmin/service-alti) ([v1.10.0](https://github.com/geoadmin/service-alti/releases/tag/v1.10.0), 2 weeks ago) - Height/profile services for geo.admin.ch
 - [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-03-18-rc4](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-03-18-rc4), 3 weeks ago) - api3.geo.admin.ch source code
-- [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) ([v2.8.0](https://github.com/geoadmin/service-qrcode/releases/tag/v2.8.0), 4 weeks ago) - Create a QR code image from an URL
+- [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) ([v2.8.0](https://github.com/geoadmin/service-qrcode/releases/tag/v2.8.0), 1 month ago) - Create a QR code image from an URL
 - [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) ([v2.3.0](https://github.com/geoadmin/service-search-wsgi/releases/tag/v2.3.0), 1 month ago) - Web service for sphinx-search
 
 #### 🔨 Latest Pull Requests I published
