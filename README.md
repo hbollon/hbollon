@@ -52,7 +52,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 #### 🔨 Latest Pull Requests I published
 
 - [feat(agents): add dynamic custom subagent registration](https://github.com/alvinunreal/oh-my-opencode-slim/pull/359) on [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) (1 week ago)
-- [New Release v1.10.0 - #minor](https://github.com/geoadmin/service-alti/pull/138) on [geoadmin/service-alti](https://github.com/geoadmin/service-alti) (2 weeks ago)
+- [New Release v1.10.0 - #minor](https://github.com/geoadmin/service-alti/pull/138) on [geoadmin/service-alti](https://github.com/geoadmin/service-alti) (3 weeks ago)
 - [PB-2183: implement otel instrumentation](https://github.com/geoadmin/service-alti/pull/137) on [geoadmin/service-alti](https://github.com/geoadmin/service-alti) (1 month ago)
 - [Update develop from master](https://github.com/geoadmin/service-wmts/pull/105) on [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) (1 month ago)
 - [New Release v1.18.0 - #minor](https://github.com/geoadmin/service-wmts/pull/104) on [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) (1 month ago)
