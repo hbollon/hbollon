@@ -43,8 +43,8 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 🔭 Latest releases I've contributed to
 
-- [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-07-01-rc1](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-07-01-rc1), today) - api3.geo.admin.ch source code
-- [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.23.0](https://github.com/geoadmin/service-control/releases/tag/v0.23.0), 1 day ago) - OGD Access Controller
+- [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-07-01-rc1](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-07-01-rc1), 1 day ago) - api3.geo.admin.ch source code
+- [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.23.0](https://github.com/geoadmin/service-control/releases/tag/v0.23.0), 2 days ago) - OGD Access Controller
 - [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) ([v1.18.1](https://github.com/geoadmin/service-wmts/releases/tag/v1.18.1), 1 week ago) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;)
 - [geoadmin/service-alti](https://github.com/geoadmin/service-alti) ([v1.10.0](https://github.com/geoadmin/service-alti/releases/tag/v1.10.0), 1 month ago) - Height/profile services for geo.admin.ch
 - [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) ([v2.8.0](https://github.com/geoadmin/service-qrcode/releases/tag/v2.8.0), 1 month ago) - Create a QR code image from an URL
