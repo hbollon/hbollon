@@ -27,19 +27,19 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 👷 Check out what I'm currently working on
 
+- [hbollon/skills](https://github.com/hbollon/skills) - Personal custom skills repository (today)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (2 weeks ago)
 - [geoadmin/service-alti](https://github.com/geoadmin/service-alti) - Height/profile services for geo.admin.ch (1 month ago)
 - [hbollon/portfolio-nuxt](https://github.com/hbollon/portfolio-nuxt) - 🌌 A modern space-themed developer portfolio built with Nuxt 4 and Strapi CMS. Statically generated, multilingual (EN/FR), powered by Tailwind CSS with CI/CD and AWS deployment. (2 months ago)
 - [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;) (3 months ago)
-- [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) - Create a QR code image from an URL (4 months ago)
 
 #### 🌱 My latest projects
 
+- [hbollon/skills](https://github.com/hbollon/skills) - Personal custom skills repository
 - [hbollon/portfolio-nuxt](https://github.com/hbollon/portfolio-nuxt) - 🌌 A modern space-themed developer portfolio built with Nuxt 4 and Strapi CMS. Statically generated, multilingual (EN/FR), powered by Tailwind CSS with CI/CD and AWS deployment.
 - [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV 
 - [hbollon/jgo](https://github.com/hbollon/jgo) - 📔 Generic JSON parser library. Used to unmarshal .json to generic structures and be able to marshal them.
 - [hbollon/go-project-template](https://github.com/hbollon/go-project-template) - 📜 My personal way-to-go template for all of my Go projects on Github. Including gitignore, readme, licence, Github Action workflows, issue/PR templates, contributing guideline...
-- [hbollon/svm-ml-exercise](https://github.com/hbollon/svm-ml-exercise) - Showcase exercise to use svm algorithm in machine learning 
 
 #### 🔭 Latest releases I've contributed to
 
