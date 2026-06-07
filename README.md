@@ -27,7 +27,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 👷 Check out what I'm currently working on
 
-- [hbollon/opencode-config](https://github.com/hbollon/opencode-config) - My personal OpenCode agent configuration — a multi-model, multi-agent coding environment tuned for DevOps, IaC, Go, and full-stack development (1 day ago)
+- [hbollon/opencode-config](https://github.com/hbollon/opencode-config) - My personal OpenCode agent configuration — a multi-model, multi-agent coding environment tuned for DevOps, IaC, Go, and full-stack development (2 days ago)
 - [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV  (1 week ago)
 - [hbollon/skills](https://github.com/hbollon/skills) - Personal custom skills repository (1 week ago)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (3 weeks ago)
@@ -45,7 +45,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 - [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-05-06-rc2](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-05-06-rc2), 1 week ago) - api3.geo.admin.ch source code
 - [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.23.0](https://github.com/geoadmin/service-control/releases/tag/v0.23.0), 2 weeks ago) - OGD Access Controller
-- [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) ([v1.18.1](https://github.com/geoadmin/service-wmts/releases/tag/v1.18.1), 4 weeks ago) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;)
+- [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) ([v1.18.1](https://github.com/geoadmin/service-wmts/releases/tag/v1.18.1), 1 month ago) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;)
 - [geoadmin/service-alti](https://github.com/geoadmin/service-alti) ([v1.10.0](https://github.com/geoadmin/service-alti/releases/tag/v1.10.0), 1 month ago) - Height/profile services for geo.admin.ch
 - [geoadmin/service-qrcode](https://github.com/geoadmin/service-qrcode) ([v2.8.0](https://github.com/geoadmin/service-qrcode/releases/tag/v2.8.0), 2 months ago) - Create a QR code image from an URL
 
@@ -54,7 +54,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 - [feat(agents): add dynamic custom subagent registration](https://github.com/alvinunreal/oh-my-opencode-slim/pull/359) on [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) (1 month ago)
 - [New Release v1.10.0 - #minor](https://github.com/geoadmin/service-alti/pull/138) on [geoadmin/service-alti](https://github.com/geoadmin/service-alti) (1 month ago)
 - [PB-2183: implement otel instrumentation](https://github.com/geoadmin/service-alti/pull/137) on [geoadmin/service-alti](https://github.com/geoadmin/service-alti) (2 months ago)
-- [Update develop from master](https://github.com/geoadmin/service-wmts/pull/105) on [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) (2 months ago)
+- [Update develop from master](https://github.com/geoadmin/service-wmts/pull/105) on [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) (3 months ago)
 - [New Release v1.18.0 - #minor](https://github.com/geoadmin/service-wmts/pull/104) on [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) (3 months ago)
 
 #### 💬 Feedback
