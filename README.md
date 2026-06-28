@@ -43,7 +43,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 🔭 Latest releases I've contributed to
 
-- [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) ([v2.4.0](https://github.com/geoadmin/service-search-wsgi/releases/tag/v2.4.0), 4 days ago) - Web service for sphinx-search
+- [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) ([v2.4.0](https://github.com/geoadmin/service-search-wsgi/releases/tag/v2.4.0), 5 days ago) - Web service for sphinx-search
 - [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) ([v1.18.2](https://github.com/geoadmin/service-wmts/releases/tag/v1.18.2), 1 week ago) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;)
 - [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-05-06-rc2](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-05-06-rc2), 1 month ago) - api3.geo.admin.ch source code
 - [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.23.0](https://github.com/geoadmin/service-control/releases/tag/v0.23.0), 1 month ago) - OGD Access Controller
