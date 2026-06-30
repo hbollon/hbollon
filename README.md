@@ -51,11 +51,11 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(accesslog): report upstream failure cause in access logs](https://github.com/traefik/traefik/pull/13442) on [traefik/traefik](https://github.com/traefik/traefik) (today)
 - [feat(agents): add dynamic custom subagent registration](https://github.com/alvinunreal/oh-my-opencode-slim/pull/359) on [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) (2 months ago)
 - [New Release v1.10.0 - #minor](https://github.com/geoadmin/service-alti/pull/138) on [geoadmin/service-alti](https://github.com/geoadmin/service-alti) (2 months ago)
 - [PB-2183: implement otel instrumentation](https://github.com/geoadmin/service-alti/pull/137) on [geoadmin/service-alti](https://github.com/geoadmin/service-alti) (3 months ago)
 - [Update develop from master](https://github.com/geoadmin/service-wmts/pull/105) on [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) (3 months ago)
-- [New Release v1.18.0 - #minor](https://github.com/geoadmin/service-wmts/pull/104) on [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) (3 months ago)
 
 #### 💬 Feedback
 
