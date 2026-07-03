@@ -27,7 +27,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 👷 Check out what I'm currently working on
 
-- [hbollon/opencode-config](https://github.com/hbollon/opencode-config) - My personal OpenCode agent configuration — a multi-model, multi-agent coding environment tuned for DevOps, IaC, Go, and full-stack development (2 weeks ago)
+- [hbollon/opencode-config](https://github.com/hbollon/opencode-config) - My personal OpenCode agent configuration — a multi-model, multi-agent coding environment tuned for DevOps, IaC, Go, and full-stack development (3 weeks ago)
 - [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV  (1 month ago)
 - [hbollon/skills](https://github.com/hbollon/skills) - Personal custom skills repository (1 month ago)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (1 month ago)
@@ -43,7 +43,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 🔭 Latest releases I've contributed to
 
-- [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-07-01-rc1](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-07-01-rc1), 3 days ago) - api3.geo.admin.ch source code
+- [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-07-01-rc1](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-07-01-rc1), 4 days ago) - api3.geo.admin.ch source code
 - [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) ([v2.4.0](https://github.com/geoadmin/service-search-wsgi/releases/tag/v2.4.0), 1 week ago) - Web service for sphinx-search
 - [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) ([v1.18.2](https://github.com/geoadmin/service-wmts/releases/tag/v1.18.2), 2 weeks ago) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;)
 - [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.23.0](https://github.com/geoadmin/service-control/releases/tag/v0.23.0), 1 month ago) - OGD Access Controller
@@ -51,7 +51,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(accesslog): report upstream failure cause in access logs](https://github.com/traefik/traefik/pull/13442) on [traefik/traefik](https://github.com/traefik/traefik) (2 days ago)
+- [feat(accesslog): report upstream failure cause in access logs](https://github.com/traefik/traefik/pull/13442) on [traefik/traefik](https://github.com/traefik/traefik) (3 days ago)
 - [feat(agents): add dynamic custom subagent registration](https://github.com/alvinunreal/oh-my-opencode-slim/pull/359) on [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) (2 months ago)
 - [New Release v1.10.0 - #minor](https://github.com/geoadmin/service-alti/pull/138) on [geoadmin/service-alti](https://github.com/geoadmin/service-alti) (2 months ago)
 - [PB-2183: implement otel instrumentation](https://github.com/geoadmin/service-alti/pull/137) on [geoadmin/service-alti](https://github.com/geoadmin/service-alti) (3 months ago)
