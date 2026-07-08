@@ -31,7 +31,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 - [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV  (1 month ago)
 - [hbollon/skills](https://github.com/hbollon/skills) - Personal custom skills repository (1 month ago)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (1 month ago)
-- [geoadmin/service-alti](https://github.com/geoadmin/service-alti) - Height/profile services for geo.admin.ch (2 months ago)
+- [geoadmin/service-alti](https://github.com/geoadmin/service-alti) - Height/profile services for geo.admin.ch (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -45,13 +45,13 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 - [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-07-01-rc1](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-07-01-rc1), 1 week ago) - api3.geo.admin.ch source code
 - [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) ([v2.4.0](https://github.com/geoadmin/service-search-wsgi/releases/tag/v2.4.0), 2 weeks ago) - Web service for sphinx-search
-- [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) ([v1.18.2](https://github.com/geoadmin/service-wmts/releases/tag/v1.18.2), 2 weeks ago) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;)
+- [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) ([v1.18.2](https://github.com/geoadmin/service-wmts/releases/tag/v1.18.2), 3 weeks ago) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;)
 - [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.23.0](https://github.com/geoadmin/service-control/releases/tag/v0.23.0), 1 month ago) - OGD Access Controller
 - [geoadmin/service-alti](https://github.com/geoadmin/service-alti) ([v1.10.0](https://github.com/geoadmin/service-alti/releases/tag/v1.10.0), 2 months ago) - Height/profile services for geo.admin.ch
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: infinite hang when installing renodx addon without shader pack](https://github.com/Ishidawg/LeShade/pull/76) on [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) (4 days ago)
+- [fix: infinite hang when installing renodx addon without shader pack](https://github.com/Ishidawg/LeShade/pull/76) on [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) (5 days ago)
 - [feat(accesslog): report upstream failure cause in access logs](https://github.com/traefik/traefik/pull/13442) on [traefik/traefik](https://github.com/traefik/traefik) (1 week ago)
 - [feat(agents): add dynamic custom subagent registration](https://github.com/alvinunreal/oh-my-opencode-slim/pull/359) on [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) (2 months ago)
 - [New Release v1.10.0 - #minor](https://github.com/geoadmin/service-alti/pull/138) on [geoadmin/service-alti](https://github.com/geoadmin/service-alti) (2 months ago)
