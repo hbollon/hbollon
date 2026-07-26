@@ -30,7 +30,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 - [hbollon/opencode-config](https://github.com/hbollon/opencode-config) - My personal OpenCode agent configuration — a multi-model, multi-agent coding environment tuned for DevOps, IaC, Go, and full-stack development (2 weeks ago)
 - [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) - An ReShade manager for linux. (3 weeks ago)
 - [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV  (1 month ago)
-- [hbollon/skills](https://github.com/hbollon/skills) - Personal custom skills repository (1 month ago)
+- [hbollon/skills](https://github.com/hbollon/skills) - Personal custom skills repository (2 months ago)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (2 months ago)
 
 #### 🌱 My latest projects
