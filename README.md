@@ -29,7 +29,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 - [hbollon/opencode-config](https://github.com/hbollon/opencode-config) - My personal OpenCode agent configuration — a multi-model, multi-agent coding environment tuned for DevOps, IaC, Go, and full-stack development (2 weeks ago)
 - [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) - An ReShade manager for linux. (3 weeks ago)
-- [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV  (1 month ago)
+- [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV  (2 months ago)
 - [hbollon/skills](https://github.com/hbollon/skills) - Personal custom skills repository (2 months ago)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (2 months ago)
 
@@ -44,7 +44,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 #### 🔭 Latest releases I've contributed to
 
 - [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) ([2.5.0](https://github.com/Ishidawg/LeShade/releases/tag/2.5.0), 3 weeks ago) - An ReShade manager for linux.
-- [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-07-01-rc1](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-07-01-rc1), 3 weeks ago) - api3.geo.admin.ch source code
+- [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-07-01-rc1](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-07-01-rc1), 4 weeks ago) - api3.geo.admin.ch source code
 - [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) ([v2.4.0](https://github.com/geoadmin/service-search-wsgi/releases/tag/v2.4.0), 1 month ago) - Web service for sphinx-search
 - [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) ([v1.18.2](https://github.com/geoadmin/service-wmts/releases/tag/v1.18.2), 1 month ago) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;)
 - [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.23.0](https://github.com/geoadmin/service-control/releases/tag/v0.23.0), 2 months ago) - OGD Access Controller
