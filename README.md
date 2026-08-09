@@ -31,7 +31,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 - [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) - An ReShade manager for linux. (1 month ago)
 - [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV  (2 months ago)
 - [hbollon/skills](https://github.com/hbollon/skills) - Personal custom skills repository (2 months ago)
-- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (2 months ago)
+- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (3 months ago)
 
 #### 🌱 My latest projects
 
