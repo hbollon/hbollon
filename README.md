@@ -43,11 +43,11 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 🔭 Latest releases I've contributed to
 
+- [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) ([v0.2.0](https://github.com/swissgeo/service-drawings/releases/tag/v0.2.0), today) - Service to save and serve drawings (kml) to the frontend
 - [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) ([2.5.0](https://github.com/Ishidawg/LeShade/releases/tag/2.5.0), 1 month ago) - An ReShade manager for linux.
 - [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-07-01-rc1](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-07-01-rc1), 1 month ago) - api3.geo.admin.ch source code
 - [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) ([v2.4.0](https://github.com/geoadmin/service-search-wsgi/releases/tag/v2.4.0), 1 month ago) - Web service for sphinx-search
 - [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) ([v1.18.2](https://github.com/geoadmin/service-wmts/releases/tag/v1.18.2), 1 month ago) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;)
-- [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) ([v0.1.0](https://github.com/swissgeo/service-drawings/releases/tag/v0.1.0), 2 months ago) - Service to save and serve drawings (kml) to the frontend
 
 #### 🔨 Latest Pull Requests I published
 
