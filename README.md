@@ -27,7 +27,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 👷 Check out what I'm currently working on
 
-- [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) - Service to save and serve drawings (kml) to the frontend (5 days ago)
+- [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) - Service to save and serve drawings (kml) to the frontend (6 days ago)
 - [hbollon/opencode-config](https://github.com/hbollon/opencode-config) - My personal OpenCode agent configuration — a multi-model, multi-agent coding environment tuned for DevOps, IaC, Go, and full-stack development (1 month ago)
 - [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) - An ReShade manager for linux. (1 month ago)
 - [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV  (2 months ago)
@@ -43,7 +43,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 🔭 Latest releases I've contributed to
 
-- [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) ([v0.2.0](https://github.com/swissgeo/service-drawings/releases/tag/v0.2.0), 5 days ago) - Service to save and serve drawings (kml) to the frontend
+- [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) ([v0.2.0](https://github.com/swissgeo/service-drawings/releases/tag/v0.2.0), 6 days ago) - Service to save and serve drawings (kml) to the frontend
 - [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) ([2.5.0](https://github.com/Ishidawg/LeShade/releases/tag/2.5.0), 1 month ago) - An ReShade manager for linux.
 - [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-07-01-rc1](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-07-01-rc1), 1 month ago) - api3.geo.admin.ch source code
 - [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) ([v2.4.0](https://github.com/geoadmin/service-search-wsgi/releases/tag/v2.4.0), 1 month ago) - Web service for sphinx-search
