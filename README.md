@@ -51,11 +51,11 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 🔨 Latest Pull Requests I published
 
+- [GPS-888: add PUT update endpoint](https://github.com/swissgeo/service-drawings/pull/8) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (today)
 - [GPS-764: initial service-drawings implementation](https://github.com/swissgeo/service-drawings/pull/4) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (3 weeks ago)
 - [fix: infinite hang when installing renodx addon without shader pack](https://github.com/Ishidawg/LeShade/pull/76) on [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) (1 month ago)
 - [feat(accesslog): report upstream failure cause in access logs](https://github.com/traefik/traefik/pull/13442) on [traefik/traefik](https://github.com/traefik/traefik) (1 month ago)
 - [feat(agents): add dynamic custom subagent registration](https://github.com/alvinunreal/oh-my-opencode-slim/pull/359) on [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) (4 months ago)
-- [New Release v1.10.0 - #minor](https://github.com/geoadmin/service-alti/pull/138) on [geoadmin/service-alti](https://github.com/geoadmin/service-alti) (4 months ago)
 
 #### 💬 Feedback
 
