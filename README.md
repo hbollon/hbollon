@@ -27,11 +27,11 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 👷 Check out what I'm currently working on
 
-- [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) - Service to save and serve drawings (kml) to the frontend (3 days ago)
+- [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) - Service to save and serve drawings (kml) to the frontend (4 days ago)
 - [hbollon/opencode-config](https://github.com/hbollon/opencode-config) - My personal OpenCode agent configuration — a multi-model, multi-agent coding environment tuned for DevOps, IaC, Go, and full-stack development (1 month ago)
 - [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) - An ReShade manager for linux. (1 month ago)
 - [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV  (2 months ago)
-- [hbollon/skills](https://github.com/hbollon/skills) - Personal custom skills repository (2 months ago)
+- [hbollon/skills](https://github.com/hbollon/skills) - Personal custom skills repository (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -51,8 +51,8 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 🔨 Latest Pull Requests I published
 
-- [GPS-895: add renovate config](https://github.com/swissgeo/service-drawings/pull/9) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (3 days ago)
-- [GPS-888: add PUT update endpoint](https://github.com/swissgeo/service-drawings/pull/8) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (4 days ago)
+- [GPS-895: add renovate config](https://github.com/swissgeo/service-drawings/pull/9) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (4 days ago)
+- [GPS-888: add PUT update endpoint](https://github.com/swissgeo/service-drawings/pull/8) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (5 days ago)
 - [GPS-764: initial service-drawings implementation](https://github.com/swissgeo/service-drawings/pull/4) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (4 weeks ago)
 - [fix: infinite hang when installing renodx addon without shader pack](https://github.com/Ishidawg/LeShade/pull/76) on [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) (1 month ago)
 - [feat(accesslog): report upstream failure cause in access logs](https://github.com/traefik/traefik/pull/13442) on [traefik/traefik](https://github.com/traefik/traefik) (1 month ago)
