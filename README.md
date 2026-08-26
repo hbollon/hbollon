@@ -51,11 +51,11 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 🔨 Latest Pull Requests I published
 
+- [GPS-898: add delete drawing feature](https://github.com/swissgeo/service-drawings/pull/12) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (today)
 - [GPS-895: add renovate config](https://github.com/swissgeo/service-drawings/pull/9) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (5 days ago)
 - [GPS-888: add PUT update endpoint](https://github.com/swissgeo/service-drawings/pull/8) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (6 days ago)
 - [GPS-764: initial service-drawings implementation](https://github.com/swissgeo/service-drawings/pull/4) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (1 month ago)
 - [fix: infinite hang when installing renodx addon without shader pack](https://github.com/Ishidawg/LeShade/pull/76) on [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) (1 month ago)
-- [feat(accesslog): report upstream failure cause in access logs](https://github.com/traefik/traefik/pull/13442) on [traefik/traefik](https://github.com/traefik/traefik) (1 month ago)
 
 #### 💬 Feedback
 
