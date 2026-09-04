@@ -27,7 +27,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 👷 Check out what I'm currently working on
 
-- [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) - Service to save and serve drawings (kml) to the frontend (6 days ago)
+- [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) - Service to save and serve drawings (kml) to the frontend (1 week ago)
 - [hbollon/opencode-config](https://github.com/hbollon/opencode-config) - My personal OpenCode agent configuration — a multi-model, multi-agent coding environment tuned for DevOps, IaC, Go, and full-stack development (1 month ago)
 - [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) - An ReShade manager for linux. (2 months ago)
 - [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV  (3 months ago)
@@ -44,7 +44,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 #### 🔭 Latest releases I've contributed to
 
 - [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-08-26-rc1](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-08-26-rc1), 1 week ago) - api3.geo.admin.ch source code
-- [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) ([v0.2.0](https://github.com/swissgeo/service-drawings/releases/tag/v0.2.0), 2 weeks ago) - Service to save and serve drawings (kml) to the frontend
+- [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) ([v0.2.0](https://github.com/swissgeo/service-drawings/releases/tag/v0.2.0), 3 weeks ago) - Service to save and serve drawings (kml) to the frontend
 - [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) ([2.5.0](https://github.com/Ishidawg/LeShade/releases/tag/2.5.0), 2 months ago) - An ReShade manager for linux.
 - [geoadmin/service-search-wsgi](https://github.com/geoadmin/service-search-wsgi) ([v2.4.0](https://github.com/geoadmin/service-search-wsgi/releases/tag/v2.4.0), 2 months ago) - Web service for sphinx-search
 - [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) ([v1.18.2](https://github.com/geoadmin/service-wmts/releases/tag/v1.18.2), 2 months ago) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;)
@@ -52,7 +52,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 #### 🔨 Latest Pull Requests I published
 
 - [GPS-898: add delete drawing feature](https://github.com/swissgeo/service-drawings/pull/12) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (1 week ago)
-- [GPS-895: add renovate config](https://github.com/swissgeo/service-drawings/pull/9) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (1 week ago)
+- [GPS-895: add renovate config](https://github.com/swissgeo/service-drawings/pull/9) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (2 weeks ago)
 - [GPS-888: add PUT update endpoint](https://github.com/swissgeo/service-drawings/pull/8) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (2 weeks ago)
 - [GPS-764: initial service-drawings implementation](https://github.com/swissgeo/service-drawings/pull/4) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (1 month ago)
 - [fix: infinite hang when installing renodx addon without shader pack](https://github.com/Ishidawg/LeShade/pull/76) on [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) (2 months ago)
