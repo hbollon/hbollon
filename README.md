@@ -27,8 +27,8 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 👷 Check out what I'm currently working on
 
-- [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) - Service to save and serve drawings (kml) to the frontend (today)
-- [camptocamp/helm-merginmaps](https://github.com/camptocamp/helm-merginmaps) - Helm repository to install the backend side for MerginMaps (5 days ago)
+- [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) - Service to save and serve drawings (kml) to the frontend (1 day ago)
+- [camptocamp/helm-merginmaps](https://github.com/camptocamp/helm-merginmaps) - Helm repository to install the backend side for MerginMaps (6 days ago)
 - [hbollon/opencode-config](https://github.com/hbollon/opencode-config) - My personal OpenCode agent configuration — a multi-model, multi-agent coding environment tuned for DevOps, IaC, Go, and full-stack development (2 months ago)
 - [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) - An ReShade manager for linux. (2 months ago)
 - [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV  (3 months ago)
@@ -43,7 +43,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 🔭 Latest releases I've contributed to
 
-- [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.24.0](https://github.com/geoadmin/service-control/releases/tag/v0.24.0), 1 day ago) - OGD Access Controller
+- [geoadmin/service-control](https://github.com/geoadmin/service-control) ([v0.24.0](https://github.com/geoadmin/service-control/releases/tag/v0.24.0), 2 days ago) - OGD Access Controller
 - [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-08-26-rc1](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-08-26-rc1), 2 weeks ago) - api3.geo.admin.ch source code
 - [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) ([v0.2.0](https://github.com/swissgeo/service-drawings/releases/tag/v0.2.0), 3 weeks ago) - Service to save and serve drawings (kml) to the frontend
 - [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) ([2.5.0](https://github.com/Ishidawg/LeShade/releases/tag/2.5.0), 2 months ago) - An ReShade manager for linux.
@@ -51,10 +51,10 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 🔨 Latest Pull Requests I published
 
-- [GPS-951: set cache-control no-store on drawings](https://github.com/swissgeo/service-drawings/pull/15) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (today)
+- [GPS-951: set cache-control no-store on drawings](https://github.com/swissgeo/service-drawings/pull/15) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (1 day ago)
 - [GPS-898: add delete drawing feature](https://github.com/swissgeo/service-drawings/pull/12) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (2 weeks ago)
 - [GPS-895: add renovate config](https://github.com/swissgeo/service-drawings/pull/9) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (2 weeks ago)
-- [GPS-888: add PUT update endpoint](https://github.com/swissgeo/service-drawings/pull/8) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (2 weeks ago)
+- [GPS-888: add PUT update endpoint](https://github.com/swissgeo/service-drawings/pull/8) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (3 weeks ago)
 - [GPS-764: initial service-drawings implementation](https://github.com/swissgeo/service-drawings/pull/4) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (1 month ago)
 
 #### 💬 Feedback
