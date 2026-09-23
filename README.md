@@ -28,10 +28,10 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 #### 👷 Check out what I'm currently working on
 
 - [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) - Service to save and serve drawings (kml) to the frontend (1 week ago)
-- [camptocamp/helm-merginmaps](https://github.com/camptocamp/helm-merginmaps) - Helm repository to install the backend side for MerginMaps (2 weeks ago)
 - [hbollon/opencode-config](https://github.com/hbollon/opencode-config) - My personal OpenCode agent configuration — a multi-model, multi-agent coding environment tuned for DevOps, IaC, Go, and full-stack development (2 months ago)
 - [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) - An ReShade manager for linux. (2 months ago)
 - [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV  (3 months ago)
+- [hbollon/skills](https://github.com/hbollon/skills) - Personal custom skills repository (3 months ago)
 
 #### 🌱 My latest projects
 
