@@ -52,8 +52,8 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 #### 🔨 Latest Pull Requests I published
 
 - [docs: add general API documentation to readme](https://github.com/swissgeo/service-drawings/pull/17) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (1 week ago)
-- [GPS-951: set cache-control no-store on drawings](https://github.com/swissgeo/service-drawings/pull/15) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (1 week ago)
-- [GPS-898: add delete drawing feature](https://github.com/swissgeo/service-drawings/pull/12) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (3 weeks ago)
+- [GPS-951: set cache-control no-store on drawings](https://github.com/swissgeo/service-drawings/pull/15) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (2 weeks ago)
+- [GPS-898: add delete drawing feature](https://github.com/swissgeo/service-drawings/pull/12) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (4 weeks ago)
 - [GPS-895: add renovate config](https://github.com/swissgeo/service-drawings/pull/9) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (1 month ago)
 - [GPS-888: add PUT update endpoint](https://github.com/swissgeo/service-drawings/pull/8) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (1 month ago)
 
