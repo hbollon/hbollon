@@ -30,7 +30,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 - [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) - Service to save and serve drawings (kml) to the frontend (2 weeks ago)
 - [hbollon/opencode-config](https://github.com/hbollon/opencode-config) - My personal OpenCode agent configuration — a multi-model, multi-agent coding environment tuned for DevOps, IaC, Go, and full-stack development (2 months ago)
 - [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) - An ReShade manager for linux. (2 months ago)
-- [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV  (3 months ago)
+- [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV  (4 months ago)
 - [hbollon/skills](https://github.com/hbollon/skills) - Personal custom skills repository (4 months ago)
 
 #### 🌱 My latest projects
@@ -53,7 +53,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 - [docs: add general API documentation to readme](https://github.com/swissgeo/service-drawings/pull/17) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (2 weeks ago)
 - [GPS-951: set cache-control no-store on drawings](https://github.com/swissgeo/service-drawings/pull/15) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (2 weeks ago)
-- [GPS-898: add delete drawing feature](https://github.com/swissgeo/service-drawings/pull/12) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (4 weeks ago)
+- [GPS-898: add delete drawing feature](https://github.com/swissgeo/service-drawings/pull/12) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (1 month ago)
 - [GPS-895: add renovate config](https://github.com/swissgeo/service-drawings/pull/9) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (1 month ago)
 - [GPS-888: add PUT update endpoint](https://github.com/swissgeo/service-drawings/pull/8) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (1 month ago)
 
