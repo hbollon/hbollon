@@ -27,19 +27,19 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 👷 Check out what I'm currently working on
 
+- [hbollon/shift](https://github.com/hbollon/shift) -  (today)
 - [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) - Service to save and serve drawings (kml) to the frontend (4 weeks ago)
 - [hbollon/opencode-config](https://github.com/hbollon/opencode-config) - My personal OpenCode agent configuration — a multi-model, multi-agent coding environment tuned for DevOps, IaC, Go, and full-stack development (3 months ago)
 - [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) - An ReShade manager for linux. (3 months ago)
 - [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV  (4 months ago)
-- [hbollon/skills](https://github.com/hbollon/skills) - Personal custom skills repository (4 months ago)
 
 #### 🌱 My latest projects
 
+- [hbollon/shift](https://github.com/hbollon/shift) - 
 - [hbollon/skills](https://github.com/hbollon/skills) - Personal custom skills repository
 - [hbollon/portfolio-nuxt](https://github.com/hbollon/portfolio-nuxt) - 🌌 A modern space-themed developer portfolio built with Nuxt 4 and Strapi CMS. Statically generated, multilingual (EN/FR), powered by Tailwind CSS with CI/CD and AWS deployment.
 - [hbollon/opencode-config](https://github.com/hbollon/opencode-config) - My personal OpenCode agent configuration — a multi-model, multi-agent coding environment tuned for DevOps, IaC, Go, and full-stack development
 - [hbollon/personal-resume](https://github.com/hbollon/personal-resume) - LaTeX sources used to build my CV 
-- [hbollon/jgo](https://github.com/hbollon/jgo) - 📔 Generic JSON parser library. Used to unmarshal .json to generic structures and be able to marshal them.
 
 #### 🔭 Latest releases I've contributed to
 
