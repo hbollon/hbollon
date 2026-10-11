@@ -27,7 +27,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 👷 Check out what I'm currently working on
 
-- [hbollon/shift](https://github.com/hbollon/shift) - ⏱️ Work-hours tracker plugin for the Noctalia shell (v5). One-click check in/out, smart automation and an overtime balance. Theme-native, local-only data. (today)
+- [hbollon/shift](https://github.com/hbollon/shift) - ⏱️ Work-hours tracker plugin for the Noctalia shell (v5). One-click check in/out, smart automation and an overtime balance. Theme-native, local-only data. (1 day ago)
 - [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) - Service to save and serve drawings (kml) to the frontend (1 month ago)
 - [hbollon/opencode-config](https://github.com/hbollon/opencode-config) - My personal OpenCode agent configuration — a multi-model, multi-agent coding environment tuned for DevOps, IaC, Go, and full-stack development (3 months ago)
 - [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) - An ReShade manager for linux. (3 months ago)
@@ -47,7 +47,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 - [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) ([v0.2.0](https://github.com/swissgeo/service-drawings/releases/tag/v0.2.0), 1 month ago) - Service to save and serve drawings (kml) to the frontend
 - [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) ([2.5.0](https://github.com/Ishidawg/LeShade/releases/tag/2.5.0), 3 months ago) - An ReShade manager for linux.
 - [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) ([v1.18.2](https://github.com/geoadmin/service-wmts/releases/tag/v1.18.2), 3 months ago) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;)
-- [geoadmin/service-alti](https://github.com/geoadmin/service-alti) ([v1.10.0](https://github.com/geoadmin/service-alti/releases/tag/v1.10.0), 5 months ago) - Height/profile services for geo.admin.ch
+- [geoadmin/service-alti](https://github.com/geoadmin/service-alti) ([v1.10.0](https://github.com/geoadmin/service-alti/releases/tag/v1.10.0), 6 months ago) - Height/profile services for geo.admin.ch
 
 #### 🔨 Latest Pull Requests I published
 
