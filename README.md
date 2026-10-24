@@ -27,9 +27,9 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 👷 Check out what I'm currently working on
 
-- [hbollon/portfolio-nuxt](https://github.com/hbollon/portfolio-nuxt) - 🌌 A modern space-themed developer portfolio built with Nuxt 4 and Strapi CMS. Statically generated, multilingual (EN/FR), powered by Tailwind CSS with CI/CD and AWS deployment. (today)
-- [hbollon/shift](https://github.com/hbollon/shift) - ⏱️ Work-hours tracker plugin for the Noctalia shell (v5). One-click check in/out, smart automation and an overtime balance. Theme-native, local-only data. (3 days ago)
-- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland. (5 days ago)
+- [hbollon/portfolio-nuxt](https://github.com/hbollon/portfolio-nuxt) - 🌌 A modern space-themed developer portfolio built with Nuxt 4 and Strapi CMS. Statically generated, multilingual (EN/FR), powered by Tailwind CSS with CI/CD and AWS deployment. (1 day ago)
+- [hbollon/shift](https://github.com/hbollon/shift) - ⏱️ Work-hours tracker plugin for the Noctalia shell (v5). One-click check in/out, smart automation and an overtime balance. Theme-native, local-only data. (4 days ago)
+- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland. (6 days ago)
 - [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) - Service to save and serve drawings (kml) to the frontend (1 month ago)
 - [hbollon/opencode-config](https://github.com/hbollon/opencode-config) - My personal OpenCode agent configuration — a multi-model, multi-agent coding environment tuned for DevOps, IaC, Go, and full-stack development (3 months ago)
 
@@ -45,13 +45,13 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 - [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) ([v5.3.0](https://github.com/noctalia-dev/noctalia/releases/tag/v5.3.0), 1 week ago) - A sleek, customizable desktop shell crafted for Wayland.
 - [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) ([v0.3.0](https://github.com/swissgeo/service-drawings/releases/tag/v0.3.0), 1 week ago) - Service to save and serve drawings (kml) to the frontend
-- [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-08-26-rc1](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-08-26-rc1), 1 month ago) - api3.geo.admin.ch source code
+- [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-08-26-rc1](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-08-26-rc1), 2 months ago) - api3.geo.admin.ch source code
 - [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) ([2.5.0](https://github.com/Ishidawg/LeShade/releases/tag/2.5.0), 3 months ago) - An ReShade manager for linux.
 - [geoadmin/service-wmts](https://github.com/geoadmin/service-wmts) ([v1.18.2](https://github.com/geoadmin/service-wmts/releases/tag/v1.18.2), 4 months ago) - Microservice that transforms WMTS requests into WMS requests (an offspring of the infamous &#39;service proxywms&#39;)
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(panel): destroy a closing panel before unregistering it](https://github.com/noctalia-dev/noctalia/pull/4921) on [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) (5 days ago)
+- [fix(panel): destroy a closing panel before unregistering it](https://github.com/noctalia-dev/noctalia/pull/4921) on [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) (6 days ago)
 - [docs: add general API documentation to readme](https://github.com/swissgeo/service-drawings/pull/17) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (1 month ago)
 - [GPS-951: set cache-control no-store on drawings](https://github.com/swissgeo/service-drawings/pull/15) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (1 month ago)
 - [GPS-898: add delete drawing feature](https://github.com/swissgeo/service-drawings/pull/12) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (1 month ago)
