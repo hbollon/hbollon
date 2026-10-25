@@ -27,10 +27,10 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 👷 Check out what I'm currently working on
 
-- [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins) - Community plugins for Noctalia. (today)
-- [hbollon/shift](https://github.com/hbollon/shift) - ⏱️ Work-hours tracker plugin for the Noctalia shell (v5). One-click check in/out, smart automation and an overtime balance. Theme-native, local-only data. (today)
-- [hbollon/portfolio-nuxt](https://github.com/hbollon/portfolio-nuxt) - 🌌 A modern space-themed developer portfolio built with Nuxt 4 and Strapi CMS. Statically generated, multilingual (EN/FR), powered by Tailwind CSS with CI/CD and AWS deployment. (1 day ago)
-- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland. (6 days ago)
+- [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins) - Community plugins for Noctalia. (1 day ago)
+- [hbollon/shift](https://github.com/hbollon/shift) - ⏱️ Work-hours tracker plugin for the Noctalia shell (v5). One-click check in/out, smart automation and an overtime balance. Theme-native, local-only data. (1 day ago)
+- [hbollon/portfolio-nuxt](https://github.com/hbollon/portfolio-nuxt) - 🌌 A modern space-themed developer portfolio built with Nuxt 4 and Strapi CMS. Statically generated, multilingual (EN/FR), powered by Tailwind CSS with CI/CD and AWS deployment. (2 days ago)
+- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland. (1 week ago)
 - [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) - Service to save and serve drawings (kml) to the frontend (1 month ago)
 
 #### 🌱 My latest projects
@@ -43,7 +43,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 🔭 Latest releases I've contributed to
 
-- [hbollon/shift](https://github.com/hbollon/shift) ([v1.0.1](https://github.com/hbollon/shift/releases/tag/v1.0.1), today) - ⏱️ Work-hours tracker plugin for the Noctalia shell (v5). One-click check in/out, smart automation and an overtime balance. Theme-native, local-only data.
+- [hbollon/shift](https://github.com/hbollon/shift) ([v1.0.1](https://github.com/hbollon/shift/releases/tag/v1.0.1), 1 day ago) - ⏱️ Work-hours tracker plugin for the Noctalia shell (v5). One-click check in/out, smart automation and an overtime balance. Theme-native, local-only data.
 - [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) ([v5.3.0](https://github.com/noctalia-dev/noctalia/releases/tag/v5.3.0), 1 week ago) - A sleek, customizable desktop shell crafted for Wayland.
 - [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) ([v0.3.0](https://github.com/swissgeo/service-drawings/releases/tag/v0.3.0), 1 week ago) - Service to save and serve drawings (kml) to the frontend
 - [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-08-26-rc1](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-08-26-rc1), 2 months ago) - api3.geo.admin.ch source code
@@ -51,11 +51,11 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(shift): add Shift, a work-hours tracker](https://github.com/noctalia-dev/community-plugins/pull/1145) on [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins) (today)
-- [fix(panel): destroy a closing panel before unregistering it](https://github.com/noctalia-dev/noctalia/pull/4921) on [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) (6 days ago)
+- [feat(shift): add Shift, a work-hours tracker](https://github.com/noctalia-dev/community-plugins/pull/1145) on [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins) (1 day ago)
+- [fix(panel): destroy a closing panel before unregistering it](https://github.com/noctalia-dev/noctalia/pull/4921) on [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) (1 week ago)
 - [docs: add general API documentation to readme](https://github.com/swissgeo/service-drawings/pull/17) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (1 month ago)
 - [GPS-951: set cache-control no-store on drawings](https://github.com/swissgeo/service-drawings/pull/15) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (1 month ago)
-- [GPS-898: add delete drawing feature](https://github.com/swissgeo/service-drawings/pull/12) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (1 month ago)
+- [GPS-898: add delete drawing feature](https://github.com/swissgeo/service-drawings/pull/12) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (2 months ago)
 
 #### 💬 Feedback
 
