@@ -43,9 +43,9 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 🔭 Latest releases I've contributed to
 
+- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) ([v5.4.1](https://github.com/noctalia-dev/noctalia/releases/tag/v5.4.1), today) - A sleek, customizable desktop shell crafted for Wayland.
 - [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-10-28-rc1](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-10-28-rc1), 2 days ago) - api3.geo.admin.ch source code
 - [hbollon/shift](https://github.com/hbollon/shift) ([v1.0.2](https://github.com/hbollon/shift/releases/tag/v1.0.2), 3 days ago) - ⏱️ Work-hours tracker plugin for the Noctalia shell (v5). One-click check in/out, smart automation and an overtime balance. Theme-native, local-only data.
-- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) ([v5.4.0](https://github.com/noctalia-dev/noctalia/releases/tag/v5.4.0), 3 days ago) - A sleek, customizable desktop shell crafted for Wayland.
 - [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) ([v0.3.0](https://github.com/swissgeo/service-drawings/releases/tag/v0.3.0), 2 weeks ago) - Service to save and serve drawings (kml) to the frontend
 - [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) ([2.5.0](https://github.com/Ishidawg/LeShade/releases/tag/2.5.0), 4 months ago) - An ReShade manager for linux.
 
