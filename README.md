@@ -27,7 +27,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 👷 Check out what I'm currently working on
 
-- [hbollon/shift](https://github.com/hbollon/shift) - ⏱️ Work-hours tracker plugin for the Noctalia shell (v5). One-click check in/out, smart automation and an overtime balance. Theme-native, local-only data. (6 days ago)
+- [hbollon/shift](https://github.com/hbollon/shift) - ⏱️ Work-hours tracker plugin for the Noctalia shell (v5). One-click check in/out, smart automation and an overtime balance. Theme-native, local-only data. (1 week ago)
 - [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins) - Community plugins for Noctalia. (1 week ago)
 - [hbollon/portfolio-nuxt](https://github.com/hbollon/portfolio-nuxt) - 🌌 A modern space-themed developer portfolio built with Nuxt 4 and Strapi CMS. Statically generated, multilingual (EN/FR), powered by Tailwind CSS with CI/CD and AWS deployment. (1 week ago)
 - [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland. (2 weeks ago)
@@ -43,10 +43,10 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 🔭 Latest releases I've contributed to
 
-- [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) ([v0.4.0](https://github.com/swissgeo/service-drawings/releases/tag/v0.4.0), 2 days ago) - Service to save and serve drawings (kml) to the frontend
-- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) ([v5.4.1](https://github.com/noctalia-dev/noctalia/releases/tag/v5.4.1), 3 days ago) - A sleek, customizable desktop shell crafted for Wayland.
-- [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-10-28-rc1](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-10-28-rc1), 5 days ago) - api3.geo.admin.ch source code
-- [hbollon/shift](https://github.com/hbollon/shift) ([v1.0.2](https://github.com/hbollon/shift/releases/tag/v1.0.2), 6 days ago) - ⏱️ Work-hours tracker plugin for the Noctalia shell (v5). One-click check in/out, smart automation and an overtime balance. Theme-native, local-only data.
+- [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) ([v0.4.0](https://github.com/swissgeo/service-drawings/releases/tag/v0.4.0), 3 days ago) - Service to save and serve drawings (kml) to the frontend
+- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) ([v5.4.1](https://github.com/noctalia-dev/noctalia/releases/tag/v5.4.1), 4 days ago) - A sleek, customizable desktop shell crafted for Wayland.
+- [geoadmin/mf-chsdi3](https://github.com/geoadmin/mf-chsdi3) ([2026-10-28-rc1](https://github.com/geoadmin/mf-chsdi3/releases/tag/2026-10-28-rc1), 6 days ago) - api3.geo.admin.ch source code
+- [hbollon/shift](https://github.com/hbollon/shift) ([v1.0.2](https://github.com/hbollon/shift/releases/tag/v1.0.2), 1 week ago) - ⏱️ Work-hours tracker plugin for the Noctalia shell (v5). One-click check in/out, smart automation and an overtime balance. Theme-native, local-only data.
 - [Ishidawg/LeShade](https://github.com/Ishidawg/LeShade) ([2.5.0](https://github.com/Ishidawg/LeShade/releases/tag/2.5.0), 4 months ago) - An ReShade manager for linux.
 
 #### 🔨 Latest Pull Requests I published
