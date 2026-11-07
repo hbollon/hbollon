@@ -28,7 +28,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 #### 👷 Check out what I'm currently working on
 
 - [hbollon/shift](https://github.com/hbollon/shift) - ⏱️ Work-hours tracker plugin for the Noctalia shell (v5). One-click check in/out, smart automation and an overtime balance. Theme-native, local-only data. (1 week ago)
-- [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins) - Community plugins for Noctalia. (1 week ago)
+- [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins) - Community plugins for Noctalia. (2 weeks ago)
 - [hbollon/portfolio-nuxt](https://github.com/hbollon/portfolio-nuxt) - 🌌 A modern space-themed developer portfolio built with Nuxt 4 and Strapi CMS. Statically generated, multilingual (EN/FR), powered by Tailwind CSS with CI/CD and AWS deployment. (2 weeks ago)
 - [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland. (2 weeks ago)
 - [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) - Service to save and serve drawings (kml) to the frontend (1 month ago)
@@ -51,7 +51,7 @@ Outside of code, you’ll find me at the gym, playing airsoft, or enjoying anyth
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(shift): add Shift, a work-hours tracker](https://github.com/noctalia-dev/community-plugins/pull/1145) on [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins) (1 week ago)
+- [feat(shift): add Shift, a work-hours tracker](https://github.com/noctalia-dev/community-plugins/pull/1145) on [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins) (2 weeks ago)
 - [fix(panel): destroy a closing panel before unregistering it](https://github.com/noctalia-dev/noctalia/pull/4921) on [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) (2 weeks ago)
 - [docs: add general API documentation to readme](https://github.com/swissgeo/service-drawings/pull/17) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (1 month ago)
 - [GPS-951: set cache-control no-store on drawings](https://github.com/swissgeo/service-drawings/pull/15) on [swissgeo/service-drawings](https://github.com/swissgeo/service-drawings) (1 month ago)
